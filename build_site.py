@@ -481,6 +481,10 @@ def build_html(jobs, stats):
                 <option value="Nonpartisan">Nonpartisan</option>
             </select>
 
+            <select class="filter-select" id="filter-category">
+                <option value="">All Categories</option>
+            </select>
+
             <button class="sort-btn active" id="sort-posted" onclick="sortJobs('posted')">Recently Posted</button>
             <button class="sort-btn" id="sort-newest" onclick="sortJobs('newest')">Recently Tracked</button>
 
@@ -589,10 +593,19 @@ def build_html(jobs, stats):
             badges += `<span class="badge badge-new"><span class="new-indicator"></span>New</span>`;
         }}
         if (job.political_affiliation) {{
-            badges += `<span class="badge badge-category">${{escapeHtml(job.political_affiliation)}}</span>`;
+            const partyColors = {{
+                'Democratic': 'background:#dbeafe;color:#1e40af;border:1px solid #93c5fd',
+                'Republican': 'background:#fee2e2;color:#991b1b;border:1px solid #fca5a5',
+                'Nonpartisan': 'background:#e2e8f0;color:#475569;border:1px solid #cbd5e1',
+            }};
+            const ps = partyColors[job.political_affiliation] || '';
+            badges += `<span class="badge" style="${{ps}}">${{escapeHtml(job.political_affiliation)}}</span>`;
         }}
         if (job.position_type === 'Internships') {{
             badges += `<span class="badge badge-category">Internship</span>`;
+        }}
+        if (job.category) {{
+            badges += `<span class="badge badge-category">${{escapeHtml(job.category)}}</span>`;
         }}
 
         return `
@@ -623,6 +636,7 @@ def build_html(jobs, stats):
         const typeFilter = document.getElementById('filter-type').value;
         const locationFilter = document.getElementById('filter-location').value;
         const partyFilter = document.getElementById('filter-party').value;
+        const categoryFilter = document.getElementById('filter-category').value;
 
         filteredJobs = JOBS.filter(job => {{
             // Search
@@ -651,6 +665,9 @@ def build_html(jobs, stats):
 
             // Political affiliation filter
             if (partyFilter && job.political_affiliation !== partyFilter) return false;
+
+            // Category filter
+            if (categoryFilter && job.category !== categoryFilter) return false;
 
             return true;
         }});
@@ -712,6 +729,17 @@ def build_html(jobs, stats):
     document.getElementById('filter-type').addEventListener('change', filterAndRender);
     document.getElementById('filter-location').addEventListener('change', filterAndRender);
     document.getElementById('filter-party').addEventListener('change', filterAndRender);
+    document.getElementById('filter-category').addEventListener('change', filterAndRender);
+
+    // Populate category filter dynamically
+    const categories = [...new Set(JOBS.map(j => j.category).filter(Boolean))].sort();
+    const catSelect = document.getElementById('filter-category');
+    categories.forEach(cat => {{
+        const opt = document.createElement('option');
+        opt.value = cat;
+        opt.textContent = cat;
+        catSelect.appendChild(opt);
+    }});
 
     function debounce(fn, ms) {{
         let timer;
