@@ -1,6 +1,5 @@
 __pycache__/
 *.pyc
-jobs.db
 jobs.db-shm
 jobs.db-wal
 .env
