@@ -324,7 +324,7 @@
     <div class="header">
         <div class="header-content">
             <h1>Congressional Job Tracker</h1>
-            <p>Aggregating employment opportunities across the U.S. Congress. Updated March 18, 2026 at 06:31 AM UTC.</p>
+            <p>Aggregating employment opportunities across the U.S. Congress. Updated March 18, 2026 at 06:36 AM UTC.</p>
         </div>
     </div>
 
@@ -346,10 +346,10 @@
             <div class="stat-label">U.S. House</div>
             <div class="stat-meta">Last updated: Mar 18, 2026 06:31 AM</div>
         </div>
-        <div class="stat-card" style="border-left: 4px solid #22543d">
-            <div class="stat-number">0</div>
+        <div class="stat-card" style="border-left: 4px solid #22543d;opacity:0.6">
+            <div class="stat-number" style="font-size:1.2rem">Coming Soon</div>
             <div class="stat-label">USA Jobs</div>
-            <div class="stat-meta">Last updated: Never</div>
+            <div class="stat-meta">GAO, Library of Congress, Capitol Police, AOC</div>
         </div>
         </div>
 
@@ -475,7 +475,9 @@
     function renderJob(job) {
         const sc = sourceColors[job.source] || { bg: '#f7fafc', color: '#4a5568' };
         const isNew = isNewJob(job);
-        const desc = job.description ? `<div class="job-desc">${escapeHtml(job.description)}</div>` : '';
+        const desc = job.description
+            ? `<div class="job-desc">${escapeHtml(job.description)}</div>`
+            : (job.url ? `<div class="job-desc" style="font-style:italic;opacity:0.6">View full posting for details.</div>` : '');
 
         let metaItems = '';
         if (job.office) {

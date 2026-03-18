@@ -106,7 +106,16 @@ def build_html(jobs, stats):
                 last = dt.strftime('%b %d, %Y %I:%M %p')
             except:
                 pass
-        source_cards += f'''
+
+        if src == 'usajobs' and count == 0:
+            source_cards += f'''
+        <div class="stat-card" style="border-left: 4px solid {source_color(src)};opacity:0.6">
+            <div class="stat-number" style="font-size:1.2rem">Coming Soon</div>
+            <div class="stat-label">{source_label(src)}</div>
+            <div class="stat-meta">GAO, Library of Congress, Capitol Police, AOC</div>
+        </div>'''
+        else:
+            source_cards += f'''
         <div class="stat-card" style="border-left: 4px solid {source_color(src)}">
             <div class="stat-number">{count}</div>
             <div class="stat-label">{source_label(src)}</div>
@@ -575,7 +584,9 @@ def build_html(jobs, stats):
     function renderJob(job) {{
         const sc = sourceColors[job.source] || {{ bg: '#f7fafc', color: '#4a5568' }};
         const isNew = isNewJob(job);
-        const desc = job.description ? `<div class="job-desc">${{escapeHtml(job.description)}}</div>` : '';
+        const desc = job.description
+            ? `<div class="job-desc">${{escapeHtml(job.description)}}</div>`
+            : (job.url ? `<div class="job-desc" style="font-style:italic;opacity:0.6">View full posting for details.</div>` : '');
 
         let metaItems = '';
         if (job.office) {{
@@ -792,11 +803,28 @@ def build_rss(jobs):
 
         item_desc = ' | '.join(desc_parts)
 
+        # Generate pubDate from posted_date
+        pub_date_str = ''
+        posted = job.get('posted_date', '')
+        if posted:
+            try:
+                from datetime import datetime as dt2
+                for fmt in ['%B %d, %Y', '%m/%d/%Y', '%Y-%m-%dT%H:%M:%S']:
+                    try:
+                        pd = dt2.strptime(posted, fmt)
+                        pub_date_str = pd.strftime('%a, %d %b %Y 00:00:00 +0000')
+                        break
+                    except ValueError:
+                        continue
+            except:
+                pass
+
         items.append(f"""    <item>
       <title>{title} - {xml_escape(source_label)}</title>
       <link>{url}</link>
       <description>{item_desc}</description>
       <guid isPermaLink="false">{job.get('source', '')}-{job.get('source_id', job.get('id', ''))}</guid>
+      {f'<pubDate>{pub_date_str}</pubDate>' if pub_date_str else ''}
       {f'<category>{category}</category>' if category else ''}
     </item>""")
 
