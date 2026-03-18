@@ -9,7 +9,7 @@ from datetime import datetime
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from database import get_connection, init_db
 
-OUTPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'site')
+OUTPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'docs')
 
 
 def get_jobs_data():
