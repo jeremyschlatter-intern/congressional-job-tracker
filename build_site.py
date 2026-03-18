@@ -5,6 +5,7 @@ import json
 import os
 import sys
 from datetime import datetime
+from xml.sax.saxutils import escape as xml_escape
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from database import get_connection, init_db
@@ -118,6 +119,7 @@ def build_html(jobs, stats):
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Congressional Job Tracker</title>
+    <link rel="alternate" type="application/rss+xml" title="Congressional Job Tracker" href="feed.xml">
     <style>
         :root {{
             --navy: #1a365d;
@@ -507,10 +509,11 @@ def build_html(jobs, stats):
             <a href="https://careers.employment.senate.gov/" target="_blank">Senate Employment Office</a>,
             <a href="https://house.csodfed.com/ux/ats/careersite/3/home?c=house" target="_blank">House Career Portal</a>, and
             <a href="https://www.usajobs.gov/" target="_blank">USA Jobs</a>.
+            &bull; <a href="jobs.json">JSON API</a>
+            &bull; <a href="feed.xml">RSS Feed</a>
         </p>
         <p style="margin-top:0.5rem">
-            Built by <a href="https://palisaderesearch.org" target="_blank">Palisade Research</a>
-            to demonstrate AI-driven legislative technology.
+            A project of <a href="https://palisaderesearch.org" target="_blank">Palisade Research</a>. Data updated daily.
         </p>
     </div>
 
@@ -758,6 +761,59 @@ def build_html(jobs, stats):
     return html
 
 
+def build_rss(jobs):
+    """Generate an RSS feed of recent jobs."""
+    now = datetime.utcnow().strftime('%a, %d %b %Y %H:%M:%S +0000')
+    site_url = 'https://jeremyschlatter-intern.github.io/congressional-job-tracker/'
+
+    items = []
+    # Include recent jobs (sorted by posted date, limit 50)
+    sorted_jobs = sorted(jobs, key=lambda j: j.get('posted_date', '') or '', reverse=True)[:50]
+
+    for job in sorted_jobs:
+        title = xml_escape(job.get('title', ''))
+        office = xml_escape(job.get('office', ''))
+        location = xml_escape(job.get('location', ''))
+        desc = xml_escape(job.get('description', '') or '')
+        url = xml_escape(job.get('url', ''))
+        source_label = {'senate': 'U.S. Senate', 'house': 'U.S. House', 'usajobs': 'USA Jobs'}.get(job.get('source', ''), '')
+        party = job.get('political_affiliation', '')
+        category = xml_escape(job.get('category', '') or '')
+
+        desc_parts = []
+        if office:
+            desc_parts.append(f"Office: {office}")
+        if location:
+            desc_parts.append(f"Location: {location}")
+        if party:
+            desc_parts.append(f"Affiliation: {xml_escape(party)}")
+        if desc:
+            desc_parts.append(desc)
+
+        item_desc = ' | '.join(desc_parts)
+
+        items.append(f"""    <item>
+      <title>{title} - {xml_escape(source_label)}</title>
+      <link>{url}</link>
+      <description>{item_desc}</description>
+      <guid isPermaLink="false">{job.get('source', '')}-{job.get('source_id', job.get('id', ''))}</guid>
+      {f'<category>{category}</category>' if category else ''}
+    </item>""")
+
+    rss = f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Congressional Job Tracker</title>
+    <link>{site_url}</link>
+    <description>Aggregating employment opportunities across the U.S. Congress</description>
+    <lastBuildDate>{now}</lastBuildDate>
+    <atom:link href="{site_url}feed.xml" rel="self" type="application/rss+xml"/>
+{chr(10).join(items)}
+  </channel>
+</rss>"""
+    return rss
+
+
 def build():
     """Build the static site."""
     init_db()
@@ -772,7 +828,7 @@ def build():
 
     print(f"Built site with {stats['total']} jobs -> {output_path}")
 
-    # Also generate a JSON data file for programmatic access
+    # Generate JSON data
     json_path = os.path.join(OUTPUT_DIR, 'jobs.json')
     with open(json_path, 'w') as f:
         json.dump({
@@ -783,6 +839,13 @@ def build():
         }, f, indent=2, default=str)
 
     print(f"Generated JSON data -> {json_path}")
+
+    # Generate RSS feed
+    rss_path = os.path.join(OUTPUT_DIR, 'feed.xml')
+    with open(rss_path, 'w') as f:
+        f.write(build_rss(jobs))
+
+    print(f"Generated RSS feed -> {rss_path}")
 
 
 if __name__ == '__main__':

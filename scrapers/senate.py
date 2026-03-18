@@ -72,6 +72,37 @@ def build_enrichment_maps():
     return affiliation_map, category_map
 
 
+def normalize_location(loc):
+    """Normalize location format: 'Washington, District of Columbia' -> 'Washington, DC'."""
+    state_abbrevs = {
+        'District of Columbia': 'DC', 'Alabama': 'AL', 'Alaska': 'AK',
+        'Arizona': 'AZ', 'Arkansas': 'AR', 'California': 'CA',
+        'Colorado': 'CO', 'Connecticut': 'CT', 'Delaware': 'DE',
+        'Florida': 'FL', 'Georgia': 'GA', 'Hawaii': 'HI', 'Idaho': 'ID',
+        'Illinois': 'IL', 'Indiana': 'IN', 'Iowa': 'IA', 'Kansas': 'KS',
+        'Kentucky': 'KY', 'Louisiana': 'LA', 'Maine': 'ME', 'Maryland': 'MD',
+        'Massachusetts': 'MA', 'Michigan': 'MI', 'Minnesota': 'MN',
+        'Mississippi': 'MS', 'Missouri': 'MO', 'Montana': 'MT',
+        'Nebraska': 'NE', 'Nevada': 'NV', 'New Hampshire': 'NH',
+        'New Jersey': 'NJ', 'New Mexico': 'NM', 'New York': 'NY',
+        'North Carolina': 'NC', 'North Dakota': 'ND', 'Ohio': 'OH',
+        'Oklahoma': 'OK', 'Oregon': 'OR', 'Pennsylvania': 'PA',
+        'Rhode Island': 'RI', 'South Carolina': 'SC', 'South Dakota': 'SD',
+        'Tennessee': 'TN', 'Texas': 'TX', 'Utah': 'UT', 'Vermont': 'VT',
+        'Virginia': 'VA', 'Washington': 'WA', 'West Virginia': 'WV',
+        'Wisconsin': 'WI', 'Wyoming': 'WY',
+    }
+    if not loc:
+        return loc
+    parts = [p.strip() for p in loc.split(',')]
+    if len(parts) >= 2:
+        state_name = parts[-1].strip()
+        if state_name in state_abbrevs:
+            parts[-1] = ' ' + state_abbrevs[state_name]
+            return ','.join(parts).strip()
+    return loc
+
+
 def parse_job(raw, affiliation_map=None, category_map=None):
     """Parse a raw Senate API job into our standard format."""
     job_id = raw['id']
@@ -89,7 +120,7 @@ def parse_job(raw, affiliation_map=None, category_map=None):
         'source_id': str(job_id),
         'title': raw.get('title', ''),
         'office': raw.get('company', {}).get('name', ''),
-        'location': raw.get('location', ''),
+        'location': normalize_location(raw.get('location', '')),
         'url': raw.get('url', ''),
         'posted_date': raw.get('posted_date', ''),
         'description': raw.get('shortDescription', ''),

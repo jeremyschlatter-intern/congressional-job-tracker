@@ -97,7 +97,12 @@ def parse_job(raw, site_id, office_name):
         city = loc.get('city', '')
         state = loc.get('state', '')
         if city and state and city != 'None':
-            location = f"{city.title()}, {state}"
+            # Normalize: "WASHINGTON, DC" -> "Washington, DC"
+            city_norm = city.title()
+            if state == 'DC' and city_norm == 'Washington':
+                location = "Washington, DC"
+            else:
+                location = f"{city_norm}, {state}"
         elif state:
             location = state
         else:
