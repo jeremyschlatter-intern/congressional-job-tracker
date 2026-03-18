@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 18 Mar 2026 13:26:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 22:34:36 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -95,14 +95,6 @@
       <category>Communications</category>
     </item>
     <item>
-      <title>Staff Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-0695</link>
-      <description>Office: Senator Patty Murray | Location: Washington, DC | Affiliation: Democratic | STAFF ASSISTANT U.S. Senator Patty Murray’s D.C. Office seeks a proactive, resourceful, detail-oriented person with strong writing and organizational skills to fill the Staff Assistant position. Succe...</description>
-      <guid isPermaLink="false">senate-49</guid>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
-    </item>
-    <item>
       <title>Senior IT Manager #165 - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/senior-it-manager-165-washington-district-of-columbia-0694</link>
       <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Sergeant at Arms Enterprise Application and Development (EAD) team is seeking a Senior IT Manager with strong enterprise leadership capabilities and significant experience supporting PeopleSoft-ba...</description>
@@ -175,28 +167,12 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Senior Product Owner #5481 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/senior-product-owner-5481-washington-district-of-columbia-0681</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Sergeant at Arms is hiring a Senior Product Owner for its Legislative Systems team of the Enterprise Applications and Development (EAD) department, within the Sergeant at Arms’ (SAA) Office...</description>
-      <guid isPermaLink="false">senate-39</guid>
-      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
-    </item>
-    <item>
       <title>Press &amp; Digital Assistant - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/press-digital-assistant-washington-district-of-columbia-0680</link>
       <description>Office: Senator Kirsten E. Gillibrand | Location: Washington, DC | Affiliation: Democratic | The office of U.S. Senator Kirsten Gillibrand is seeking a Press &amp;amp; Digital Assistant to join our office’s fast-moving communications team. Responsibilities include tracking media hits; building an...</description>
       <guid isPermaLink="false">senate-38</guid>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
-    </item>
-    <item>
-      <title>Cybersecurity Senior Specialist #5301 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/cybersecurity-senior-specialist-5301-washington-district-of-columbia-0677</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Sergeant at Arms helps uphold the operational integrity of the Senate community. The Cybersecurity Department protects the systems and information used to create the legislation that underwrites o...</description>
-      <guid isPermaLink="false">senate-37</guid>
-      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
     </item>
     <item>
       <title>Legislative Assistant - U.S. Senate</title>
@@ -221,6 +197,38 @@
       <guid isPermaLink="false">senate-34</guid>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Senior Cloud Engineer - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4167?c=house</link>
+      <description>Office: House Support Offices | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-130</guid>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Manager (Compliance), Office of Payroll and Benefits - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4278?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-129</guid>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Senior Program Manager #5420 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/senior-program-manager-5420-washington-district-of-columbia-0736</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The State Office Readiness Program Senior Program Managers are responsible for security management for a portfolio of state offices. The management includes significant oversight of our security contr...</description>
+      <guid isPermaLink="false">senate-128</guid>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
+    </item>
+    <item>
+      <title>Staff Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-0735</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Republican Senator seeks an organized, energetic, and detail-oriented staff assistant. This person will possess a high degree of organization with the ability to multi-task in a faced-paced environmen...</description>
+      <guid isPermaLink="false">senate-127</guid>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
     </item>
     <item>
       <title>Broadcast Production Technician - U.S. House</title>
@@ -397,14 +405,6 @@
       <guid isPermaLink="false">senate-65</guid>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
       <category>Senate Support</category>
-    </item>
-    <item>
-      <title>Digital Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/digital-assistant-washington-district-of-columbia-0712</link>
-      <description>Office: Senator John Kennedy | Location: Washington, DC | Affiliation: Republican | U.S. Senator John Kennedy (R-LA) is seeking a Digital Assistant to join his fast-paced communications team. This is a hands-on role for a strong writer with a digital background who can work quickly a...</description>
-      <guid isPermaLink="false">senate-64</guid>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
     </item>
   </channel>
 </rss>
