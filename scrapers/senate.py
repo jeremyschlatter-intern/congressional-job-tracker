@@ -18,48 +18,75 @@ HEADERS = {
 }
 
 
-def fetch_all_jobs():
-    """Fetch all jobs from the Senate Employment API."""
+POLITICAL_AFFILIATIONS = {
+    680: 'Democratic',
+    683: 'Republican',
+    682: 'Nonpartisan',
+}
+
+CATEGORIES = [
+    'Legislative / Policy',
+    'Communications',
+    'Administrative',
+    'Senate Support',
+    'Constituent Services',
+]
+
+
+def fetch_all_pages(url_suffix=""):
+    """Fetch all paginated results from the Senate API."""
     all_jobs = []
     page = 1
-
     while True:
-        resp = requests.get(f"{API_URL}?page={page}", headers=HEADERS, timeout=30)
+        sep = '&' if '?' in url_suffix else '?'
+        resp = requests.get(f"{API_URL}{url_suffix}{sep}page={page}", headers=HEADERS, timeout=30)
         resp.raise_for_status()
         data = resp.json()
-
         jobs = data.get('data', [])
         if not jobs:
             break
-
         all_jobs.extend(jobs)
-
-        meta = data.get('meta', {})
-        last_page = meta.get('last_page', 1)
-        if page >= last_page:
+        if page >= data.get('meta', {}).get('last_page', 1):
             break
         page += 1
-
     return all_jobs
 
 
-def parse_job(raw):
+def fetch_all_jobs():
+    """Fetch all jobs from the Senate Employment API."""
+    return fetch_all_pages()
+
+
+def build_enrichment_maps():
+    """Build mappings from job ID to political affiliation and category."""
+    affiliation_map = {}
+    for filter_val, label in POLITICAL_AFFILIATIONS.items():
+        for job in fetch_all_pages(f"?filter_1={filter_val}"):
+            affiliation_map[job['id']] = label
+
+    category_map = {}
+    for cat in CATEGORIES:
+        for job in fetch_all_pages(f"?job_type_filter={cat}"):
+            category_map[job['id']] = cat
+
+    return affiliation_map, category_map
+
+
+def parse_job(raw, affiliation_map=None, category_map=None):
     """Parse a raw Senate API job into our standard format."""
+    job_id = raw['id']
+
     # Extract custom fields
     custom = {item['path']: item['value'] for item in raw.get('customBlockList', [])}
 
-    # Extract salary from custom blocks if available
+    # Get enriched data
+    political = (affiliation_map or {}).get(job_id, custom.get('local_political_affiliation', ''))
+    category = (category_map or {}).get(job_id, custom.get('local_job_type', ''))
     salary = custom.get('local_salary', None)
-
-    # Determine category from custom blocks
-    category = custom.get('local_job_type', None)
-
-    # Political affiliation from company or custom blocks
-    political = custom.get('local_political_affiliation', None)
 
     return {
         'source': SOURCE,
-        'source_id': str(raw['id']),
+        'source_id': str(job_id),
         'title': raw.get('title', ''),
         'office': raw.get('company', {}).get('name', ''),
         'location': raw.get('location', ''),
@@ -84,11 +111,15 @@ def scrape():
         raw_jobs = fetch_all_jobs()
         print(f"[Senate] Fetched {len(raw_jobs)} jobs from API")
 
+        print("[Senate] Building enrichment maps (affiliation, category)...")
+        affiliation_map, category_map = build_enrichment_maps()
+        print(f"[Senate] Mapped {len(affiliation_map)} affiliations, {len(category_map)} categories")
+
         new_count = 0
         active_ids = []
 
         for raw in raw_jobs:
-            job_data = parse_job(raw)
+            job_data = parse_job(raw, affiliation_map, category_map)
             active_ids.append(job_data['source_id'])
             is_new = upsert_job(conn, job_data)
             if is_new:

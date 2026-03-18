@@ -474,6 +474,13 @@ def build_html(jobs, stats):
                 <option value="other">Outside DC</option>
             </select>
 
+            <select class="filter-select" id="filter-party">
+                <option value="">All Affiliations</option>
+                <option value="Democratic">Democratic</option>
+                <option value="Republican">Republican</option>
+                <option value="Nonpartisan">Nonpartisan</option>
+            </select>
+
             <button class="sort-btn active" id="sort-posted" onclick="sortJobs('posted')">Recently Posted</button>
             <button class="sort-btn" id="sort-newest" onclick="sortJobs('newest')">Recently Tracked</button>
 
@@ -615,6 +622,7 @@ def build_html(jobs, stats):
         const sourceFilter = document.getElementById('filter-source').value;
         const typeFilter = document.getElementById('filter-type').value;
         const locationFilter = document.getElementById('filter-location').value;
+        const partyFilter = document.getElementById('filter-party').value;
 
         filteredJobs = JOBS.filter(job => {{
             // Search
@@ -640,6 +648,9 @@ def build_html(jobs, stats):
                 const loc = (job.location || '').toLowerCase();
                 if (loc.includes('washington') || loc.includes('d.c.') || loc.includes(', dc')) return false;
             }}
+
+            // Political affiliation filter
+            if (partyFilter && job.political_affiliation !== partyFilter) return false;
 
             return true;
         }});
@@ -700,6 +711,7 @@ def build_html(jobs, stats):
     document.getElementById('filter-source').addEventListener('change', filterAndRender);
     document.getElementById('filter-type').addEventListener('change', filterAndRender);
     document.getElementById('filter-location').addEventListener('change', filterAndRender);
+    document.getElementById('filter-party').addEventListener('change', filterAndRender);
 
     function debounce(fn, ms) {{
         let timer;
