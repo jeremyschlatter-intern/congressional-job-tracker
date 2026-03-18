@@ -4,8 +4,16 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 18 Mar 2026 06:36:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 06:39:21 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4019?c=house</link>
+      <description>Office: House Support Offices | Location: AZ</description>
+      <guid isPermaLink="false">house-125</guid>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
     <item>
       <title>Law Fellow - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/law-fellow-washington-district-of-columbia-0306</link>
@@ -13,6 +21,14 @@
       <guid isPermaLink="false">senate-1</guid>
       <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4017?c=house</link>
+      <description>Office: House Support Offices | Location: Pittsburgh, PA</description>
+      <guid isPermaLink="false">house-126</guid>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <category>House Support</category>
     </item>
     <item>
       <title>Summer Law Clerk - U.S. Senate</title>
@@ -207,6 +223,14 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
+      <title>Broadcast Production Technician - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4276?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-85</guid>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
       <title>Senior Policy and Communications Advisor - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/senior-policy-and-communications-advisor-washington-district-of-columbia-0733</link>
       <description>Office: Senator Eric Schmitt | Location: Washington, DC | Affiliation: Republican | Senator Eric Schmitt is currently accepting applications for a Senior Policy and Communications Advisor to help shape and advance the Senator’s legislative and messaging agenda. This role will support...</description>
@@ -221,6 +245,14 @@
       <guid isPermaLink="false">senate-83</guid>
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
       <category>Senate Support</category>
+    </item>
+    <item>
+      <title>House Security Staff - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4149?c=house</link>
+      <description>Office: House Support Offices | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-88</guid>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
     </item>
     <item>
       <title>Constituent Advocate-Pueblo, Colorado - U.S. Senate</title>
@@ -372,38 +404,6 @@
       <description>Office: Senator John Kennedy | Location: Washington, DC | Affiliation: Republican | U.S. Senator John Kennedy (R-LA) is seeking a Digital Assistant to join his fast-paced communications team. This is a hands-on role for a strong writer with a digital background who can work quickly a...</description>
       <guid isPermaLink="false">senate-64</guid>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
-      <title>Military Legislative Assistant (MLA) - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/military-legislative-assistant-mla-washington-district-of-columbia-0711</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Midwest Republican Senator and senior appropriator seeks a Military Legislative Assistant (MLA) to join their Washington, D.C. office. The MLA will be responsible for committees of jurisdiction, inclu...</description>
-      <guid isPermaLink="false">senate-63</guid>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Professional Staff Member - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/professional-staff-member-washington-district-of-columbia-0710</link>
-      <description>Office: Budget - Republicans | Location: Washington, DC | Affiliation: Republican | The Senate Budget Committee seeks a Republican professional staff member to cover a portfolio that includes education, labor and social service issues. Successful candidates will be motivated, detail-...</description>
-      <guid isPermaLink="false">senate-62</guid>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Legislative Correspondent - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-correspondent-washington-district-of-columbia-0709</link>
-      <description>Office: Senator John Kennedy | Location: Washington, DC | Affiliation: Republican | Senator John Kennedy (R-La) seeks a Legislative Correspondent for his Washington, D.C. office. The portfolio includes health, education, labor, and welfare issues, and this position also supports appr...</description>
-      <guid isPermaLink="false">senate-61</guid>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Press Secretary - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/press-secretary-washington-district-of-columbia-0708</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | Midwest Democratic Senator seeks a Press Secretary based in Washington, D.C. The ideal candidate is an excellent writer, works well in a team environment, has keen attention to detail, and can meet ti...</description>
-      <guid isPermaLink="false">senate-60</guid>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
     </item>
   </channel>

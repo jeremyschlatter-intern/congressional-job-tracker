@@ -89,6 +89,19 @@ def fetch_jobs_for_site(session, token, site_id, page_size=100):
     return all_reqs
 
 
+def normalize_date(date_str):
+    """Normalize date format: '3/17/2026' -> 'March 17, 2026'."""
+    if not date_str:
+        return date_str
+    try:
+        from datetime import datetime
+        # Try m/d/yyyy format
+        dt = datetime.strptime(date_str, '%m/%d/%Y')
+        return dt.strftime('%B %d, %Y')
+    except ValueError:
+        return date_str
+
+
 def parse_job(raw, site_id, office_name):
     """Parse a CSOD requisition into our standard format."""
     locations = raw.get('locations', [])
@@ -120,7 +133,7 @@ def parse_job(raw, site_id, office_name):
         'office': office_name,
         'location': location,
         'url': url,
-        'posted_date': raw.get('postingEffectiveDate', ''),
+        'posted_date': normalize_date(raw.get('postingEffectiveDate', '')),
         'description': '',
         'salary': '',
         'category': 'House Support' if site_id in (1, 3, 5) else 'House Member/Committee',
