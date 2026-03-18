@@ -496,6 +496,10 @@ def build_html(jobs, stats):
                 <option value="">All Categories</option>
             </select>
 
+            <label class="filter-checkbox" style="display:flex;align-items:center;gap:0.4rem;font-size:0.9rem;cursor:pointer">
+                <input type="checkbox" id="filter-new" style="cursor:pointer"> New this week
+            </label>
+
             <button class="sort-btn active" id="sort-posted" onclick="sortJobs('posted')">Recently Posted</button>
             <button class="sort-btn" id="sort-newest" onclick="sortJobs('newest')">Recently Tracked</button>
 
@@ -651,6 +655,7 @@ def build_html(jobs, stats):
         const locationFilter = document.getElementById('filter-location').value;
         const partyFilter = document.getElementById('filter-party').value;
         const categoryFilter = document.getElementById('filter-category').value;
+        const newOnly = document.getElementById('filter-new').checked;
 
         filteredJobs = JOBS.filter(job => {{
             // Search
@@ -682,6 +687,9 @@ def build_html(jobs, stats):
 
             // Category filter
             if (categoryFilter && job.category !== categoryFilter) return false;
+
+            // New this week filter
+            if (newOnly && !isNewJob(job)) return false;
 
             return true;
         }});
@@ -744,6 +752,7 @@ def build_html(jobs, stats):
     document.getElementById('filter-location').addEventListener('change', filterAndRender);
     document.getElementById('filter-party').addEventListener('change', filterAndRender);
     document.getElementById('filter-category').addEventListener('change', filterAndRender);
+    document.getElementById('filter-new').addEventListener('change', filterAndRender);
 
     // Populate category filter dynamically
     const categories = [...new Set(JOBS.map(j => j.category).filter(Boolean))].sort();
