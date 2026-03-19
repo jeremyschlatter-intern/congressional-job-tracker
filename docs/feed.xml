@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 18 Mar 2026 22:34:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 13:20:17 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -196,6 +196,14 @@
       <description>Office: Agriculture, Nutrition, and Forestry - Democrats | Location: Washington, DC | Affiliation: Democratic | Senator Klobuchar offers summer internship positions on the Agriculture Committee to qualified candidates. The program is an opportunity for motivated undergraduates, graduate students, and recent gra...</description>
       <guid isPermaLink="false">senate-34</guid>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Legislative Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legislative-assistant-washington-district-of-columbia-0737</link>
+      <description>Office: Senator Thom Tillis | Location: Washington, DC | Affiliation: Republican | Senator Thom Tillis (R-NC) seeks a Legislative Assistant to lead a portfolio covering foreign policy, defense, and related national security issues. This is a non-entry-level position supporting the S...</description>
+      <guid isPermaLink="false">senate-131</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
     </item>
     <item>
@@ -397,14 +405,6 @@
       <guid isPermaLink="false">senate-66</guid>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
-    </item>
-    <item>
-      <title>Senior Systems Engineer #294 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/senior-systems-engineer-294-washington-district-of-columbia-0713</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Senior Systems Engineer oversees collaboration across departments with Engineering team members, interacts with end users to gather requirements, performs troubleshooting, assists with customer se...</description>
-      <guid isPermaLink="false">senate-65</guid>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
     </item>
   </channel>
 </rss>
