@@ -4,16 +4,8 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Thu, 19 Mar 2026 13:20:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 22:30:53 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4019?c=house</link>
-      <description>Office: House Support Offices | Location: AZ</description>
-      <guid isPermaLink="false">house-125</guid>
-      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
     <item>
       <title>Law Fellow - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/law-fellow-washington-district-of-columbia-0306</link>
@@ -199,6 +191,46 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
+      <title>Summer 2026 Internship - Dallas, TX - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/summer-2026-internship-dallas-tx-dallas-texas-0742</link>
+      <description>Office: Senator John Cornyn | Location: Dallas, TX | Affiliation: Republican | The North Texas Regional Office of U.S. Senator John Cornyn, located in Dallas, Texas is now accepting resumes from college students and recent college graduates seeking an internship for the Summer o...</description>
+      <guid isPermaLink="false">senate-136</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
+    </item>
+    <item>
+      <title>Law Clerks - Fall 2026 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/law-clerks-fall-2026-washington-district-of-columbia-0741</link>
+      <description>Office: Homeland Security and Governmental Affairs - Democrats | Location: Washington, DC | Affiliation: Democratic | Democratic Ranking Member of the Permanent Subcommittee on Investigations is seeking law clerks to assist the subcommittee with its investigations during the Fall 2026. Qualified candidates will have...</description>
+      <guid isPermaLink="false">senate-135</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Communications Director - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/communications-director-washington-district-of-columbia-0740</link>
+      <description>Office: Senator Angela D. Alsobrooks | Location: Washington, DC | Affiliation: Democratic | The Office of U.S. Senator Angela D. Alsobrooks is seeking a Communications Director to lead a fast-paced communications operation in Washington, D.C. This individual will serve as the office’s lead m...</description>
+      <guid isPermaLink="false">senate-134</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Scheduling Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/scheduling-assistant-washington-district-of-columbia-0739</link>
+      <description>Office: Senator John Kennedy | Location: Washington, DC | Affiliation: Republican | Senator John Kennedy seeks a Scheduling Assistant for his Washington, DC office. Responsibilities include supporting the Scheduler in the management of the Senator’s calendar, assisting with travel ar...</description>
+      <guid isPermaLink="false">senate-133</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
+    </item>
+    <item>
+      <title>Climate Policy Advisor - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/climate-policy-advisor-washington-district-of-columbia-0738</link>
+      <description>Office: Environment and Public Works - Democrats | Location: Washington, DC | Affiliation: Democratic | The Ranking Member of the Senate Environment and Public Works Committee seeks a climate policy advisor. Candidates should have a deep background in carbon pricing, carbon tariffs, and other market-bas...</description>
+      <guid isPermaLink="false">senate-132</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
       <title>Legislative Assistant - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/legislative-assistant-washington-district-of-columbia-0737</link>
       <description>Office: Senator Thom Tillis | Location: Washington, DC | Affiliation: Republican | Senator Thom Tillis (R-NC) seeks a Legislative Assistant to lead a portfolio covering foreign policy, defense, and related national security issues. This is a non-entry-level position supporting the S...</description>
@@ -373,38 +405,6 @@
       <guid isPermaLink="false">senate-70</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Press Secretary - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/press-secretary-washington-district-of-columbia-0717</link>
-      <description>Office: Homeland Security and Governmental Affairs - Democrats | Location: Washington, DC | Affiliation: Democratic | The Democratic staff of the Senate Homeland Security and Governmental Affairs Committee is seeking an experienced communications professional to join a fast-paced and proactive press office. This role...</description>
-      <guid isPermaLink="false">senate-69</guid>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
-      <title>Communications Intern - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/communications-intern-washington-district-of-columbia-0716</link>
-      <description>Office: Senator Michael F. Bennet | Location: Washington, DC | Affiliation: Democratic | The Office of U.S. Senator Michael Bennet seeks a motivated, detail-oriented Communications Intern for the Summer 2026 term in Washington, D.C. This is a paid position. This internship will begin May...</description>
-      <guid isPermaLink="false">senate-68</guid>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
-      <title>Summer 2026 Finance Committee Tax Intern/Law Clerk - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/summer-2026-finance-committee-tax-intern-law-clerk-washington-district-of-columbia-0715</link>
-      <description>Office: Finance - Democrats | Location: Washington, DC | Affiliation: Democratic | The Senate Committee on Finance Minority office (Ranking Member Wyden) is seeking a full-time intern, fellow, or law clerk to assist the Committee’s tax team for the Summer of 2026. Interns, fellows,...</description>
-      <guid isPermaLink="false">senate-67</guid>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Staff Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-0714</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | Northeast Democratic senator is seeking a staff assistant for their Washington, DC office. Applicants must be detail oriented, well organized, able to handle a fast-paced work environment, work well i...</description>
-      <guid isPermaLink="false">senate-66</guid>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
     </item>
   </channel>
 </rss>
