@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Fri, 20 Mar 2026 13:13:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 22:30:31 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Law Fellow - U.S. Senate</title>
@@ -157,6 +157,46 @@
       <guid isPermaLink="false">senate-36</guid>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4284?c=house</link>
+      <description>Office: House Support Offices | Location: Garner, NC</description>
+      <guid isPermaLink="false">house-141</guid>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Systems Engineer - Enterprise Storage &amp; Data Protection - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4281?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-140</guid>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Manager, User Experience and Design - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4283?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-139</guid>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Research Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/research-assistant-washington-district-of-columbia-0744</link>
+      <description>Office: Commerce, Science, and Transportation - Democrats | Location: Washington, DC | Affiliation: Democratic | Democratic Ranking Member of the Commerce, Science, and Transportation Committee seeking qualified candidates to support work on science, manufacturing, technology, and innovation policy issues, inclu...</description>
+      <guid isPermaLink="false">senate-138</guid>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Senior Wireless Services Specialist #119 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/senior-wireless-services-specialist-119-washington-district-of-columbia-0743</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The U.S. Senate Sergeant at Arms (SAA) is seeking a skilled Senior Wireless Specialist to join the Chief Information Officer’s (CIO) Mobile Communications Services (MCS) team. In this customer-facing...</description>
+      <guid isPermaLink="false">senate-137</guid>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
     </item>
     <item>
       <title>Staff Assistant - U.S. Senate</title>
@@ -365,46 +405,6 @@
       <guid isPermaLink="false">senate-73</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Press Secretary - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/press-secretary-washington-district-of-columbia-0721</link>
-      <description>Office: Senator Eric Schmitt | Location: Washington, DC | Affiliation: Republican | Senator Eric Schmitt is seeking a Press Secretary to join his communications team. The Press Secretary will work closely with the Communications Director and the rest of the senior staff to advance th...</description>
-      <guid isPermaLink="false">senate-72</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
-      <title>Chief Counsel - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/chief-counsel-washington-district-of-columbia-0720</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | An active Democratic member of the Senate Judiciary Committee is seeking a Chief Counsel to oversee his robust body of work on the Judiciary Committee, aggressive oversight efforts, and all legal matt...</description>
-      <guid isPermaLink="false">senate-71</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Professional Staff Member - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/professional-staff-member-washington-district-of-columbia-0718</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Oversight Minded Senate Republican Committee Staff is seeking Professional Staff Member. The ideal candidate must have 3 or more years of relevant policy experience to be considered for a PSM position...</description>
-      <guid isPermaLink="false">senate-70</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Press Secretary - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/press-secretary-washington-district-of-columbia-0717</link>
-      <description>Office: Homeland Security and Governmental Affairs - Democrats | Location: Washington, DC | Affiliation: Democratic | The Democratic staff of the Senate Homeland Security and Governmental Affairs Committee is seeking an experienced communications professional to join a fast-paced and proactive press office. This role...</description>
-      <guid isPermaLink="false">senate-69</guid>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
-      <title>Communications Intern - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/communications-intern-washington-district-of-columbia-0716</link>
-      <description>Office: Senator Michael F. Bennet | Location: Washington, DC | Affiliation: Democratic | The Office of U.S. Senator Michael Bennet seeks a motivated, detail-oriented Communications Intern for the Summer 2026 term in Washington, D.C. This is a paid position. This internship will begin May...</description>
-      <guid isPermaLink="false">senate-68</guid>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
     </item>
   </channel>
 </rss>
