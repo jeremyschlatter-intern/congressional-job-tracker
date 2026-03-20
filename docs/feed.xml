@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Thu, 19 Mar 2026 22:30:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 13:13:23 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Law Fellow - U.S. Senate</title>
@@ -85,22 +85,6 @@
       <guid isPermaLink="false">senate-50</guid>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
-    </item>
-    <item>
-      <title>Senior IT Manager #165 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/senior-it-manager-165-washington-district-of-columbia-0694</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Sergeant at Arms Enterprise Application and Development (EAD) team is seeking a Senior IT Manager with strong enterprise leadership capabilities and significant experience supporting PeopleSoft-ba...</description>
-      <guid isPermaLink="false">senate-48</guid>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
-    </item>
-    <item>
-      <title>Senior Information Technology Manager #980 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/senior-information-technology-manager-980-washington-district-of-columbia-0693</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Sergeant at Arms is seeking an experienced and independent Senior Information Technology Manager to lead our Enterprise Systems department's core communications team. This critical role involves m...</description>
-      <guid isPermaLink="false">senate-47</guid>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
     </item>
     <item>
       <title>Oversight Counsel - U.S. Senate</title>
@@ -405,6 +389,22 @@
       <guid isPermaLink="false">senate-70</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Press Secretary - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/press-secretary-washington-district-of-columbia-0717</link>
+      <description>Office: Homeland Security and Governmental Affairs - Democrats | Location: Washington, DC | Affiliation: Democratic | The Democratic staff of the Senate Homeland Security and Governmental Affairs Committee is seeking an experienced communications professional to join a fast-paced and proactive press office. This role...</description>
+      <guid isPermaLink="false">senate-69</guid>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Communications Intern - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/communications-intern-washington-district-of-columbia-0716</link>
+      <description>Office: Senator Michael F. Bennet | Location: Washington, DC | Affiliation: Democratic | The Office of U.S. Senator Michael Bennet seeks a motivated, detail-oriented Communications Intern for the Summer 2026 term in Washington, D.C. This is a paid position. This internship will begin May...</description>
+      <guid isPermaLink="false">senate-68</guid>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
     </item>
   </channel>
 </rss>
