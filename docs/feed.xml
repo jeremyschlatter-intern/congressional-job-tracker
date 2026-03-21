@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sat, 21 Mar 2026 13:02:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 22:27:27 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -61,14 +61,6 @@
       <guid isPermaLink="false">senate-52</guid>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
-    </item>
-    <item>
-      <title>Accounts Payable Specialist - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/accounts-payable-specialist-washington-district-of-columbia-0697</link>
-      <description>Office: Secretary of the Senate | Location: Washington, DC | Affiliation: Nonpartisan | CAREER LADDER – ACCOUNTS PAYABLE SPECIALIST I  to ACCOUNTS PAYABLE SPECIALIST II Department : Senate Disbursing Office Reports to : Accounts Payable Supervisor This is a career ladder position in the...</description>
-      <guid isPermaLink="false">senate-51</guid>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
     </item>
     <item>
       <title>Press Assistant - U.S. Senate</title>
@@ -403,6 +395,14 @@
       <link>https://careers.employment.senate.gov/job/press-secretary-washington-district-of-columbia-0717</link>
       <description>Office: Homeland Security and Governmental Affairs - Democrats | Location: Washington, DC | Affiliation: Democratic | The Democratic staff of the Senate Homeland Security and Governmental Affairs Committee is seeking an experienced communications professional to join a fast-paced and proactive press office. This role...</description>
       <guid isPermaLink="false">senate-69</guid>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Communications Intern - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/communications-intern-washington-district-of-columbia-0716</link>
+      <description>Office: Senator Michael F. Bennet | Location: Washington, DC | Affiliation: Democratic | The Office of U.S. Senator Michael Bennet seeks a motivated, detail-oriented Communications Intern for the Summer 2026 term in Washington, D.C. This is a paid position. This internship will begin May...</description>
+      <guid isPermaLink="false">senate-68</guid>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
     </item>
