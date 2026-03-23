@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Mon, 23 Mar 2026 13:22:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 22:34:46 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -125,6 +125,78 @@
       <guid isPermaLink="false">senate-36</guid>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>People Experience Specialist - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4285?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-152</guid>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Printing &amp; Reprographics Specialist #28 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/printing-reprographics-specialist-28-washington-district-of-columbia-0753</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | As a Printing and Reprographics Specialist within Printing Graphics and Direct Mail’s (PGDM) Capitol Hill Print Facility, you will play a crucial role in processing high priority jobs for Senators, Co...</description>
+      <guid isPermaLink="false">senate-151</guid>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
+    </item>
+    <item>
+      <title>Senior System Engineer #308 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/senior-system-engineer-308-washington-district-of-columbia-0752</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Legislative Systems (SLS) team is part of the Enterprise Applications and Development (EAD) department within the U.S. Senate Sergeant at Arms (SAA) Chief Information Office (CIO). The SLS...</description>
+      <guid isPermaLink="false">senate-150</guid>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
+    </item>
+    <item>
+      <title>Legislative Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legislative-assistant-washington-district-of-columbia-0751</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Senior Republican Senator seeks Legislative Assistant in the Washington, DC office with a focus on health care and education policy. Responsibilities include monitoring legislation in assigned portfol...</description>
+      <guid isPermaLink="false">senate-149</guid>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Printing and Reprographics Specialist #386 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/printing-and-reprographics-specialist-386-landover-maryland-0750</link>
+      <description>Office: Senate Sergeant at Arms | Location: Landover, MD | Affiliation: Nonpartisan | As a Printing and Reprographics Specialist within Printing Graphics and Direct Mail’s (PGDM) Landover Print Facility, you will play a crucial role in processing high priority jobs for Senators, Commit...</description>
+      <guid isPermaLink="false">senate-148</guid>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
+    </item>
+    <item>
+      <title>Summer Legislative/Communications Intern - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/summer-legislative-communications-intern-washington-district-of-columbia-0749</link>
+      <description>Office: Environment and Public Works - Democrats | Location: Washington, DC | Affiliation: Democratic | The Ranking Member of the Senate Committee on Environment and Public Works is seeking applicants for a Communications/Legislative Internship for Summer 2026. The internship provides an opportunity to...</description>
+      <guid isPermaLink="false">senate-147</guid>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>2026 DC Press Internship - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/2026-dc-press-internship-washington-district-of-columbia-0748</link>
+      <description>Office: Senator Maria Cantwell | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Maria Cantwell is currently accepting applications for our paid summer press internship in Washington, D.C. This intern will work with the communications team under the guidance...</description>
+      <guid isPermaLink="false">senate-146</guid>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Staff Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-0747</link>
+      <description>Office: Senator Elissa Slotkin | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Slotkin is seeking a highly organized, detail-oriented, and mission-oriented individual to serve as Staff Assistant in her Washington, D.C. office. The Staff Assistant will be th...</description>
+      <guid isPermaLink="false">senate-145</guid>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
+    </item>
+    <item>
+      <title>Speechwriter - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/speechwriter-washington-district-of-columbia-0746</link>
+      <description>Office: Senator Elissa Slotkin | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Elissa Slotkin is seeking an experienced Speechwriter to serve in the Washington, DC office. The Speechwriter will be responsible for drafting written remarks for Senator Slotkin...</description>
+      <guid isPermaLink="false">senate-144</guid>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
     </item>
     <item>
       <title>Administrative Specialist #5222 - U.S. Senate</title>
@@ -333,78 +405,6 @@
       <guid isPermaLink="false">senate-79</guid>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
-    </item>
-    <item>
-      <title>Communications Director - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/communications-director-washington-district-of-columbia-0727</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Midwest Republican Senator has an opening for a Communications Director. The primary responsibilities include, but are not limited to, managing a team of communications staff; developing and implement...</description>
-      <guid isPermaLink="false">senate-78</guid>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
-      <title>Legislative Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-assistant-washington-district-of-columbia-0726</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Senior Republican member seeks a highly-motivated and experienced Legislative Assistant to advise on economic and/or domestic policy issues. Candidates should have strong communication, research, and...</description>
-      <guid isPermaLink="false">senate-77</guid>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Senior Coordinator of State Office Project Management #32 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/senior-coordinator-of-state-office-project-management-32-washington-district-of-columbia-0725</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Sergeant at Arms is seeking a Senior Coordinator of State Office Project Management. Join a dynamic team responsible for managing the opening, renovation, and relocation of Senate state off...</description>
-      <guid isPermaLink="false">senate-76</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
-    </item>
-    <item>
-      <title>Framer #608 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/framer-608-washington-district-of-columbia-0724</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | This is technical work framing pictures, art, news articles, and memorabilia for Senate offices. Work includes cutting and jointing wood profiles into picture frames, using wood working machinery; pre...</description>
-      <guid isPermaLink="false">senate-75</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
-    </item>
-    <item>
-      <title>Principal Network Engineer #332 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/principal-network-engineer-332-washington-district-of-columbia-0723</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | This is advanced professional work to plan, analyze, design, test, evaluate, install, troubleshoot, and maintain the integrity of an enterprise Cisco Unified Communications (UC) system. Work involves...</description>
-      <guid isPermaLink="false">senate-74</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
-    </item>
-    <item>
-      <title>Max Kampelman Fellowship Program - Summer 2026 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/max-kampelman-fellowship-program-summer-2026-washington-district-of-columbia-0722</link>
-      <description>Office: Congressional Commissions | Location: Washington, DC | Affiliation: Nonpartisan | The Commission on Security and Cooperation in Europe seeks candidates for its Max Kampelman fellowship program for summer 2026. The Commission is accepting applicants for both policy and communication...</description>
-      <guid isPermaLink="false">senate-73</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Press Secretary - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/press-secretary-washington-district-of-columbia-0721</link>
-      <description>Office: Senator Eric Schmitt | Location: Washington, DC | Affiliation: Republican | Senator Eric Schmitt is seeking a Press Secretary to join his communications team. The Press Secretary will work closely with the Communications Director and the rest of the senior staff to advance th...</description>
-      <guid isPermaLink="false">senate-72</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
-      <title>Chief Counsel - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/chief-counsel-washington-district-of-columbia-0720</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | An active Democratic member of the Senate Judiciary Committee is seeking a Chief Counsel to oversee his robust body of work on the Judiciary Committee, aggressive oversight efforts, and all legal matt...</description>
-      <guid isPermaLink="false">senate-71</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Professional Staff Member - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/professional-staff-member-washington-district-of-columbia-0718</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Oversight Minded Senate Republican Committee Staff is seeking Professional Staff Member. The ideal candidate must have 3 or more years of relevant policy experience to be considered for a PSM position...</description>
-      <guid isPermaLink="false">senate-70</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
     </item>
   </channel>
 </rss>
