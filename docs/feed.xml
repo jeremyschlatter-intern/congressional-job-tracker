@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sun, 22 Mar 2026 22:28:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 13:22:23 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -125,6 +125,22 @@
       <guid isPermaLink="false">senate-36</guid>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Administrative Specialist #5222 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/administrative-specialist-5222-washington-district-of-columbia-0745</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Sergeant at Arms is seeking an Administrative Specialist to provide high-level administrative support to the Executive Office. This position will work to ensure smooth operations within the Execut...</description>
+      <guid isPermaLink="false">senate-142</guid>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
+    </item>
+    <item>
+      <title>Human Resources Specialist - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4280?c=house</link>
+      <description>Office: House Support Offices | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-143</guid>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
     </item>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -389,22 +405,6 @@
       <guid isPermaLink="false">senate-70</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Press Secretary - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/press-secretary-washington-district-of-columbia-0717</link>
-      <description>Office: Homeland Security and Governmental Affairs - Democrats | Location: Washington, DC | Affiliation: Democratic | The Democratic staff of the Senate Homeland Security and Governmental Affairs Committee is seeking an experienced communications professional to join a fast-paced and proactive press office. This role...</description>
-      <guid isPermaLink="false">senate-69</guid>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
-      <title>Communications Intern - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/communications-intern-washington-district-of-columbia-0716</link>
-      <description>Office: Senator Michael F. Bennet | Location: Washington, DC | Affiliation: Democratic | The Office of U.S. Senator Michael Bennet seeks a motivated, detail-oriented Communications Intern for the Summer 2026 term in Washington, D.C. This is a paid position. This internship will begin May...</description>
-      <guid isPermaLink="false">senate-68</guid>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
     </item>
   </channel>
 </rss>
