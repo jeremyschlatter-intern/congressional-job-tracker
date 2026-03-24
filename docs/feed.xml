@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Tue, 24 Mar 2026 13:26:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 22:33:50 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -295,14 +295,6 @@
       <category>Communications</category>
     </item>
     <item>
-      <title>Scheduling Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/scheduling-assistant-washington-district-of-columbia-0739</link>
-      <description>Office: Senator John Kennedy | Location: Washington, DC | Affiliation: Republican | Senator John Kennedy seeks a Scheduling Assistant for his Washington, DC office. Responsibilities include supporting the Scheduler in the management of the Senator’s calendar, assisting with travel ar...</description>
-      <guid isPermaLink="false">senate-133</guid>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
-    </item>
-    <item>
       <title>Climate Policy Advisor - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/climate-policy-advisor-washington-district-of-columbia-0738</link>
       <description>Office: Environment and Public Works - Democrats | Location: Washington, DC | Affiliation: Democratic | The Ranking Member of the Senate Environment and Public Works Committee seeks a climate policy advisor. Candidates should have a deep background in carbon pricing, carbon tariffs, and other market-bas...</description>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">senate-80</guid>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Mid-Level Communications Staffer - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/mid-level-communications-staffer-washington-district-of-columbia-0728</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Midwest Republican Senator seeks an experienced communications staffer to join a highly active communications team. Applicants should have strong writing skills, experience pitching and talking to med...</description>
+      <guid isPermaLink="false">senate-79</guid>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
     </item>
   </channel>
 </rss>
