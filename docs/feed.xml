@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Mon, 23 Mar 2026 22:34:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 13:26:06 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -125,6 +125,14 @@
       <guid isPermaLink="false">senate-36</guid>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Press Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/press-assistant-washington-dc-district-of-columbia-0754</link>
+      <description>Office: Senator Alex Padilla | Location: Washington DC, DC | Affiliation: Democratic | The Office of U.S. Senator Alex Padilla is seeking a Press Assistant to join our fast-moving communications team. Responsibilities include tracking media hits; building and maintaining press lists; dr...</description>
+      <guid isPermaLink="false">senate-153</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
     </item>
     <item>
       <title>People Experience Specialist - U.S. House</title>
@@ -397,14 +405,6 @@
       <guid isPermaLink="false">senate-80</guid>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Mid-Level Communications Staffer - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/mid-level-communications-staffer-washington-district-of-columbia-0728</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Midwest Republican Senator seeks an experienced communications staffer to join a highly active communications team. Applicants should have strong writing skills, experience pitching and talking to med...</description>
-      <guid isPermaLink="false">senate-79</guid>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
     </item>
   </channel>
 </rss>
