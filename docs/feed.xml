@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 25 Mar 2026 13:25:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 22:38:29 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -117,6 +117,30 @@
       <guid isPermaLink="false">senate-38</guid>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Summer 2026 - National Security Fellow - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/summer-2026-national-security-fellow-washington-district-of-columbia-0757</link>
+      <description>Office: Senator Ruben Gallego | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Ruben Gallego is seeking a National Security Fellow to support the national security team in our Washington D.C. office. The fellow ship will begin mid-May and conclude early-Aug...</description>
+      <guid isPermaLink="false">senate-156</guid>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Administrative Coordinator - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/administrative-coordinator-washington-district-of-columbia-0756</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Job Title: Administrative Coordinator Location: Washington, DC Position Type: Full-Time Department: Administrative Reports To: Director of Operations and Administration About the Role: We are seeking...</description>
+      <guid isPermaLink="false">senate-155</guid>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
+    </item>
+    <item>
+      <title>Staff Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-0755</link>
+      <description>Office: Senator Jeanne Shaheen | Location: Washington, DC | Affiliation: Democratic | Senator Shaheen seeks a Staff Assistant for Washington, DC office. Responsibilities include but are not limited to: managing a busy reception area, answering incoming constituent phone calls, coordina...</description>
+      <guid isPermaLink="false">senate-154</guid>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
     </item>
     <item>
       <title>Press Assistant - U.S. Senate</title>
@@ -381,30 +405,6 @@
       <guid isPermaLink="false">senate-81</guid>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Legislative Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-assistant-washington-district-of-columbia-0729</link>
-      <description>Office: Senator Ted Cruz | Location: Washington, DC | Affiliation: Republican | Senator Ted Cruz (R-TX) is seeking a Legislative Assistant (LA) to join his Office’s domestic policy team. The LA will take the lead on matters related to trade, taxation, the budget, and Social Secur...</description>
-      <guid isPermaLink="false">senate-80</guid>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Mid-Level Communications Staffer - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/mid-level-communications-staffer-washington-district-of-columbia-0728</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Midwest Republican Senator seeks an experienced communications staffer to join a highly active communications team. Applicants should have strong writing skills, experience pitching and talking to med...</description>
-      <guid isPermaLink="false">senate-79</guid>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
-      <title>Communications Director - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/communications-director-washington-district-of-columbia-0727</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Midwest Republican Senator has an opening for a Communications Director. The primary responsibilities include, but are not limited to, managing a team of communications staff; developing and implement...</description>
-      <guid isPermaLink="false">senate-78</guid>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
     </item>
   </channel>
 </rss>
