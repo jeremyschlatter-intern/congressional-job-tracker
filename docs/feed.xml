@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Thu, 26 Mar 2026 13:42:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 22:31:54 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -116,6 +116,46 @@
       <description>Office: Senator Kirsten E. Gillibrand | Location: Washington, DC | Affiliation: Democratic | The office of U.S. Senator Kirsten Gillibrand is seeking a Press &amp;amp; Digital Assistant to join our office’s fast-moving communications team. Responsibilities include tracking media hits; building an...</description>
       <guid isPermaLink="false">senate-38</guid>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Network Communications Specialist - Wide Area Networks - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4291?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-161</guid>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Digital Outreach Coordinator - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/digital-outreach-coordinator-washington-district-of-columbia-0761</link>
+      <description>Office: Senator Kirsten E. Gillibrand | Location: Washington, DC | Affiliation: Democratic | The Office of U.S. Senator Kirsten Gillibrand seeks a Digital Outreach Coordinator to be based in her Washington, DC office. This is a new position that will coordinate communication to constituents a...</description>
+      <guid isPermaLink="false">senate-160</guid>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Digital Manager - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/digital-manager-washington-district-of-columbia-0760</link>
+      <description>Office: Senator Adam B. Schiff | Location: Washington, DC | Affiliation: Democratic | Senator Adam Schiff seeks a driven, innovative Digital Manager to join our team. This essential role will work closely with the Digital Director and other members of the communications team, and requi...</description>
+      <guid isPermaLink="false">senate-159</guid>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Legislative Assistant (Appropriations) - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legislative-assistant-appropriations-washington-district-of-columbia-0759</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Midwestern Republican senator seeks a Legislative Assistant to manage the senator’s appropriations portfolio. This position will be responsible for drafting and managing the Appropriations Committee w...</description>
+      <guid isPermaLink="false">senate-158</guid>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Press/Digital Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/press-digital-assistant-washington-district-of-columbia-0758</link>
+      <description>Office: Senator Brian Schatz | Location: Washington, DC | Affiliation: Democratic | The Office of U.S. Senator Brian Schatz seeks a Press and Digital Assistant to join an active communications team. Responsibilities include but are not limited to: producing high-quality digital media...</description>
+      <guid isPermaLink="false">senate-157</guid>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
     </item>
     <item>
@@ -365,46 +405,6 @@
       <guid isPermaLink="false">house-85</guid>
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
-    </item>
-    <item>
-      <title>Senior Policy and Communications Advisor - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/senior-policy-and-communications-advisor-washington-district-of-columbia-0733</link>
-      <description>Office: Senator Eric Schmitt | Location: Washington, DC | Affiliation: Republican | Senator Eric Schmitt is currently accepting applications for a Senior Policy and Communications Advisor to help shape and advance the Senator’s legislative and messaging agenda. This role will support...</description>
-      <guid isPermaLink="false">senate-84</guid>
-      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Police Operations Program Manager #2383 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/police-operations-program-manager-2383-washington-district-of-columbia-0732</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The United States Senate Sergeant at Arms is seeking a Program Manager (PM) for its Police Operations team. The Police Operations PM will support a variety of Sergeant at Arms programs including Senat...</description>
-      <guid isPermaLink="false">senate-83</guid>
-      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
-    </item>
-    <item>
-      <title>House Security Staff - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4149?c=house</link>
-      <description>Office: House Support Offices | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-88</guid>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Constituent Advocate-Pueblo, Colorado - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/constituent-advocate-pueblo-colorado-pueblo-colorado-0731</link>
-      <description>Office: Senator John W. Hickenlooper | Location: Pueblo, CO | Affiliation: Democratic | Constituent Advocate-Pueblo, Colorado Senator John Hickenlooper – a former geologist turned brewpub owner turned elected official – seeks a full-time Constituent Advocate - based in Pueblo, Colorado -...</description>
-      <guid isPermaLink="false">senate-82</guid>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Constituent Services</category>
-    </item>
-    <item>
-      <title>Legislative Correspondent/Legislative Aide - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-correspondent-legislative-aide-washington-district-of-columbia-0730</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Senior Republican Member of the Senate Judiciary Committee and Subcommittee Chairman seeks a Legislative Correspondent or Legislative Aide to help manage an issue portfolio consisting of Judiciary Com...</description>
-      <guid isPermaLink="false">senate-81</guid>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
     </item>
   </channel>
 </rss>
