@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Fri, 27 Mar 2026 13:20:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 22:35:31 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -111,12 +111,28 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Press &amp; Digital Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/press-digital-assistant-washington-district-of-columbia-0680</link>
-      <description>Office: Senator Kirsten E. Gillibrand | Location: Washington, DC | Affiliation: Democratic | The office of U.S. Senator Kirsten Gillibrand is seeking a Press &amp;amp; Digital Assistant to join our office’s fast-moving communications team. Responsibilities include tracking media hits; building an...</description>
-      <guid isPermaLink="false">senate-38</guid>
-      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
+      <title>Committee Legislative Director - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/committee-legislative-director-washington-district-of-columbia-0764</link>
+      <description>Office: Commerce, Science, and Transportation - Democrats | Location: Washington, DC | Affiliation: Democratic | Democratic Ranking Member of the Senate Commerce, Science, and Transportation Committee is seeking qualified candidates to lead and oversee legislative process within the Committee, through the Senate...</description>
+      <guid isPermaLink="false">senate-164</guid>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Director of Scheduling - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/director-of-scheduling-washington-district-of-columbia-0763</link>
+      <description>Office: Senator Kirsten E. Gillibrand | Location: Washington, DC | Affiliation: Democratic | The Office of Sen. Kirsten Gillibrand seeks a Director of Scheduling to manage the her daily and long-term schedules in DC and New York. This person will report to the Deputy Chief of Staff, supervise...</description>
+      <guid isPermaLink="false">senate-163</guid>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
+    </item>
+    <item>
+      <title>Legislative Correspondent - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legislative-correspondent-washington-district-of-columbia-0762</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Midwest Republican member of the Senate Agriculture Committee is seeking a Legislative Correspondent to handle constituent correspondence and provide legislative support on agriculture, energy, enviro...</description>
+      <guid isPermaLink="false">senate-162</guid>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
     <item>
       <title>Network Communications Specialist - Wide Area Networks - U.S. House</title>
@@ -359,14 +375,6 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Legislative Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-assistant-washington-district-of-columbia-0737</link>
-      <description>Office: Senator Thom Tillis | Location: Washington, DC | Affiliation: Republican | Senator Thom Tillis (R-NC) seeks a Legislative Assistant to lead a portfolio covering foreign policy, defense, and related national security issues. This is a non-entry-level position supporting the S...</description>
-      <guid isPermaLink="false">senate-131</guid>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>Senior Cloud Engineer - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4167?c=house</link>
       <description>Office: House Support Offices | Location: Washington, DC</description>
@@ -397,14 +405,6 @@
       <guid isPermaLink="false">senate-127</guid>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
-    </item>
-    <item>
-      <title>Broadcast Production Technician - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4276?c=house</link>
-      <description>Office: Office of the Clerk | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-85</guid>
-      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
     </item>
   </channel>
 </rss>
