@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Mon, 30 Mar 2026 22:37:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 13:47:43 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -109,6 +109,14 @@
       <guid isPermaLink="false">senate-40</guid>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Business and Agriculture Representative - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/business-and-agriculture-representative-phoenix-arizona-0769</link>
+      <description>Office: Senator Mark Kelly | Location: Phoenix, AZ | Affiliation: Democratic | The Office of Senator Mark Kelly seeks a highly motivated individual for a Business and Agriculture Representative position. This role will be based in the Phoenix office and report to the Central Ari...</description>
+      <guid isPermaLink="false">senate-172</guid>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
     </item>
     <item>
       <title>Security Programs Specialist - U.S. House</title>
@@ -397,14 +405,6 @@
       <guid isPermaLink="false">senate-136</guid>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
       <category>Constituent Services</category>
-    </item>
-    <item>
-      <title>Law Clerks - Fall 2026 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/law-clerks-fall-2026-washington-district-of-columbia-0741</link>
-      <description>Office: Homeland Security and Governmental Affairs - Democrats | Location: Washington, DC | Affiliation: Democratic | Democratic Ranking Member of the Permanent Subcommittee on Investigations is seeking law clerks to assist the subcommittee with its investigations during the Fall 2026. Qualified candidates will have...</description>
-      <guid isPermaLink="false">senate-135</guid>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
     </item>
   </channel>
 </rss>
