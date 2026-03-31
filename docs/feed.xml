@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Tue, 31 Mar 2026 13:47:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 22:36:14 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -109,6 +109,38 @@
       <guid isPermaLink="false">senate-40</guid>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Talent Acquisitions Specialist - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4312?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-176</guid>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Select Committee on Ethics Financial Disclosure Specialist - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/select-committee-on-ethics-financial-disclosure-specialist-washington-district-of-columbia-0772</link>
+      <description>Office: Select Committee on Ethics - Non-designated | Location: Washington, DC | Affiliation: Nonpartisan | The Select Committee on Ethics seeks a Financial Disclosure Specialist to assist with the Committee’s Financial Disclosure program. Responsibilities include but are not limited to: delivering guidance...</description>
+      <guid isPermaLink="false">senate-175</guid>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
+    </item>
+    <item>
+      <title>Stars of Valor Fellow – Senator Ron Johnson - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/stars-of-valor-fellow-senator-ron-johnson-milwaukee-wisconsin-0771</link>
+      <description>Office: Stars of Valor Fellowships Program | Location: Milwaukee, WI | Affiliation: Nonpartisan | The Senate has established the Stars of Valor Fellowships Program for wounded and disabled veterans; family members of Armed Forces servicemembers who die in the line of duty or veterans who die of se...</description>
+      <guid isPermaLink="false">senate-174</guid>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
+    </item>
+    <item>
+      <title>Banking Committee - Communications Intern - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/banking-committee-communications-intern-washington-district-of-columbia-0770</link>
+      <description>Office: Senator Elizabeth Warren | Location: Washington, DC | Affiliation: Democratic | The Senate Banking Committee Minority, under the leadership of Ranking Member Elizabeth Warren, is currently seeking a full-time, in-person Communications Intern for Summer 2026 (early June through Au...</description>
+      <guid isPermaLink="false">senate-173</guid>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
     </item>
     <item>
       <title>Business and Agriculture Representative - U.S. Senate</title>
@@ -373,38 +405,6 @@
       <guid isPermaLink="false">house-139</guid>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
-    </item>
-    <item>
-      <title>Research Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/research-assistant-washington-district-of-columbia-0744</link>
-      <description>Office: Commerce, Science, and Transportation - Democrats | Location: Washington, DC | Affiliation: Democratic | Democratic Ranking Member of the Commerce, Science, and Transportation Committee seeking qualified candidates to support work on science, manufacturing, technology, and innovation policy issues, inclu...</description>
-      <guid isPermaLink="false">senate-138</guid>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Senior Wireless Services Specialist #119 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/senior-wireless-services-specialist-119-washington-district-of-columbia-0743</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The U.S. Senate Sergeant at Arms (SAA) is seeking a skilled Senior Wireless Specialist to join the Chief Information Officer’s (CIO) Mobile Communications Services (MCS) team. In this customer-facing...</description>
-      <guid isPermaLink="false">senate-137</guid>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
-    </item>
-    <item>
-      <title>Staff Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-0675</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Conservative Republican Senator’s DC Office seeks organized, dependable and professional Staff Assistant . Responsibilities will include answering phones, greeting visitors, managing mail and general...</description>
-      <guid isPermaLink="false">senate-35</guid>
-      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
-    </item>
-    <item>
-      <title>Summer 2026 Internship - Dallas, TX - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/summer-2026-internship-dallas-tx-dallas-texas-0742</link>
-      <description>Office: Senator John Cornyn | Location: Dallas, TX | Affiliation: Republican | The North Texas Regional Office of U.S. Senator John Cornyn, located in Dallas, Texas is now accepting resumes from college students and recent college graduates seeking an internship for the Summer o...</description>
-      <guid isPermaLink="false">senate-136</guid>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Constituent Services</category>
     </item>
   </channel>
 </rss>
