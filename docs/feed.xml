@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Thu, 02 Apr 2026 22:33:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 13:17:12 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -375,14 +375,6 @@
       <category>Senate Support</category>
     </item>
     <item>
-      <title>Human Resources Specialist - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4280?c=house</link>
-      <description>Office: House Support Offices | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-143</guid>
-      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4284?c=house</link>
       <description>Office: House Support Offices | Location: Garner, NC</description>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">house-139</guid>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
+    </item>
+    <item>
+      <title>Research Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/research-assistant-washington-district-of-columbia-0744</link>
+      <description>Office: Commerce, Science, and Transportation - Democrats | Location: Washington, DC | Affiliation: Democratic | Democratic Ranking Member of the Commerce, Science, and Transportation Committee seeking qualified candidates to support work on science, manufacturing, technology, and innovation policy issues, inclu...</description>
+      <guid isPermaLink="false">senate-138</guid>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
   </channel>
 </rss>
