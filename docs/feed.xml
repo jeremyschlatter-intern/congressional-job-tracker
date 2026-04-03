@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Fri, 03 Apr 2026 13:17:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 22:35:23 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -93,14 +93,6 @@
       <guid isPermaLink="false">senate-44</guid>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
-    </item>
-    <item>
-      <title>Staff Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-0688</link>
-      <description>Office: Senator Ruben Gallego | Location: Washington, DC | Affiliation: Democratic | The Office of U.S. Senator Ruben Gallego seeks a dependable, organized, and professional individual to serve as Staff Assistant in his Washington D.C. office. Ideal candidates will have outstanding in...</description>
-      <guid isPermaLink="false">senate-43</guid>
-      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
     </item>
     <item>
       <title>Legislative Assistant (Judiciary, Economy) - U.S. Senate</title>
@@ -279,14 +271,6 @@
       <category>Administrative</category>
     </item>
     <item>
-      <title>Staff Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-0755</link>
-      <description>Office: Senator Jeanne Shaheen | Location: Washington, DC | Affiliation: Democratic | Senator Shaheen seeks a Staff Assistant for Washington, DC office. Responsibilities include but are not limited to: managing a busy reception area, answering incoming constituent phone calls, coordina...</description>
-      <guid isPermaLink="false">senate-154</guid>
-      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
-    </item>
-    <item>
       <title>Press Assistant - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/press-assistant-washington-dc-district-of-columbia-0754</link>
       <description>Office: Senator Alex Padilla | Location: Washington DC, DC | Affiliation: Democratic | The Office of U.S. Senator Alex Padilla is seeking a Press Assistant to join our fast-moving communications team. Responsibilities include tracking media hits; building and maintaining press lists; dr...</description>
@@ -405,6 +389,22 @@
       <guid isPermaLink="false">senate-138</guid>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Senior Wireless Services Specialist #119 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/senior-wireless-services-specialist-119-washington-district-of-columbia-0743</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The U.S. Senate Sergeant at Arms (SAA) is seeking a skilled Senior Wireless Specialist to join the Chief Information Officer’s (CIO) Mobile Communications Services (MCS) team. In this customer-facing...</description>
+      <guid isPermaLink="false">senate-137</guid>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
+    </item>
+    <item>
+      <title>Summer 2026 Internship - Dallas, TX - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/summer-2026-internship-dallas-tx-dallas-texas-0742</link>
+      <description>Office: Senator John Cornyn | Location: Dallas, TX | Affiliation: Republican | The North Texas Regional Office of U.S. Senator John Cornyn, located in Dallas, Texas is now accepting resumes from college students and recent college graduates seeking an internship for the Summer o...</description>
+      <guid isPermaLink="false">senate-136</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
     </item>
   </channel>
 </rss>
