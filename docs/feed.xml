@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sat, 04 Apr 2026 13:09:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 22:31:23 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -383,14 +383,6 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Communications Director - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/communications-director-washington-district-of-columbia-0740</link>
-      <description>Office: Senator Angela D. Alsobrooks | Location: Washington, DC | Affiliation: Democratic | The Office of U.S. Senator Angela D. Alsobrooks is seeking a Communications Director to lead a fast-paced communications operation in Washington, D.C. This individual will serve as the office’s lead m...</description>
-      <guid isPermaLink="false">senate-134</guid>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
       <title>Climate Policy Advisor - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/climate-policy-advisor-washington-district-of-columbia-0738</link>
       <description>Office: Environment and Public Works - Democrats | Location: Washington, DC | Affiliation: Democratic | The Ranking Member of the Senate Environment and Public Works Committee seeks a climate policy advisor. Candidates should have a deep background in carbon pricing, carbon tariffs, and other market-bas...</description>
@@ -403,6 +395,14 @@
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4167?c=house</link>
       <description>Office: House Support Offices | Location: Washington, DC</description>
       <guid isPermaLink="false">house-130</guid>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Manager (Compliance), Office of Payroll and Benefits - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4278?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-129</guid>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
