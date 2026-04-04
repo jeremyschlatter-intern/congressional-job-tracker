@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Fri, 03 Apr 2026 22:35:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 13:09:15 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -77,14 +77,6 @@
       <guid isPermaLink="false">senate-46</guid>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Communications Staffer - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/communications-staffer-washington-district-of-columbia-0690</link>
-      <description>Office: Joint Economic Committee | Location: Washington, DC | Affiliation: Democratic | The U.S. Congress Joint Economic Committee (Democratic Staff) is hiring for a communications staffer. This role will encompass responsibilities such as drafting press materials, conducting reporter ou...</description>
-      <guid isPermaLink="false">senate-45</guid>
-      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
     </item>
     <item>
       <title>State Press Secretary - U.S. Senate</title>
@@ -351,26 +343,10 @@
       <category>Communications</category>
     </item>
     <item>
-      <title>Administrative Specialist #5222 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/administrative-specialist-5222-washington-district-of-columbia-0745</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Sergeant at Arms is seeking an Administrative Specialist to provide high-level administrative support to the Executive Office. This position will work to ensure smooth operations within the Execut...</description>
-      <guid isPermaLink="false">senate-142</guid>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
-    </item>
-    <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4284?c=house</link>
       <description>Office: House Support Offices | Location: Garner, NC</description>
       <guid isPermaLink="false">house-141</guid>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Systems Engineer - Enterprise Storage &amp; Data Protection - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4281?c=house</link>
-      <description>Office: Office of the Clerk | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-140</guid>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
@@ -391,20 +367,44 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Senior Wireless Services Specialist #119 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/senior-wireless-services-specialist-119-washington-district-of-columbia-0743</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The U.S. Senate Sergeant at Arms (SAA) is seeking a skilled Senior Wireless Specialist to join the Chief Information Officer’s (CIO) Mobile Communications Services (MCS) team. In this customer-facing...</description>
-      <guid isPermaLink="false">senate-137</guid>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
-    </item>
-    <item>
       <title>Summer 2026 Internship - Dallas, TX - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/summer-2026-internship-dallas-tx-dallas-texas-0742</link>
       <description>Office: Senator John Cornyn | Location: Dallas, TX | Affiliation: Republican | The North Texas Regional Office of U.S. Senator John Cornyn, located in Dallas, Texas is now accepting resumes from college students and recent college graduates seeking an internship for the Summer o...</description>
       <guid isPermaLink="false">senate-136</guid>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
       <category>Constituent Services</category>
+    </item>
+    <item>
+      <title>Law Clerks - Fall 2026 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/law-clerks-fall-2026-washington-district-of-columbia-0741</link>
+      <description>Office: Homeland Security and Governmental Affairs - Democrats | Location: Washington, DC | Affiliation: Democratic | Democratic Ranking Member of the Permanent Subcommittee on Investigations is seeking law clerks to assist the subcommittee with its investigations during the Fall 2026. Qualified candidates will have...</description>
+      <guid isPermaLink="false">senate-135</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Communications Director - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/communications-director-washington-district-of-columbia-0740</link>
+      <description>Office: Senator Angela D. Alsobrooks | Location: Washington, DC | Affiliation: Democratic | The Office of U.S. Senator Angela D. Alsobrooks is seeking a Communications Director to lead a fast-paced communications operation in Washington, D.C. This individual will serve as the office’s lead m...</description>
+      <guid isPermaLink="false">senate-134</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Climate Policy Advisor - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/climate-policy-advisor-washington-district-of-columbia-0738</link>
+      <description>Office: Environment and Public Works - Democrats | Location: Washington, DC | Affiliation: Democratic | The Ranking Member of the Senate Environment and Public Works Committee seeks a climate policy advisor. Candidates should have a deep background in carbon pricing, carbon tariffs, and other market-bas...</description>
+      <guid isPermaLink="false">senate-132</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Senior Cloud Engineer - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4167?c=house</link>
+      <description>Office: House Support Offices | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-130</guid>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
     </item>
   </channel>
 </rss>
