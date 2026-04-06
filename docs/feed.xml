@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sun, 05 Apr 2026 22:33:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 13:23:36 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -61,14 +61,6 @@
       <guid isPermaLink="false">senate-52</guid>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
-    </item>
-    <item>
-      <title>Press Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/press-assistant-washington-district-of-columbia-0696</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | Democratic Senator is seeking a Press Assistant to join their active leadership press team. Qualified candidates will be creative and highly organized with keen attention to detail, possess strong wor...</description>
-      <guid isPermaLink="false">senate-50</guid>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
     </item>
     <item>
       <title>Oversight Counsel - U.S. Senate</title>
@@ -351,14 +343,6 @@
       <category>House Support</category>
     </item>
     <item>
-      <title>Manager, User Experience and Design - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4283?c=house</link>
-      <description>Office: Office of the Clerk | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-139</guid>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
       <title>Research Assistant - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/research-assistant-washington-district-of-columbia-0744</link>
       <description>Office: Commerce, Science, and Transportation - Democrats | Location: Washington, DC | Affiliation: Democratic | Democratic Ranking Member of the Commerce, Science, and Transportation Committee seeking qualified candidates to support work on science, manufacturing, technology, and innovation policy issues, inclu...</description>
@@ -405,6 +389,22 @@
       <guid isPermaLink="false">house-129</guid>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
+    </item>
+    <item>
+      <title>Staff Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-0735</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Republican Senator seeks an organized, energetic, and detail-oriented staff assistant. This person will possess a high degree of organization with the ability to multi-task in a faced-paced environmen...</description>
+      <guid isPermaLink="false">senate-127</guid>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
+    </item>
+    <item>
+      <title>Senior Policy and Communications Advisor - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/senior-policy-and-communications-advisor-washington-district-of-columbia-0733</link>
+      <description>Office: Senator Eric Schmitt | Location: Washington, DC | Affiliation: Republican | Senator Eric Schmitt is currently accepting applications for a Senior Policy and Communications Advisor to help shape and advance the Senator’s legislative and messaging agenda. This role will support...</description>
+      <guid isPermaLink="false">senate-84</guid>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
   </channel>
 </rss>
