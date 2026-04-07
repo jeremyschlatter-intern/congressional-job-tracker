@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Tue, 07 Apr 2026 13:44:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 22:39:27 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -327,14 +327,6 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Senior Cloud Engineer - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4167?c=house</link>
-      <description>Office: House Support Offices | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-130</guid>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
       <title>Manager (Compliance), Office of Payroll and Benefits - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4278?c=house</link>
       <description>Office: Office of the Clerk | Location: Washington, DC</description>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">senate-77</guid>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Press Secretary - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/press-secretary-washington-district-of-columbia-0721</link>
+      <description>Office: Senator Eric Schmitt | Location: Washington, DC | Affiliation: Republican | Senator Eric Schmitt is seeking a Press Secretary to join his communications team. The Press Secretary will work closely with the Communications Director and the rest of the senior staff to advance th...</description>
+      <guid isPermaLink="false">senate-72</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
     </item>
   </channel>
 </rss>
