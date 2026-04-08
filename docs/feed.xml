@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 08 Apr 2026 13:46:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 22:40:17 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -19,22 +19,6 @@
       <link>https://careers.employment.senate.gov/job/summer-law-clerk-washington-district-of-columbia-0705</link>
       <description>Office: Homeland Security and Governmental Affairs - Republicans | Location: Washington, DC | Affiliation: Republican | The U.S. Senate Permanent Subcommittee on Investigations office of Chairman Ron Johnson (R-WI) is seeking law clerks for the summer of 2026. The position offers law students the opportunity to gain ex...</description>
       <guid isPermaLink="false">senate-57</guid>
-      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Personal Aide - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/personal-aide-washington-district-of-columbia-0701</link>
-      <description>Office: Senator Maria Cantwell | Location: Washington, DC | Affiliation: Democratic | A senior Western Democratic Senator seeks an experienced personal aide, often described as a “body person,” to provide continuous logistical support. On a daily basis, the staffer will accompany the S...</description>
-      <guid isPermaLink="false">senate-54</guid>
-      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
-    </item>
-    <item>
-      <title>Legislative Correspondent - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-correspondent-washington-district-of-columbia-0700</link>
-      <description>Office: Senator Maria Cantwell | Location: Washington, DC | Affiliation: Democratic | Senator Maria Cantwell is seeking a legislative correspondent to help cover issues related to justice, individual rights, public safety, and agriculture. Qualified candidates should possess some exper...</description>
-      <guid isPermaLink="false">senate-53</guid>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
     </item>
@@ -405,6 +389,22 @@
       <guid isPermaLink="false">senate-69</guid>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Summer 2026 Finance Committee Tax Intern/Law Clerk - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/summer-2026-finance-committee-tax-intern-law-clerk-washington-district-of-columbia-0715</link>
+      <description>Office: Finance - Democrats | Location: Washington, DC | Affiliation: Democratic | The Senate Committee on Finance Minority office (Ranking Member Wyden) is seeking a full-time intern, fellow, or law clerk to assist the Committee’s tax team for the Summer of 2026. Interns, fellows,...</description>
+      <guid isPermaLink="false">senate-67</guid>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Military Legislative Assistant (MLA) - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/military-legislative-assistant-mla-washington-district-of-columbia-0711</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Midwest Republican Senator and senior appropriator seeks a Military Legislative Assistant (MLA) to join their Washington, D.C. office. The MLA will be responsible for committees of jurisdiction, inclu...</description>
+      <guid isPermaLink="false">senate-63</guid>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
   </channel>
 </rss>
