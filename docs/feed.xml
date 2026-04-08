@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Tue, 07 Apr 2026 22:39:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 13:46:34 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -23,22 +23,6 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Legislative Correspondent (Commerce) - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-correspondent-commerce-washington-district-of-columbia-0703</link>
-      <description>Office: Senator Edward J. Markey | Location: Washington, DC | Affiliation: Democratic | Senator Edward J. Markey (D-MA), a member of the Senate Committee on Commerce, seeks a Legislative Correspondent to cover Commerce Committee issues including technology, telecommunications, consumer p...</description>
-      <guid isPermaLink="false">senate-56</guid>
-      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Legislative Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-assistant-washington-district-of-columbia-0702</link>
-      <description>Office: Senator Lisa Blunt Rochester | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Lisa Blunt Rochester, a member of the Commerce, Science, and Transportation (CST) Committee, seeks a highly motivated and experienced Legislative Assistant to lead a diverse port...</description>
-      <guid isPermaLink="false">senate-55</guid>
-      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>Personal Aide - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/personal-aide-washington-district-of-columbia-0701</link>
       <description>Office: Senator Maria Cantwell | Location: Washington, DC | Affiliation: Democratic | A senior Western Democratic Senator seeks an experienced personal aide, often described as a “body person,” to provide continuous logistical support. On a daily basis, the staffer will accompany the S...</description>
@@ -53,14 +37,6 @@
       <guid isPermaLink="false">senate-53</guid>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Administrative Manager - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/administrative-manager-washington-district-of-columbia-0699</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Midwest Republican Senator seeks an Administrative Manager to join their administrative team in Washington, D.C. This position handles the role of systems administrator; serves as intern and page coor...</description>
-      <guid isPermaLink="false">senate-52</guid>
-      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
     </item>
     <item>
       <title>Oversight Counsel - U.S. Senate</title>
@@ -404,6 +380,30 @@
       <description>Office: Senator Eric Schmitt | Location: Washington, DC | Affiliation: Republican | Senator Eric Schmitt is seeking a Press Secretary to join his communications team. The Press Secretary will work closely with the Communications Director and the rest of the senior staff to advance th...</description>
       <guid isPermaLink="false">senate-72</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Chief Counsel - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/chief-counsel-washington-district-of-columbia-0720</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | An active Democratic member of the Senate Judiciary Committee is seeking a Chief Counsel to oversee his robust body of work on the Judiciary Committee, aggressive oversight efforts, and all legal matt...</description>
+      <guid isPermaLink="false">senate-71</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Professional Staff Member - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/professional-staff-member-washington-district-of-columbia-0718</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Oversight Minded Senate Republican Committee Staff is seeking Professional Staff Member. The ideal candidate must have 3 or more years of relevant policy experience to be considered for a PSM position...</description>
+      <guid isPermaLink="false">senate-70</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Press Secretary - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/press-secretary-washington-district-of-columbia-0717</link>
+      <description>Office: Homeland Security and Governmental Affairs - Democrats | Location: Washington, DC | Affiliation: Democratic | The Democratic staff of the Senate Homeland Security and Governmental Affairs Committee is seeking an experienced communications professional to join a fast-paced and proactive press office. This role...</description>
+      <guid isPermaLink="false">senate-69</guid>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
     </item>
   </channel>
