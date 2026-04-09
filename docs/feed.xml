@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Thu, 09 Apr 2026 13:57:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 22:41:42 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -231,14 +231,6 @@
       <category>Communications</category>
     </item>
     <item>
-      <title>Staff Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-0747</link>
-      <description>Office: Senator Elissa Slotkin | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Slotkin is seeking a highly organized, detail-oriented, and mission-oriented individual to serve as Staff Assistant in her Washington, D.C. office. The Staff Assistant will be th...</description>
-      <guid isPermaLink="false">senate-145</guid>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
-    </item>
-    <item>
       <title>Speechwriter - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/speechwriter-washington-district-of-columbia-0746</link>
       <description>Office: Senator Elissa Slotkin | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Elissa Slotkin is seeking an experienced Speechwriter to serve in the Washington, DC office. The Speechwriter will be responsible for drafting written remarks for Senator Slotkin...</description>
@@ -404,6 +396,14 @@
       <description>Office: House Support Offices | Location: Jupiter, FL</description>
       <guid isPermaLink="false">house-89</guid>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4248?c=house</link>
+      <description>Office: House Support Offices | Location: Huntsville, AL</description>
+      <guid isPermaLink="false">house-90</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
   </channel>
