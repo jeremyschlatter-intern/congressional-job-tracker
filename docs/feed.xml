@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 08 Apr 2026 22:40:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 13:57:35 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -287,14 +287,6 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Manager (Compliance), Office of Payroll and Benefits - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4278?c=house</link>
-      <description>Office: Office of the Clerk | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-129</guid>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
       <title>Staff Assistant - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-0735</link>
       <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Republican Senator seeks an organized, energetic, and detail-oriented staff assistant. This person will possess a high degree of organization with the ability to multi-task in a faced-paced environmen...</description>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">senate-63</guid>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4257?c=house</link>
+      <description>Office: House Support Offices | Location: Jupiter, FL</description>
+      <guid isPermaLink="false">house-89</guid>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
     </item>
   </channel>
 </rss>
