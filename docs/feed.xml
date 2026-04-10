@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Thu, 09 Apr 2026 22:41:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 13:24:21 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -367,30 +367,6 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Press Secretary - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/press-secretary-washington-district-of-columbia-0717</link>
-      <description>Office: Homeland Security and Governmental Affairs - Democrats | Location: Washington, DC | Affiliation: Democratic | The Democratic staff of the Senate Homeland Security and Governmental Affairs Committee is seeking an experienced communications professional to join a fast-paced and proactive press office. This role...</description>
-      <guid isPermaLink="false">senate-69</guid>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
-      <title>Summer 2026 Finance Committee Tax Intern/Law Clerk - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/summer-2026-finance-committee-tax-intern-law-clerk-washington-district-of-columbia-0715</link>
-      <description>Office: Finance - Democrats | Location: Washington, DC | Affiliation: Democratic | The Senate Committee on Finance Minority office (Ranking Member Wyden) is seeking a full-time intern, fellow, or law clerk to assist the Committee’s tax team for the Summer of 2026. Interns, fellows,...</description>
-      <guid isPermaLink="false">senate-67</guid>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Military Legislative Assistant (MLA) - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/military-legislative-assistant-mla-washington-district-of-columbia-0711</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Midwest Republican Senator and senior appropriator seeks a Military Legislative Assistant (MLA) to join their Washington, D.C. office. The MLA will be responsible for committees of jurisdiction, inclu...</description>
-      <guid isPermaLink="false">senate-63</guid>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4257?c=house</link>
       <description>Office: House Support Offices | Location: Jupiter, FL</description>
@@ -404,6 +380,30 @@
       <description>Office: House Support Offices | Location: Huntsville, AL</description>
       <guid isPermaLink="false">house-90</guid>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4244?c=house</link>
+      <description>Office: House Support Offices | Location: Morgantown, WV</description>
+      <guid isPermaLink="false">house-93</guid>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4245?c=house</link>
+      <description>Office: House Support Offices | Location: Des Moines, IA</description>
+      <guid isPermaLink="false">house-92</guid>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4246?c=house</link>
+      <description>Office: House Support Offices | Location: Virginia Beach, VA</description>
+      <guid isPermaLink="false">house-91</guid>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
   </channel>
