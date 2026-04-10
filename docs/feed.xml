@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Fri, 10 Apr 2026 13:24:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 22:39:35 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -21,6 +21,14 @@
       <guid isPermaLink="false">senate-57</guid>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Administrative Manager - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/administrative-manager-washington-district-of-columbia-0699</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Midwest Republican Senator seeks an Administrative Manager to join their administrative team in Washington, D.C. This position handles the role of systems administrator; serves as intern and page coor...</description>
+      <guid isPermaLink="false">senate-52</guid>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
     </item>
     <item>
       <title>Oversight Counsel - U.S. Senate</title>
@@ -305,7 +313,7 @@
     <item>
       <title>Legislative Correspondent/Legislative Aide - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/legislative-correspondent-legislative-aide-washington-district-of-columbia-0730</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Senior Republican Member of the Senate Judiciary Committee and Subcommittee Chairman seeks a Legislative Correspondent or Legislative Aide to help manage an issue portfolio consisting of Judiciary Com...</description>
+      <description>Office: Senator John Cornyn | Location: Washington, DC | Affiliation: Republican | Senior Republican Member of the Senate Judiciary Committee and Subcommittee Chairman seeks a Legislative Correspondent or Legislative Aide to help manage an issue portfolio consisting of Judiciary Com...</description>
       <guid isPermaLink="false">senate-81</guid>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
@@ -395,14 +403,6 @@
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4245?c=house</link>
       <description>Office: House Support Offices | Location: Des Moines, IA</description>
       <guid isPermaLink="false">house-92</guid>
-      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4246?c=house</link>
-      <description>Office: House Support Offices | Location: Virginia Beach, VA</description>
-      <guid isPermaLink="false">house-91</guid>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
