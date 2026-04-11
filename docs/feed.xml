@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sat, 11 Apr 2026 13:12:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 22:34:20 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -351,26 +351,10 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Press Secretary - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/press-secretary-washington-district-of-columbia-0721</link>
-      <description>Office: Senator Eric Schmitt | Location: Washington, DC | Affiliation: Republican | Senator Eric Schmitt is seeking a Press Secretary to join his communications team. The Press Secretary will work closely with the Communications Director and the rest of the senior staff to advance th...</description>
-      <guid isPermaLink="false">senate-72</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
       <title>Chief Counsel - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/chief-counsel-washington-district-of-columbia-0720</link>
       <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | An active Democratic member of the Senate Judiciary Committee is seeking a Chief Counsel to oversee his robust body of work on the Judiciary Committee, aggressive oversight efforts, and all legal matt...</description>
       <guid isPermaLink="false">senate-71</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Professional Staff Member - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/professional-staff-member-washington-district-of-columbia-0718</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Oversight Minded Senate Republican Committee Staff is seeking Professional Staff Member. The ideal candidate must have 3 or more years of relevant policy experience to be considered for a PSM position...</description>
-      <guid isPermaLink="false">senate-70</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
     </item>
@@ -405,6 +389,22 @@
       <guid isPermaLink="false">house-92</guid>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4246?c=house</link>
+      <description>Office: House Support Offices | Location: Virginia Beach, VA</description>
+      <guid isPermaLink="false">house-91</guid>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Senate Sergeant at Arms Talent Network 2026 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/senate-sergeant-at-arms-talent-network-2026-washington-district-of-columbia-0569</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Sergeant at Arms Talent Network is a resume bank that helps us match qualified job seekers to current and future job openings. By submitting your resume, you agree to make your resume visib...</description>
+      <guid isPermaLink="false">senate-8</guid>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
     </item>
   </channel>
 </rss>
