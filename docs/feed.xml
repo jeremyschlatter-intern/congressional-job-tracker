@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sat, 11 Apr 2026 22:34:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 13:14:18 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -327,22 +327,6 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Mid-Level Communications Staffer - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/mid-level-communications-staffer-washington-district-of-columbia-0728</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Midwest Republican Senator seeks an experienced communications staffer to join a highly active communications team. Applicants should have strong writing skills, experience pitching and talking to med...</description>
-      <guid isPermaLink="false">senate-79</guid>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
-      <title>Communications Director - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/communications-director-washington-district-of-columbia-0727</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Midwest Republican Senator has an opening for a Communications Director. The primary responsibilities include, but are not limited to, managing a team of communications staff; developing and implement...</description>
-      <guid isPermaLink="false">senate-78</guid>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
       <title>Legislative Assistant - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/legislative-assistant-washington-district-of-columbia-0726</link>
       <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Senior Republican member seeks a highly-motivated and experienced Legislative Assistant to advise on economic and/or domestic policy issues. Candidates should have strong communication, research, and...</description>
@@ -405,6 +389,22 @@
       <guid isPermaLink="false">senate-8</guid>
       <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
       <category>Senate Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4151?c=house</link>
+      <description>Office: House Support Offices | Location: Salem, IN</description>
+      <guid isPermaLink="false">house-120</guid>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4134?c=house</link>
+      <description>Office: House Support Offices | Location: Lewiston, ME</description>
+      <guid isPermaLink="false">house-121</guid>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
     </item>
   </channel>
 </rss>
