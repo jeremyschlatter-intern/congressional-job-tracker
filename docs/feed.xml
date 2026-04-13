@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Mon, 13 Apr 2026 13:54:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 22:44:22 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -295,14 +295,6 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Constituent Advocate-Pueblo, Colorado - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/constituent-advocate-pueblo-colorado-pueblo-colorado-0731</link>
-      <description>Office: Senator John W. Hickenlooper | Location: Pueblo, CO | Affiliation: Democratic | Constituent Advocate-Pueblo, Colorado Senator John Hickenlooper – a former geologist turned brewpub owner turned elected official – seeks a full-time Constituent Advocate - based in Pueblo, Colorado -...</description>
-      <guid isPermaLink="false">senate-82</guid>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Constituent Services</category>
-    </item>
-    <item>
       <title>Legislative Correspondent/Legislative Aide - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/legislative-correspondent-legislative-aide-washington-district-of-columbia-0730</link>
       <description>Office: Senator John Cornyn | Location: Washington, DC | Affiliation: Republican | Senior Republican Member of the Senate Judiciary Committee and Subcommittee Chairman seeks a Legislative Correspondent or Legislative Aide to help manage an issue portfolio consisting of Judiciary Com...</description>
@@ -403,6 +395,14 @@
       <link>https://careers.employment.senate.gov/job/communications-director-washington-district-of-columbia-0664</link>
       <description>Office: Senator Edward J. Markey | Location: Washington, DC | Affiliation: Democratic | Senator Edward J. Markey (D-Mass.) is looking for a  Communications Director with exceptional strategic, writing, and media management skills. Ideal applicant is detail-oriented, able to coordinate nu...</description>
       <guid isPermaLink="false">senate-30</guid>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Communications Advisor - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/communications-advisor-washington-district-of-columbia-0652</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | A Republican U.S. Senator is seeking a Communications Advisor to join the communications team. This position, which will report directly to the Communications Director, will play a key role in helping...</description>
+      <guid isPermaLink="false">senate-25</guid>
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
     </item>
