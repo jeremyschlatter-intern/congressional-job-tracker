@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sun, 12 Apr 2026 22:36:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 13:54:47 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -93,14 +93,6 @@
       <guid isPermaLink="false">senate-172</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
       <category>Constituent Services</category>
-    </item>
-    <item>
-      <title>Security Programs Specialist - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4308?c=house</link>
-      <description>Office: House Support Offices | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-171</guid>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
     </item>
     <item>
       <title>Auditor / Senior Auditor - U.S. House</title>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">house-94</guid>
       <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
+    </item>
+    <item>
+      <title>Communications Director - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/communications-director-washington-district-of-columbia-0664</link>
+      <description>Office: Senator Edward J. Markey | Location: Washington, DC | Affiliation: Democratic | Senator Edward J. Markey (D-Mass.) is looking for a  Communications Director with exceptional strategic, writing, and media management skills. Ideal applicant is detail-oriented, able to coordinate nu...</description>
+      <guid isPermaLink="false">senate-30</guid>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
     </item>
   </channel>
 </rss>
