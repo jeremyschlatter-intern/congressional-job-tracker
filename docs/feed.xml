@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Mon, 13 Apr 2026 22:44:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 13:59:40 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -87,14 +87,6 @@
       <category>Communications</category>
     </item>
     <item>
-      <title>Business and Agriculture Representative - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/business-and-agriculture-representative-phoenix-arizona-0769</link>
-      <description>Office: Senator Mark Kelly | Location: Phoenix, AZ | Affiliation: Democratic | The Office of Senator Mark Kelly seeks a highly motivated individual for a Business and Agriculture Representative position. This role will be based in the Phoenix office and report to the Central Ari...</description>
-      <guid isPermaLink="false">senate-172</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Constituent Services</category>
-    </item>
-    <item>
       <title>Auditor / Senior Auditor - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4310?c=house</link>
       <description>Office: House Support Offices | Location: Washington, DC</description>
@@ -107,14 +99,6 @@
       <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4290?c=house</link>
       <description>Office: Office of the Clerk | Location: Washington, DC</description>
       <guid isPermaLink="false">house-169</guid>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Network Communications Specialist - Wide Area Networks - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4307?c=house</link>
-      <description>Office: Office of the Clerk | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-168</guid>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
@@ -405,6 +389,22 @@
       <guid isPermaLink="false">senate-25</guid>
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Digital Director - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/digital-director-washington-district-of-columbia-0630</link>
+      <description>Office: Senator Christopher Murphy | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Murphy seeks a strategic, creative, and forward-thinking Digital Director to lead and grow the Senator’s digital presence. This role will shape and execute a comprehensive digita...</description>
+      <guid isPermaLink="false">senate-17</guid>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Legislative Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legislative-assistant-washington-district-of-columbia-0626</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Midwestern Republican Senator seeks a Legislative Assistant to handle to health, labor, education and judiciary issues. This position will be responsible for monitoring pending legislation within desi...</description>
+      <guid isPermaLink="false">senate-15</guid>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
   </channel>
 </rss>
