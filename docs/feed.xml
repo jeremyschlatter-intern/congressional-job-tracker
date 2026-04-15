@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Tue, 14 Apr 2026 22:47:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 13:52:49 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -83,14 +83,6 @@
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4310?c=house</link>
       <description>Office: House Support Offices | Location: Washington, DC</description>
       <guid isPermaLink="false">house-170</guid>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Network Communications Specialist - Campus Area Networks - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4290?c=house</link>
-      <description>Office: Office of the Clerk | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-169</guid>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
@@ -247,14 +239,6 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Climate Policy Advisor - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/climate-policy-advisor-washington-district-of-columbia-0738</link>
-      <description>Office: Environment and Public Works - Democrats | Location: Washington, DC | Affiliation: Democratic | The Ranking Member of the Senate Environment and Public Works Committee seeks a climate policy advisor. Candidates should have a deep background in carbon pricing, carbon tariffs, and other market-bas...</description>
-      <guid isPermaLink="false">senate-132</guid>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>Staff Assistant - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-0735</link>
       <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Republican Senator seeks an organized, energetic, and detail-oriented staff assistant. This person will possess a high degree of organization with the ability to multi-task in a faced-paced environmen...</description>
@@ -404,6 +388,22 @@
       <description>Office: House Support Offices | Location: Washington, DC</description>
       <guid isPermaLink="false">house-95</guid>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3818?c=house</link>
+      <description>Office: House Support Offices | Location: Tucson, AZ</description>
+      <guid isPermaLink="false">house-97</guid>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3886?c=house</link>
+      <description>Office: House Support Offices | Location: Miami, FL</description>
+      <guid isPermaLink="false">house-99</guid>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
   </channel>
