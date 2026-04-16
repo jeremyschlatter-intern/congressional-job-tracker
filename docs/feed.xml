@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Thu, 16 Apr 2026 14:01:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 22:41:45 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -175,14 +175,6 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Summer Legislative/Communications Intern - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/summer-legislative-communications-intern-washington-district-of-columbia-0749</link>
-      <description>Office: Environment and Public Works - Democrats | Location: Washington, DC | Affiliation: Democratic | The Ranking Member of the Senate Committee on Environment and Public Works is seeking applicants for a Communications/Legislative Internship for Summer 2026. The internship provides an opportunity to...</description>
-      <guid isPermaLink="false">senate-147</guid>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>2026 DC Press Internship - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/2026-dc-press-internship-washington-district-of-columbia-0748</link>
       <description>Office: Senator Maria Cantwell | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Maria Cantwell is currently accepting applications for our paid summer press internship in Washington, D.C. This intern will work with the communications team under the guidance...</description>
@@ -237,14 +229,6 @@
       <guid isPermaLink="false">senate-127</guid>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
-    </item>
-    <item>
-      <title>Senior Policy and Communications Advisor - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/senior-policy-and-communications-advisor-washington-district-of-columbia-0733</link>
-      <description>Office: Senator Eric Schmitt | Location: Washington, DC | Affiliation: Republican | Senator Eric Schmitt is currently accepting applications for a Senior Policy and Communications Advisor to help shape and advance the Senator’s legislative and messaging agenda. This role will support...</description>
-      <guid isPermaLink="false">senate-84</guid>
-      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
     </item>
     <item>
       <title>Legislative Correspondent/Legislative Aide - U.S. Senate</title>
@@ -404,6 +388,22 @@
       <description>Office: House Support Offices | Location: West Palm Beach, FL</description>
       <guid isPermaLink="false">house-98</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/2392?c=house</link>
+      <description>Office: House Support Offices | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-116</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3431?c=house</link>
+      <description>Office: House Support Offices | Location: New Orleans, LA</description>
+      <guid isPermaLink="false">house-115</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
   </channel>
