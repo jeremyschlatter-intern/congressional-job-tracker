@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 15 Apr 2026 22:42:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 14:01:57 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -53,14 +53,6 @@
       <guid isPermaLink="false">senate-40</guid>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Talent Acquisitions Specialist - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4312?c=house</link>
-      <description>Office: Office of the Clerk | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-176</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
     </item>
     <item>
       <title>Select Committee on Ethics Financial Disclosure Specialist - U.S. Senate</title>
@@ -403,6 +395,14 @@
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3886?c=house</link>
       <description>Office: House Support Offices | Location: Miami, FL</description>
       <guid isPermaLink="false">house-99</guid>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3906?c=house</link>
+      <description>Office: House Support Offices | Location: West Palm Beach, FL</description>
+      <guid isPermaLink="false">house-98</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
