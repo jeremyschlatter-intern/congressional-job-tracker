@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sat, 18 Apr 2026 13:15:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 22:36:58 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -85,14 +85,6 @@
       <guid isPermaLink="false">senate-167</guid>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
-    </item>
-    <item>
-      <title>Committee Legislative Director - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/committee-legislative-director-washington-district-of-columbia-0764</link>
-      <description>Office: Commerce, Science, and Transportation - Democrats | Location: Washington, DC | Affiliation: Democratic | Democratic Ranking Member of the Senate Commerce, Science, and Transportation Committee is seeking qualified candidates to lead and oversee legislative process within the Committee, through the Senate...</description>
-      <guid isPermaLink="false">senate-164</guid>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
     </item>
     <item>
       <title>Director of Scheduling - U.S. Senate</title>
@@ -327,14 +319,6 @@
       <category>Communications</category>
     </item>
     <item>
-      <title>Legislative Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-assistant-washington-district-of-columbia-0626</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Midwestern Republican Senator seeks a Legislative Assistant to handle to health, labor, education and judiciary issues. This position will be responsible for monitoring pending legislation within desi...</description>
-      <guid isPermaLink="false">senate-15</guid>
-      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>Official Reporter (Stenographer) - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4092?c=house</link>
       <description>Office: House Support Offices | Location: Washington, DC</description>
@@ -403,6 +387,22 @@
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3700?c=house</link>
       <description>Office: House Support Offices | Location: Bountiful, UT</description>
       <guid isPermaLink="false">house-110</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3721?c=house</link>
+      <description>Office: House Support Offices | Location: Cheyenne, WY</description>
+      <guid isPermaLink="false">house-109</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3735?c=house</link>
+      <description>Office: House Support Offices | Location: Akron, OH</description>
+      <guid isPermaLink="false">house-108</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
