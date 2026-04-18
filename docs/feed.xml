@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Fri, 17 Apr 2026 22:40:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 13:15:09 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -199,28 +199,12 @@
       <category>House Support</category>
     </item>
     <item>
-      <title>Research Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/research-assistant-washington-district-of-columbia-0744</link>
-      <description>Office: Commerce, Science, and Transportation - Democrats | Location: Washington, DC | Affiliation: Democratic | Democratic Ranking Member of the Commerce, Science, and Transportation Committee seeking qualified candidates to support work on science, manufacturing, technology, and innovation policy issues, inclu...</description>
-      <guid isPermaLink="false">senate-138</guid>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>Summer 2026 Internship - Dallas, TX - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/summer-2026-internship-dallas-tx-dallas-texas-0742</link>
       <description>Office: Senator John Cornyn | Location: Dallas, TX | Affiliation: Republican | The North Texas Regional Office of U.S. Senator John Cornyn, located in Dallas, Texas is now accepting resumes from college students and recent college graduates seeking an internship for the Summer o...</description>
       <guid isPermaLink="false">senate-136</guid>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
       <category>Constituent Services</category>
-    </item>
-    <item>
-      <title>Law Clerks - Fall 2026 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/law-clerks-fall-2026-washington-district-of-columbia-0741</link>
-      <description>Office: Homeland Security and Governmental Affairs - Democrats | Location: Washington, DC | Affiliation: Democratic | Democratic Ranking Member of the Permanent Subcommittee on Investigations is seeking law clerks to assist the subcommittee with its investigations during the Fall 2026. Qualified candidates will have...</description>
-      <guid isPermaLink="false">senate-135</guid>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
     </item>
     <item>
       <title>Legislative Correspondent/Legislative Aide - U.S. Senate</title>
@@ -403,6 +387,22 @@
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3586?c=house</link>
       <description>Office: House Support Offices | Location: Greeley, CO</description>
       <guid isPermaLink="false">house-114</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3647?c=house</link>
+      <description>Office: House Support Offices | Location: Escondido, CA</description>
+      <guid isPermaLink="false">house-111</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3700?c=house</link>
+      <description>Office: House Support Offices | Location: Bountiful, UT</description>
+      <guid isPermaLink="false">house-110</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
