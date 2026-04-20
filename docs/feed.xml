@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Mon, 20 Apr 2026 13:57:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 22:44:30 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -77,14 +77,6 @@
       <guid isPermaLink="false">house-170</guid>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
-    </item>
-    <item>
-      <title>Videographer - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/videographer-washington-district-of-columbia-0768</link>
-      <description>Office: Senator Chris Van Hollen | Location: Washington, DC | Affiliation: Democratic | Senator Van Hollen is seeking a videographer to join our communications team. This role will work to capture, edit, and produce compelling video content for a variety of platforms and will handle tech...</description>
-      <guid isPermaLink="false">senate-167</guid>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
     </item>
     <item>
       <title>Director of Scheduling - U.S. Senate</title>
@@ -165,14 +157,6 @@
       <guid isPermaLink="false">senate-149</guid>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>2026 DC Press Internship - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/2026-dc-press-internship-washington-district-of-columbia-0748</link>
-      <description>Office: Senator Maria Cantwell | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Maria Cantwell is currently accepting applications for our paid summer press internship in Washington, D.C. This intern will work with the communications team under the guidance...</description>
-      <guid isPermaLink="false">senate-146</guid>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
     </item>
     <item>
       <title>Speechwriter - U.S. Senate</title>
@@ -403,6 +387,22 @@
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3735?c=house</link>
       <description>Office: House Support Offices | Location: Akron, OH</description>
       <guid isPermaLink="false">house-108</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4039?c=house</link>
+      <description>Office: House Support Offices | Location: Boone, NC</description>
+      <guid isPermaLink="false">house-107</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4043?c=house</link>
+      <description>Office: House Support Offices | Location: Mayodan, NC</description>
+      <guid isPermaLink="false">house-106</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
