@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 22 Apr 2026 13:57:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 22:50:14 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -141,14 +141,6 @@
       <guid isPermaLink="false">senate-155</guid>
       <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
-    </item>
-    <item>
-      <title>Press Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/press-assistant-washington-dc-district-of-columbia-0754</link>
-      <description>Office: Senator Alex Padilla | Location: Washington DC, DC | Affiliation: Democratic | The Office of U.S. Senator Alex Padilla is seeking a Press Assistant to join our fast-moving communications team. Responsibilities include tracking media hits; building and maintaining press lists; dr...</description>
-      <guid isPermaLink="false">senate-153</guid>
-      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
     </item>
     <item>
       <title>Legislative Assistant - U.S. Senate</title>
@@ -403,6 +395,14 @@
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4043?c=house</link>
       <description>Office: House Support Offices | Location: Mayodan, NC</description>
       <guid isPermaLink="false">house-106</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4096?c=house</link>
+      <description>Office: House Support Offices | Location: Newnan, GA</description>
+      <guid isPermaLink="false">house-105</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
