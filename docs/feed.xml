@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 22 Apr 2026 22:50:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 13:59:25 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -103,14 +103,6 @@
       <category>Communications</category>
     </item>
     <item>
-      <title>Digital Manager - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/digital-manager-washington-district-of-columbia-0760</link>
-      <description>Office: Senator Adam B. Schiff | Location: Washington, DC | Affiliation: Democratic | Senator Adam Schiff seeks a driven, innovative Digital Manager to join our team. This essential role will work closely with the Digital Director and other members of the communications team, and requi...</description>
-      <guid isPermaLink="false">senate-159</guid>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
       <title>Legislative Assistant (Appropriations) - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/legislative-assistant-appropriations-washington-district-of-columbia-0759</link>
       <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Midwestern Republican senator seeks a Legislative Assistant to manage the senator’s appropriations portfolio. This position will be responsible for drafting and managing the Appropriations Committee w...</description>
@@ -188,14 +180,6 @@
       <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Senior Republican member seeks a highly-motivated and experienced Legislative Assistant to advise on economic and/or domestic policy issues. Candidates should have strong communication, research, and...</description>
       <guid isPermaLink="false">senate-77</guid>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Chief Counsel - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/chief-counsel-washington-district-of-columbia-0720</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | An active Democratic member of the Senate Judiciary Committee is seeking a Chief Counsel to oversee his robust body of work on the Judiciary Committee, aggressive oversight efforts, and all legal matt...</description>
-      <guid isPermaLink="false">senate-71</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
     </item>
     <item>
@@ -403,6 +387,22 @@
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4096?c=house</link>
       <description>Office: House Support Offices | Location: Newnan, GA</description>
       <guid isPermaLink="false">house-105</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4097?c=house</link>
+      <description>Office: House Support Offices | Location: Overland Park, KS</description>
+      <guid isPermaLink="false">house-104</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4100?c=house</link>
+      <description>Office: House Support Offices | Location: New York, NY</description>
+      <guid isPermaLink="false">house-103</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
