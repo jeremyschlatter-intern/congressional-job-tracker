@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Fri, 24 Apr 2026 13:51:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 22:40:21 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -109,14 +109,6 @@
       <guid isPermaLink="false">senate-157</guid>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
-    </item>
-    <item>
-      <title>Summer 2026 - National Security Fellow - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/summer-2026-national-security-fellow-washington-district-of-columbia-0757</link>
-      <description>Office: Senator Ruben Gallego | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Ruben Gallego is seeking a National Security Fellow to support the national security team in our Washington D.C. office. The fellow ship will begin mid-May and conclude early-Aug...</description>
-      <guid isPermaLink="false">senate-156</guid>
-      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
     </item>
     <item>
       <title>Legislative Assistant - U.S. Senate</title>
@@ -404,6 +396,14 @@
       <description>Office: House Support Offices | Location: Bradenton, FL</description>
       <guid isPermaLink="false">house-100</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3548?c=house</link>
+      <description>Office: House Support Offices | Location: Los Angeles, CA</description>
+      <guid isPermaLink="false">house-118</guid>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
   </channel>
