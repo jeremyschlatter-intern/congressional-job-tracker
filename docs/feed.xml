@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sat, 25 Apr 2026 13:18:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 22:38:33 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -93,22 +93,6 @@
       <guid isPermaLink="false">senate-162</guid>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Digital Outreach Coordinator - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/digital-outreach-coordinator-washington-district-of-columbia-0761</link>
-      <description>Office: Senator Kirsten E. Gillibrand | Location: Washington, DC | Affiliation: Democratic | The Office of U.S. Senator Kirsten Gillibrand seeks a Digital Outreach Coordinator to be based in her Washington, DC office. This is a new position that will coordinate communication to constituents a...</description>
-      <guid isPermaLink="false">senate-160</guid>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
-      <title>Press/Digital Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/press-digital-assistant-washington-district-of-columbia-0758</link>
-      <description>Office: Senator Brian Schatz | Location: Washington, DC | Affiliation: Democratic | The Office of U.S. Senator Brian Schatz seeks a Press and Digital Assistant to join an active communications team. Responsibilities include but are not limited to: producing high-quality digital media...</description>
-      <guid isPermaLink="false">senate-157</guid>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
     </item>
     <item>
       <title>Legislative Assistant - U.S. Senate</title>
@@ -229,14 +213,6 @@
       <guid isPermaLink="false">house-94</guid>
       <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
-    </item>
-    <item>
-      <title>Communications Director - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/communications-director-washington-district-of-columbia-0664</link>
-      <description>Office: Senator Edward J. Markey | Location: Washington, DC | Affiliation: Democratic | Senator Edward J. Markey (D-Mass.) is looking for a  Communications Director with exceptional strategic, writing, and media management skills. Ideal applicant is detail-oriented, able to coordinate nu...</description>
-      <guid isPermaLink="false">senate-30</guid>
-      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
     </item>
     <item>
       <title>Digital Director - U.S. Senate</title>
@@ -405,6 +381,30 @@
       <guid isPermaLink="false">house-118</guid>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold - Emergency Management Specialist - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4186?c=house</link>
+      <description>Office: House Support Offices | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-117</guid>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4113?c=house</link>
+      <description>Office: House Support Offices | Location: High Point, NC</description>
+      <guid isPermaLink="false">house-124</guid>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Special Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/special-assistant-wilmington-delaware-0792</link>
+      <description>Office: Senator Lisa Blunt Rochester | Location: Wilmington, DE | Affiliation: Democratic | Senator Lisa Blunt Rochester seeks an organized, dependable, and detail-oriented Special Assistant to serve in her Wilmington, Delaware office. The Special Assistant will serve as the Senator’s driver...</description>
+      <guid isPermaLink="false">senate-201</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
     </item>
   </channel>
 </rss>
