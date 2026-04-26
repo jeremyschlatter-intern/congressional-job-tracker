@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sat, 25 Apr 2026 22:38:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 13:19:19 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -77,14 +77,6 @@
       <guid isPermaLink="false">house-170</guid>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
-    </item>
-    <item>
-      <title>Director of Scheduling - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/director-of-scheduling-washington-district-of-columbia-0763</link>
-      <description>Office: Senator Kirsten E. Gillibrand | Location: Washington, DC | Affiliation: Democratic | The Office of Sen. Kirsten Gillibrand seeks a Director of Scheduling to manage the her daily and long-term schedules in DC and New York. This person will report to the Deputy Chief of Staff, supervise...</description>
-      <guid isPermaLink="false">senate-163</guid>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
     </item>
     <item>
       <title>Legislative Correspondent - U.S. Senate</title>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">senate-201</guid>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
+    </item>
+    <item>
+      <title>Senate Resume Bank - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/senate-resume-bank-washington-district-of-columbia-0790</link>
+      <description>Office: Senate Employment Office | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Employment Office is accepting submissions for the 2026 Senate Resume Bank. Individuals interested in entry-level through professional staff opportunities with a Senator or Senate Committee...</description>
+      <guid isPermaLink="false">senate-200</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
     </item>
   </channel>
 </rss>
