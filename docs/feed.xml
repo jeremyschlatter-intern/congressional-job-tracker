@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Mon, 27 Apr 2026 14:09:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 22:54:10 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -136,14 +136,6 @@
     </item>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4257?c=house</link>
-      <description>Office: House Support Offices | Location: Jupiter, FL</description>
-      <guid isPermaLink="false">house-89</guid>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4248?c=house</link>
       <description>Office: House Support Offices | Location: Huntsville, AL</description>
       <guid isPermaLink="false">house-90</guid>
@@ -235,14 +227,6 @@
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3886?c=house</link>
       <description>Office: House Support Offices | Location: Miami, FL</description>
       <guid isPermaLink="false">house-99</guid>
-      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3906?c=house</link>
-      <description>Office: House Support Offices | Location: West Palm Beach, FL</description>
-      <guid isPermaLink="false">house-98</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
@@ -405,6 +389,22 @@
       <guid isPermaLink="false">senate-200</guid>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
       <category>Senate Support</category>
+    </item>
+    <item>
+      <title>Digital Director - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/digital-director-washington-district-of-columbia-0788</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Senior Republican Senator has an opening for a Digital Director to join a large, fast-paced communications team. The ideal candidate is a hard worker, team player, and strong writer able to juggle mul...</description>
+      <guid isPermaLink="false">senate-198</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Systems Administrator/Correspondence Manager (Systems/Correspondence Coordinator) - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/systems-administrator-correspondence-manager-systems-correspondence-coordinator-washington-district-of-columbia-0787</link>
+      <description>Office: Senator Edward J. Markey | Location: Washington, DC | Affiliation: Democratic | Senator Edward J. Markey (D-MA) seeks a Systems Administrator/Correspondence Manager (or Systems/Correspondence Coordinator, depending on experience) to provide technology support for DC and state off...</description>
+      <guid isPermaLink="false">senate-197</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
     </item>
   </channel>
 </rss>
