@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 29 Apr 2026 14:13:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 22:58:04 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -199,14 +199,6 @@
       <category>House Support</category>
     </item>
     <item>
-      <title>Digital Director - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/digital-director-washington-district-of-columbia-0630</link>
-      <description>Office: Senator Christopher Murphy | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Murphy seeks a strategic, creative, and forward-thinking Digital Director to lead and grow the Senator’s digital presence. This role will shape and execute a comprehensive digita...</description>
-      <guid isPermaLink="false">senate-17</guid>
-      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
       <title>Official Reporter (Stenographer) - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4092?c=house</link>
       <description>Office: House Support Offices | Location: Washington, DC</description>
@@ -375,14 +367,6 @@
       <category>House Support</category>
     </item>
     <item>
-      <title>Special Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/special-assistant-wilmington-delaware-0792</link>
-      <description>Office: Senator Lisa Blunt Rochester | Location: Wilmington, DE | Affiliation: Democratic | Senator Lisa Blunt Rochester seeks an organized, dependable, and detail-oriented Special Assistant to serve in her Wilmington, Delaware office. The Special Assistant will serve as the Senator’s driver...</description>
-      <guid isPermaLink="false">senate-201</guid>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
-    </item>
-    <item>
       <title>Senate Resume Bank - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/senate-resume-bank-washington-district-of-columbia-0790</link>
       <description>Office: Senate Employment Office | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Employment Office is accepting submissions for the 2026 Senate Resume Bank. Individuals interested in entry-level through professional staff opportunities with a Senator or Senate Committee...</description>
@@ -405,6 +389,22 @@
       <guid isPermaLink="false">senate-197</guid>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
+    </item>
+    <item>
+      <title>Digital Staffer - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/digital-staffer-washington-district-of-columbia-0786</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | Northeast Democratic senator seeks a Digital staffer to join our office’s communications team. One to two years of digital experience is preferred but not required. Excellent creativity, as well as th...</description>
+      <guid isPermaLink="false">senate-196</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Deputy Press Secretary - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/deputy-press-secretary-washington-district-of-columbia-0785</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | Northeast Democratic senator seeks a Deputy Press Secretary to join our office’s communications team. Ideal candidates will have 1-2 years of prior press experience, including prior Hill or campaign e...</description>
+      <guid isPermaLink="false">senate-195</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
     </item>
   </channel>
 </rss>
