@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Thu, 30 Apr 2026 22:54:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 13:41:06 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -101,22 +101,6 @@
       <guid isPermaLink="false">senate-136</guid>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
       <category>Constituent Services</category>
-    </item>
-    <item>
-      <title>Legislative Correspondent/Legislative Aide - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-correspondent-legislative-aide-washington-district-of-columbia-0730</link>
-      <description>Office: Senator John Cornyn | Location: Washington, DC | Affiliation: Republican | Senior Republican Member of the Senate Judiciary Committee and Subcommittee Chairman seeks a Legislative Correspondent or Legislative Aide to help manage an issue portfolio consisting of Judiciary Com...</description>
-      <guid isPermaLink="false">senate-81</guid>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Legislative Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-assistant-washington-district-of-columbia-0726</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Senior Republican member seeks a highly-motivated and experienced Legislative Assistant to advise on economic and/or domestic policy issues. Candidates should have strong communication, research, and...</description>
-      <guid isPermaLink="false">senate-77</guid>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
     </item>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -405,6 +389,22 @@
       <guid isPermaLink="false">senate-185</guid>
       <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Stars of Valor Fellow – Senator Dave McCormick - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/stars-of-valor-fellow-senator-dave-mccormick-harrisburg-pennsylvania-0777</link>
+      <description>Office: Stars of Valor Fellowships Program | Location: Harrisburg, PA | Affiliation: Republican | The Senate has established the Stars of Valor Fellowships Program for wounded and disabled veterans; family members of Armed Forces servicemembers who die in the line of duty or veterans who die of se...</description>
+      <guid isPermaLink="false">senate-184</guid>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Outreach Coordinator, House Center for Well-Being - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4372?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-273</guid>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
     </item>
   </channel>
 </rss>
