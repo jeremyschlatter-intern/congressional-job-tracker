@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sun, 03 May 2026 13:24:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 22:42:56 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -53,14 +53,6 @@
       <guid isPermaLink="false">senate-52</guid>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
-    </item>
-    <item>
-      <title>Oversight Counsel - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/oversight-counsel-washington-district-of-columbia-0691</link>
-      <description>Office: Health, Education, Labor, and Pensions - Republicans | Location: Washington, DC | Affiliation: Republican | Senate HELP Committee Republican Staff is seeking an experienced oversight and investigations counsel. Job responsibilities include initiating and managing oversight and investigations projects, draft...</description>
-      <guid isPermaLink="false">senate-46</guid>
-      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
     </item>
     <item>
       <title>State Press Secretary - U.S. Senate</title>
@@ -403,6 +395,14 @@
       <link>https://careers.employment.senate.gov/job/digital-director-manager-washington-district-of-columbia-0781</link>
       <description>Office: Senator Elissa Slotkin | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Elissa Slotkin is looking for a Digital Director or Manager (commensurate with experience) to work with the Communications Director to oversee the Senator’s social media platform...</description>
       <guid isPermaLink="false">senate-187</guid>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Digital Fellowship - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/digital-fellowship-washington-district-of-columbia-0779</link>
+      <description>Office: Senator Edward J. Markey | Location: Washington, DC | Affiliation: Democratic | Senator Edward J. Markey (D-Mass.) is currently accepting applications for a Digital Fellowship position in his Washington DC office for Summer 2026. The Digital Fellowship is directed toward current...</description>
+      <guid isPermaLink="false">senate-185</guid>
       <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
     </item>
