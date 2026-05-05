@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Mon, 04 May 2026 22:57:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 22:57:00 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -13,6 +13,46 @@
       <guid isPermaLink="false">house-126</guid>
       <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
       <category>House Support</category>
+    </item>
+    <item>
+      <title>Press Secretary for Republican Senator - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/press-secretary-for-republican-senator-washington-district-of-columbia-0862</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | A Republican Senate office is seeking a Press Secretary to join its fast-paced communications team in Washington, D.C. This role is ideal for a strong writer with prior media experience who can work q...</description>
+      <guid isPermaLink="false">senate-284</guid>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Judiciary Law Clerk - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/judiciary-law-clerk-washington-district-of-columbia-0861</link>
+      <description>Office: Senator Amy Klobuchar | Location: Washington, DC | Affiliation: Democratic | The Judiciary Committee staff of U.S. Senator Amy Klobuchar is accepting applications for law clerks for Fall 2026 to work in-person in her Washington, D.C. office. Law clerks will assist Senator Klob...</description>
+      <guid isPermaLink="false">senate-283</guid>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Staff Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-0860</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | New England Democratic Senator is seeking a Staff Assistant with immediate availability for their Washington, DC office. Key responsibilities include: Managing front office operations, including greet...</description>
+      <guid isPermaLink="false">senate-282</guid>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
+    </item>
+    <item>
+      <title>Staff Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-0859</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | Senior Democratic Senator seeks Staff Assistant to join their busy operations team. The Staff Assistant will assist the operations team with special projects at the direction of the Senator, write eve...</description>
+      <guid isPermaLink="false">senate-281</guid>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
+    </item>
+    <item>
+      <title>Legislative Correspondent - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legislative-correspondent-washington-district-of-columbia-0858</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | New England Democratic Senator seeks a legislative correspondent to join their policy team. Responsibilities include drafting and responding to constituent correspondence, drafting oversight letters a...</description>
+      <guid isPermaLink="false">senate-280</guid>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
     <item>
       <title>Communications Director - U.S. Senate</title>
@@ -79,14 +119,6 @@
       <category>Administrative</category>
     </item>
     <item>
-      <title>State Press Secretary - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/state-press-secretary-newark-new-jersey-0689</link>
-      <description>Office: Senator Cory A. Booker | Location: Newark, NJ | Affiliation: Democratic | Senator Cory A. Booker (D-New Jersey) seeks a State Press Secretary for his Newark, New Jersey office. The ideal candidate has experience working directly with members of the media, particularly those...</description>
-      <guid isPermaLink="false">senate-44</guid>
-      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
       <title>Legislative Assistant (Judiciary, Economy) - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/legislative-assistant-judiciary-economy-washington-district-of-columbia-0683</link>
       <description>Office: Senator Brian Schatz | Location: Washington, DC | Affiliation: Democratic | Senator Brian Schatz seeks a legislative assistant to staff the senator’s work on judiciary-related topics (including antitrust, civil rights, criminal justice, gun control, immigration, intellectual...</description>
@@ -133,14 +165,6 @@
       <guid isPermaLink="false">house-141</guid>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
-    </item>
-    <item>
-      <title>Summer 2026 Internship - Dallas, TX - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/summer-2026-internship-dallas-tx-dallas-texas-0742</link>
-      <description>Office: Senator John Cornyn | Location: Dallas, TX | Affiliation: Republican | The North Texas Regional Office of U.S. Senator John Cornyn, located in Dallas, Texas is now accepting resumes from college students and recent college graduates seeking an internship for the Summer o...</description>
-      <guid isPermaLink="false">senate-136</guid>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Constituent Services</category>
     </item>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -381,30 +405,6 @@
       <guid isPermaLink="false">senate-200</guid>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
       <category>Senate Support</category>
-    </item>
-    <item>
-      <title>Digital Director - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/digital-director-washington-district-of-columbia-0788</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Senior Republican Senator has an opening for a Digital Director to join a large, fast-paced communications team. The ideal candidate is a hard worker, team player, and strong writer able to juggle mul...</description>
-      <guid isPermaLink="false">senate-198</guid>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
-      <title>Systems Administrator/Correspondence Manager (Systems/Correspondence Coordinator) - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/systems-administrator-correspondence-manager-systems-correspondence-coordinator-washington-district-of-columbia-0787</link>
-      <description>Office: Senator Edward J. Markey | Location: Washington, DC | Affiliation: Democratic | Senator Edward J. Markey (D-MA) seeks a Systems Administrator/Correspondence Manager (or Systems/Correspondence Coordinator, depending on experience) to provide technology support for DC and state off...</description>
-      <guid isPermaLink="false">senate-197</guid>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
-    </item>
-    <item>
-      <title>Digital Staffer - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/digital-staffer-washington-district-of-columbia-0786</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | Northeast Democratic senator seeks a Digital staffer to join our office’s communications team. One to two years of digital experience is preferred but not required. Excellent creativity, as well as th...</description>
-      <guid isPermaLink="false">senate-196</guid>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
     </item>
   </channel>
 </rss>
