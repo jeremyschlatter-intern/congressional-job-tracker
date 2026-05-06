@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 06 May 2026 14:28:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 22:54:07 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -13,6 +13,54 @@
       <guid isPermaLink="false">house-126</guid>
       <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
       <category>House Support</category>
+    </item>
+    <item>
+      <title>Bowling Green, KY Staff Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/bowling-green-ky-staff-assistant-bowling-green-kentucky-0869</link>
+      <description>Office: Senator Rand Paul | Location: Bowling Green, KY | Affiliation: Republican | Senator Rand Paul is seeking a full-time Staff Assistant in the Bowling Green, Kentucky State Office to handle administrative tasks, answer phones, greet office visitors, distribute mail, and support...</description>
+      <guid isPermaLink="false">senate-291</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
+    </item>
+    <item>
+      <title>Principal Network Engineer (Unified Communications/Voice) #332 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/principal-network-engineer-unified-communications-voice-332-washington-district-of-columbia-0868</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Sergeant at Arms is seeking a Principal Network Engineer (Unified Communications/Voice). This is advanced professional work to plan, analyze, design, test, evaluate, install, troubleshoot, and mai...</description>
+      <guid isPermaLink="false">senate-290</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
+    </item>
+    <item>
+      <title>Counsel - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/counsel-washington-district-of-columbia-0866</link>
+      <description>Office: Senator Adam B. Schiff | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Adam Schiff, a member of the Senate Judiciary Committee, is seeking a Counsel to cover judiciary issues, including issues related to nominations, courts, trademarks, patents, gov...</description>
+      <guid isPermaLink="false">senate-289</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Staff Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/staff-assistant-dallas-texas-0865</link>
+      <description>Office: Senator Ted Cruz | Location: Dallas, TX | Affiliation: Republican | Senator Ted Cruz (R-TX) is seeking a Staff Assistant to join his North Texas Regional office located in Dallas, Texas. Primary responsibilities include, but are not limited to, maintaining front offic...</description>
+      <guid isPermaLink="false">senate-288</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
+    </item>
+    <item>
+      <title>Digital Manager - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/digital-manager-washington-district-of-columbia-0864</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | Democratic Senator is seeking a full-time, in-person Digital Manager to work with the Communications Director and Communications Assistant to oversee an active social media program. Responsibilities f...</description>
+      <guid isPermaLink="false">senate-287</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Constituent Data &amp; Outreach Coordinator - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/constituent-data-outreach-coordinator-washington-district-of-columbia-0863</link>
+      <description>Office: Senator Kirsten E. Gillibrand | Location: Washington, DC | Affiliation: Democratic | The Office of U.S. Senator Kirsten Gillibrand seeks a Constituent  Data &amp;amp; Outreach Coordinator to be based in her Washington, DC office. This is a new position that will coordinate communication t...</description>
+      <guid isPermaLink="false">senate-286</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
     </item>
     <item>
       <title>Press Secretary for Republican Senator - U.S. Senate</title>
@@ -87,6 +135,30 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
+      <title>DevOps Engineer II - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4379?c=house</link>
+      <description>Office: House Support Offices | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-294</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Attorney - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4381?c=house</link>
+      <description>Office: House Support Offices | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-293</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Summer Associate - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4382?c=house</link>
+      <description>Office: House Support Offices | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-292</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
       <title>Senior Cloud Engineer - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4378?c=house</link>
       <description>Office: House Support Offices | Location: Washington, DC</description>
@@ -125,14 +197,6 @@
       <guid isPermaLink="false">senate-52</guid>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
-    </item>
-    <item>
-      <title>Legislative Assistant (Judiciary, Economy) - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-assistant-judiciary-economy-washington-district-of-columbia-0683</link>
-      <description>Office: Senator Brian Schatz | Location: Washington, DC | Affiliation: Democratic | Senator Brian Schatz seeks a legislative assistant to staff the senator’s work on judiciary-related topics (including antitrust, civil rights, criminal justice, gun control, immigration, intellectual...</description>
-      <guid isPermaLink="false">senate-40</guid>
-      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
     </item>
     <item>
       <title>Stars of Valor Fellow – Senator Ron Johnson - U.S. Senate</title>
@@ -341,70 +405,6 @@
       <guid isPermaLink="false">house-104</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4100?c=house</link>
-      <description>Office: House Support Offices | Location: New York, NY</description>
-      <guid isPermaLink="false">house-103</guid>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4131?c=house</link>
-      <description>Office: House Support Offices | Location: Stockton, CA</description>
-      <guid isPermaLink="false">house-102</guid>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4132?c=house</link>
-      <description>Office: House Support Offices | Location: Allentown, PA</description>
-      <guid isPermaLink="false">house-101</guid>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4133?c=house</link>
-      <description>Office: House Support Offices | Location: Bradenton, FL</description>
-      <guid isPermaLink="false">house-100</guid>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3548?c=house</link>
-      <description>Office: House Support Offices | Location: Los Angeles, CA</description>
-      <guid isPermaLink="false">house-118</guid>
-      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold - Emergency Management Specialist - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4186?c=house</link>
-      <description>Office: House Support Offices | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-117</guid>
-      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4113?c=house</link>
-      <description>Office: House Support Offices | Location: High Point, NC</description>
-      <guid isPermaLink="false">house-124</guid>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Senate Resume Bank - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/senate-resume-bank-washington-district-of-columbia-0790</link>
-      <description>Office: Senate Employment Office | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Employment Office is accepting submissions for the 2026 Senate Resume Bank. Individuals interested in entry-level through professional staff opportunities with a Senator or Senate Committee...</description>
-      <guid isPermaLink="false">senate-200</guid>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
     </item>
   </channel>
 </rss>
