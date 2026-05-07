@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 06 May 2026 22:54:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 14:30:29 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -13,6 +13,14 @@
       <guid isPermaLink="false">house-126</guid>
       <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
       <category>House Support</category>
+    </item>
+    <item>
+      <title>Emergency Preparedness Analyst #5369 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/emergency-preparedness-analyst-5369-washington-district-of-columbia-0870</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Sergeant at Arms is seeking an  Emergency Preparedness Analyst to d evelop emergency action plans, training, and exercises for the Senate community. Interface with Senate staff and Office Emergenc...</description>
+      <guid isPermaLink="false">senate-295</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
     </item>
     <item>
       <title>Bowling Green, KY Staff Assistant - U.S. Senate</title>
@@ -395,14 +403,6 @@
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4096?c=house</link>
       <description>Office: House Support Offices | Location: Newnan, GA</description>
       <guid isPermaLink="false">house-105</guid>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4097?c=house</link>
-      <description>Office: House Support Offices | Location: Overland Park, KS</description>
-      <guid isPermaLink="false">house-104</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
