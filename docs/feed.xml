@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Thu, 07 May 2026 14:30:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 23:01:28 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -13,6 +13,22 @@
       <guid isPermaLink="false">house-126</guid>
       <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
       <category>House Support</category>
+    </item>
+    <item>
+      <title>Director of Scheduling - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/director-of-scheduling-washington-district-of-columbia-0872</link>
+      <description>Office: Senator Kirsten E. Gillibrand | Location: Washington, DC | Affiliation: Democratic | The Office of Sen. Kirsten Gillibrand seeks a Director of Scheduling to manage her daily and long-term schedules in DC, New York and nationally. This person will report to the Deputy Chief of Staff, s...</description>
+      <guid isPermaLink="false">senate-297</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
+    </item>
+    <item>
+      <title>Constituent Services Representative - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/constituent-services-representative-albuquerque-new-mexico-0871</link>
+      <description>Office: Senator Martin Heinrich | Location: Albuquerque, NM | Affiliation: Democratic | Senator Martin Heinrich (D-NM) seeks a Constituent Services Representative based in Albuquerque or Las Cruces. This position is responsible for assisting constituents in navigating federal agencies an...</description>
+      <guid isPermaLink="false">senate-296</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
     </item>
     <item>
       <title>Emergency Preparedness Analyst #5369 - U.S. Senate</title>
@@ -144,10 +160,18 @@
     </item>
     <item>
       <title>DevOps Engineer II - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4379?c=house</link>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4383?c=house</link>
       <description>Office: House Support Offices | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-294</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">house-299</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Teacher Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4380?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-298</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
     <item>
@@ -379,30 +403,6 @@
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3735?c=house</link>
       <description>Office: House Support Offices | Location: Akron, OH</description>
       <guid isPermaLink="false">house-108</guid>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4039?c=house</link>
-      <description>Office: House Support Offices | Location: Boone, NC</description>
-      <guid isPermaLink="false">house-107</guid>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4043?c=house</link>
-      <description>Office: House Support Offices | Location: Mayodan, NC</description>
-      <guid isPermaLink="false">house-106</guid>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4096?c=house</link>
-      <description>Office: House Support Offices | Location: Newnan, GA</description>
-      <guid isPermaLink="false">house-105</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
