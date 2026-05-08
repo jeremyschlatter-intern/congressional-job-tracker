@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Fri, 08 May 2026 14:03:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 22:55:54 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -13,6 +13,30 @@
       <guid isPermaLink="false">house-126</guid>
       <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
       <category>House Support</category>
+    </item>
+    <item>
+      <title>Capitol Telephone Exchange Operator #299 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/capitol-telephone-exchange-operator-299-washington-district-of-columbia-0875</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The U.S. Senate Sergeant at Arms is seeking a detail-oriented, customer service-focused Capitol Telephone Exchange Operator to join a team providing 24/7 call answering and transfer services that conn...</description>
+      <guid isPermaLink="false">senate-302</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
+    </item>
+    <item>
+      <title>Research Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/research-assistant-washington-district-of-columbia-0874</link>
+      <description>Office: Commerce, Science, and Transportation - Democrats | Location: Washington, DC | Affiliation: Democratic | Democratic Ranking Member of the Commerce, Science, and Transportation Committee seeking qualified candidates to support work on surface transportation (railroads, motor vehicles (trucks), pipelines,...</description>
+      <guid isPermaLink="false">senate-301</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Congressional Aide - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/congressional-aide-boston-massachusetts-0873</link>
+      <description>Office: Senator Edward J. Markey | Location: Boston, MA | Affiliation: Democratic | Senator Edward J. Markey seeks a Congressional Aide for his Boston office. Responsibilities include managing a significant casework portfolio, liaising with federal agencies, attending meetings and ev...</description>
+      <guid isPermaLink="false">senate-300</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
     </item>
     <item>
       <title>Director of Scheduling - U.S. Senate</title>
@@ -379,30 +403,6 @@
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3647?c=house</link>
       <description>Office: House Support Offices | Location: Escondido, CA</description>
       <guid isPermaLink="false">house-111</guid>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3700?c=house</link>
-      <description>Office: House Support Offices | Location: Bountiful, UT</description>
-      <guid isPermaLink="false">house-110</guid>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3721?c=house</link>
-      <description>Office: House Support Offices | Location: Cheyenne, WY</description>
-      <guid isPermaLink="false">house-109</guid>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3735?c=house</link>
-      <description>Office: House Support Offices | Location: Akron, OH</description>
-      <guid isPermaLink="false">house-108</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
