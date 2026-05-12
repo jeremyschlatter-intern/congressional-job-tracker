@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Mon, 11 May 2026 22:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 14:37:20 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -157,6 +157,22 @@
       <guid isPermaLink="false">senate-277</guid>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Correspondence Manager - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/correspondence-manager-washington-district-of-columbia-0883</link>
+      <description>Office: Senator Elissa Slotkin | Location: Washington, DC | Affiliation: Democratic | The Office of Elissa Slotkin is seeking  a Correspondence Manager to join her Washington D.C. office. This position is responsible for all aspects of the office’s correspondence operation, including e...</description>
+      <guid isPermaLink="false">senate-314</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Director of Scheduling - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/director-of-scheduling-washington-district-of-columbia-0882</link>
+      <description>Office: Senator Sheldon Whitehouse | Location: Washington, DC | Affiliation: Democratic | Senator Sheldon Whitehouse (D-RI) seeks a Director of Scheduling for Washington, DC office. The Director of Scheduling manages the Senator’s daily and long-term schedules in DC and nationally. Duties...</description>
+      <guid isPermaLink="false">senate-313</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
     </item>
     <item>
       <title>Attorney - U.S. House</title>
@@ -389,22 +405,6 @@
       <guid isPermaLink="false">senate-8</guid>
       <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
       <category>Senate Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4151?c=house</link>
-      <description>Office: House Support Offices | Location: Salem, IN</description>
-      <guid isPermaLink="false">house-120</guid>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Editor (Scopist) - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4239?c=house</link>
-      <description>Office: House Support Offices | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-94</guid>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
     </item>
   </channel>
 </rss>
