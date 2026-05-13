@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Tue, 12 May 2026 23:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 14:48:27 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -157,6 +157,14 @@
       <guid isPermaLink="false">senate-277</guid>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Policy Advisor/Senior Policy Advisor - K-12 Education - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/policy-advisor-senior-policy-advisor-k-12-education-washington-district-of-columbia-0885</link>
+      <description>Office: Health, Education, Labor, and Pensions - Democrats | Location: Washington, DC | Affiliation: Democratic | The U.S. Senate Health, Education, Labor and Pensions (HELP) Committee, Minority staff seeks a qualified candidate to support the Committee’s legislative activities related to K-12 education. Addition...</description>
+      <guid isPermaLink="false">senate-317</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
     <item>
       <title>Infant &amp; Young Toddler Lead Teacher - U.S. House</title>
@@ -395,14 +403,6 @@
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4244?c=house</link>
       <description>Office: House Support Offices | Location: Morgantown, WV</description>
       <guid isPermaLink="false">house-93</guid>
-      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4245?c=house</link>
-      <description>Office: House Support Offices | Location: Des Moines, IA</description>
-      <guid isPermaLink="false">house-92</guid>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
