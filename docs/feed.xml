@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Fri, 15 May 2026 14:21:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 22:55:20 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -23,8 +23,8 @@
       <category>Senate Support</category>
     </item>
     <item>
-      <title>Research Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/research-assistant-washington-district-of-columbia-0874</link>
+      <title>Research Assistant – Transportation - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/research-assistant-transportation-washington-district-of-columbia-0874</link>
       <description>Office: Commerce, Science, and Transportation - Democrats | Location: Washington, DC | Affiliation: Democratic | Democratic Ranking Member of the Commerce, Science, and Transportation Committee seeking qualified candidates to support work on surface transportation (railroads, motor vehicles (trucks), pipelines,...</description>
       <guid isPermaLink="false">senate-301</guid>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
@@ -141,6 +141,62 @@
       <guid isPermaLink="false">senate-277</guid>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Printing and Reprographics Specialist #550 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/printing-and-reprographics-specialist-550-landover-maryland-0897</link>
+      <description>Office: Senate Sergeant at Arms | Location: Landover, MD | Affiliation: Nonpartisan | As a Printing and Reprographics Specialist within Printing Graphics and Direct Mail’s (PGDM) Landover Print Facility, you will play a crucial role in processing high priority jobs for Senators, Commit...</description>
+      <guid isPermaLink="false">senate-331</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
+    </item>
+    <item>
+      <title>Regional Director - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/regional-director-boston-massachusetts-0896</link>
+      <description>Office: Confidential | Location: Boston, MA | Affiliation: Democratic | Massachusetts Democratic Senator seeks a Regional Director based in the Senator’s Boston office, covering the South Coast, Cape and Islands. The Regional Director is a critical member of a dynamic tea...</description>
+      <guid isPermaLink="false">senate-330</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
+    </item>
+    <item>
+      <title>Temporary Press Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/temporary-press-assistant-washington-district-of-columbia-0895</link>
+      <description>Office: Senator Mark Kelly | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Mark Kelly seeks a detail-oriented and highly motivated individual to serve as a temporary Press Assistant on his communications team from June-December 2026. This role will be b...</description>
+      <guid isPermaLink="false">senate-329</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Chief Counsel - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/chief-counsel-washington-district-of-columbia-0894</link>
+      <description>Office: Senator Adam B. Schiff | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Adam Schiff, a member of the Senate Judiciary Committee, is seeking a Chief Counsel to oversee his robust body of work on the Judiciary Committee, aggressive oversight efforts, a...</description>
+      <guid isPermaLink="false">senate-328</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Research Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/research-assistant-washington-district-of-columbia-0893</link>
+      <description>Office: Commerce, Science, and Transportation - Democrats | Location: Washington, DC | Affiliation: Democratic | Democratic Ranking Member of the Commerce, Science, and Transportation Committee seeking highly motivated candidates to support the Committee’s oversight, investigations, and nominations work. Respons...</description>
+      <guid isPermaLink="false">senate-327</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Staff Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/staff-assistant-boston-massachusetts-0892</link>
+      <description>Office: Senator Edward J. Markey | Location: Boston, MA | Affiliation: Democratic | Senator Edward J. Markey (D-Mass.) is looking for a highly-motivated and detail-oriented Staff Assistant for his Boston, Massachusetts office. Applicants must possess a professional telephone manner,...</description>
+      <guid isPermaLink="false">senate-326</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
+    </item>
+    <item>
+      <title>Senior Systems Engineer #243 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/senior-systems-engineer-243-washington-district-of-columbia-0891</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Sergeant at Arms is seeking a Senior Systems Engineer #243.  The Senior Systems Engineer needs to have wide experience supporting and maintaining websites and web applications, have working knowle...</description>
+      <guid isPermaLink="false">senate-325</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
     </item>
     <item>
       <title>Administrative Specialist #43 - U.S. Senate</title>
@@ -349,62 +405,6 @@
       <guid isPermaLink="false">house-298</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
-    </item>
-    <item>
-      <title>Senior Cloud Engineer - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4378?c=house</link>
-      <description>Office: House Support Offices | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-285</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Workforce Analyst - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4376?c=house</link>
-      <description>Office: Office of the Clerk | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-279</guid>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>People Operations Generalist - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4377?c=house</link>
-      <description>Office: Office of the Clerk | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-278</guid>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Stars of Valor Fellow – Senator Ron Johnson - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/stars-of-valor-fellow-senator-ron-johnson-milwaukee-wisconsin-0771</link>
-      <description>Office: Stars of Valor Fellowships Program | Location: Milwaukee, WI | Affiliation: Nonpartisan | The Senate has established the Stars of Valor Fellowships Program for wounded and disabled veterans; family members of Armed Forces servicemembers who die in the line of duty or veterans who die of se...</description>
-      <guid isPermaLink="false">senate-174</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Constituent Services</category>
-    </item>
-    <item>
-      <title>Legislative Correspondent - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-correspondent-washington-district-of-columbia-0762</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Midwest Republican member of the Senate Agriculture Committee is seeking a Legislative Correspondent to handle constituent correspondence and provide legislative support on agriculture, energy, enviro...</description>
-      <guid isPermaLink="false">senate-162</guid>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Legislative Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-assistant-washington-district-of-columbia-0751</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Senior Republican Senator seeks Legislative Assistant in the Washington, DC office with a focus on health care and education policy. Responsibilities include monitoring legislation in assigned portfol...</description>
-      <guid isPermaLink="false">senate-149</guid>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Speechwriter - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/speechwriter-washington-district-of-columbia-0746</link>
-      <description>Office: Senator Elissa Slotkin | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Elissa Slotkin is seeking an experienced Speechwriter to serve in the Washington, DC office. The Speechwriter will be responsible for drafting written remarks for Senator Slotkin...</description>
-      <guid isPermaLink="false">senate-144</guid>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
     </item>
   </channel>
 </rss>
