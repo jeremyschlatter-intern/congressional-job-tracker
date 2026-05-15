@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Thu, 14 May 2026 22:57:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 14:21:16 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -29,14 +29,6 @@
       <guid isPermaLink="false">senate-301</guid>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Congressional Aide - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/congressional-aide-boston-massachusetts-0873</link>
-      <description>Office: Senator Edward J. Markey | Location: Boston, MA | Affiliation: Democratic | Senator Edward J. Markey seeks a Congressional Aide for his Boston office. Responsibilities include managing a significant casework portfolio, liaising with federal agencies, attending meetings and ev...</description>
-      <guid isPermaLink="false">senate-300</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <category>Constituent Services</category>
     </item>
     <item>
       <title>Director of Scheduling - U.S. Senate</title>
@@ -135,14 +127,6 @@
       <category>Administrative</category>
     </item>
     <item>
-      <title>Staff Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-0859</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | Senior Democratic Senator seeks Staff Assistant to join their busy operations team. The Staff Assistant will assist the operations team with special projects at the direction of the Senator, write eve...</description>
-      <guid isPermaLink="false">senate-281</guid>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
-    </item>
-    <item>
       <title>Legislative Correspondent - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/legislative-correspondent-washington-district-of-columbia-0858</link>
       <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | New England Democratic Senator seeks a legislative correspondent to join their policy team. Responsibilities include drafting and responding to constituent correspondence, drafting oversight letters a...</description>
@@ -157,6 +141,14 @@
       <guid isPermaLink="false">senate-277</guid>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Administrative Specialist #43 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/administrative-specialist-43-washington-district-of-columbia-0890</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Recording Studio is seeking an Administrative Specialist to support with various administrative tasks including but not limited to answering phones, greeting guests, scheduling work orders,...</description>
+      <guid isPermaLink="false">senate-324</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
     </item>
     <item>
       <title>Deputy Director, Engineering - U.S. House</title>
@@ -351,14 +343,6 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>DevOps Engineer II - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4383?c=house</link>
-      <description>Office: House Support Offices | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-299</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
       <title>Teacher Aide - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4380?c=house</link>
       <description>Office: Office of the Clerk | Location: Washington, DC</description>
@@ -391,20 +375,36 @@
       <category>House Support</category>
     </item>
     <item>
-      <title>Summer Law Clerk - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/summer-law-clerk-washington-district-of-columbia-0705</link>
-      <description>Office: Homeland Security and Governmental Affairs - Republicans | Location: Washington, DC | Affiliation: Republican | The U.S. Senate Permanent Subcommittee on Investigations office of Chairman Ron Johnson (R-WI) is seeking law clerks for the summer of 2026. The position offers law students the opportunity to gain ex...</description>
-      <guid isPermaLink="false">senate-57</guid>
-      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>Stars of Valor Fellow – Senator Ron Johnson - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/stars-of-valor-fellow-senator-ron-johnson-milwaukee-wisconsin-0771</link>
       <description>Office: Stars of Valor Fellowships Program | Location: Milwaukee, WI | Affiliation: Nonpartisan | The Senate has established the Stars of Valor Fellowships Program for wounded and disabled veterans; family members of Armed Forces servicemembers who die in the line of duty or veterans who die of se...</description>
       <guid isPermaLink="false">senate-174</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
       <category>Constituent Services</category>
+    </item>
+    <item>
+      <title>Legislative Correspondent - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legislative-correspondent-washington-district-of-columbia-0762</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Midwest Republican member of the Senate Agriculture Committee is seeking a Legislative Correspondent to handle constituent correspondence and provide legislative support on agriculture, energy, enviro...</description>
+      <guid isPermaLink="false">senate-162</guid>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Legislative Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legislative-assistant-washington-district-of-columbia-0751</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Senior Republican Senator seeks Legislative Assistant in the Washington, DC office with a focus on health care and education policy. Responsibilities include monitoring legislation in assigned portfol...</description>
+      <guid isPermaLink="false">senate-149</guid>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Speechwriter - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/speechwriter-washington-district-of-columbia-0746</link>
+      <description>Office: Senator Elissa Slotkin | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Elissa Slotkin is seeking an experienced Speechwriter to serve in the Washington, DC office. The Speechwriter will be responsible for drafting written remarks for Senator Slotkin...</description>
+      <guid isPermaLink="false">senate-144</guid>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
     </item>
   </channel>
 </rss>
