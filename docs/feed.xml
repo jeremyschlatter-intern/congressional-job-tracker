@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Mon, 18 May 2026 15:45:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 23:02:47 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -141,6 +141,22 @@
       <guid isPermaLink="false">senate-277</guid>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Deputy Chief IT Customer Solutions Officer - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4401?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-335</guid>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Employment Office Specialist #66 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/employment-office-specialist-66-washington-district-of-columbia-0900</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Sergeant at Arms is seeking an Employment Office Specialist. This role provides responsive and professional customer service to the Senate community and the public by posting jobs, respondi...</description>
+      <guid isPermaLink="false">senate-334</guid>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
     </item>
     <item>
       <title>Legislative Correspondent - U.S. Senate</title>
@@ -389,22 +405,6 @@
       <guid isPermaLink="false">senate-276</guid>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
-    </item>
-    <item>
-      <title>Deputy Speechwriter - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/deputy-speechwriter-washington-district-of-columbia-0853</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | Senior Democratic Senator seeks a deputy speechwriter to work in a fast-paced environment as part of a small team responsible for meeting the office’s daily speechwriting demands. Day-to-day responsib...</description>
-      <guid isPermaLink="false">senate-275</guid>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
-      <title>Counsel: Senate Judiciary Committee with U.S. Senator Mike Lee - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/counsel-senate-judiciary-committee-with-u-s-senator-mike-lee-washington-district-of-columbia-0852</link>
-      <description>Office: Senator Mike Lee | Location: Washington, DC | Affiliation: Republican | Senator Mike Lee, a senior member of the U.S. Senate Committee on the Judiciary, seeks an attorney for a Counsel position based in Washington, DC. Responsibilities include, but are not limited to, dra...</description>
-      <guid isPermaLink="false">senate-274</guid>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
     </item>
   </channel>
 </rss>
