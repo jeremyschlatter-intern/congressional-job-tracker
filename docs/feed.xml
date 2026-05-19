@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Tue, 19 May 2026 15:37:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 23:03:09 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -141,6 +141,62 @@
       <guid isPermaLink="false">senate-277</guid>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Legislative Technology Internship - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4406?c=house</link>
+      <description>Office: House Support Offices | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-343</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Manager, Office of Payroll and Benefits - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4405?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-342</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Broadcast Technician #30 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/broadcast-technician-30-washington-district-of-columbia-0906</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Recording Studio (SRS) is seeking a Broadcast Technician who sets up and operates a variety of video, audio, lighting, chyron, and other related television equipment. This position provides...</description>
+      <guid isPermaLink="false">senate-341</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
+    </item>
+    <item>
+      <title>IT Branch Manager #1827 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/it-branch-manager-1827-washington-district-of-columbia-0905</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Sergeant at Arms is seeking an experienced and exceptional leader to manage our Identity and Collaboration Services Branch. This branch is responsible for key systems at the US Senate including em...</description>
+      <guid isPermaLink="false">senate-340</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
+    </item>
+    <item>
+      <title>Staff Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-0904</link>
+      <description>Office: Senator Kirsten E. Gillibrand | Location: Washington, DC | Affiliation: Democratic | The Office of US Senator Kirsten Gillibrand is seeking a detail oriented, highly organized individual to serve as a Staff Assistant in our Washington, DC office. Successful candidates will demonstrate...</description>
+      <guid isPermaLink="false">senate-339</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
+    </item>
+    <item>
+      <title>Veteran and Military Liaison - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/veteran-and-military-liaison-casper-wyoming-0903</link>
+      <description>Office: Senator John Barrasso | Location: Casper, WY | Affiliation: Republican | U.S. Senator John Barrasso is seeking a Veteran and Military Liaison in his Casper, WY office. This position will work directly with military and veteran constituents and their families on casework to...</description>
+      <guid isPermaLink="false">senate-338</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
+    </item>
+    <item>
+      <title>Legislative Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legislative-assistant-washington-district-of-columbia-0902</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Midwest Republican Senator and senior member of the Senate Foreign Relations Committee seeks a legislative assistant to join their Washington, D.C. office. The LA will play a pivotal role on the senat...</description>
+      <guid isPermaLink="false">senate-337</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
     <item>
       <title>Fall 2026 Law Clerk - Office of Senator Christopher A. Coons - U.S. Senate</title>
@@ -349,62 +405,6 @@
       <guid isPermaLink="false">house-311</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
-    </item>
-    <item>
-      <title>Summer Associate - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4392?c=house</link>
-      <description>Office: House Support Offices | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-310</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Staff Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-0881</link>
-      <description>Office: Senator Maria Cantwell | Location: Washington, DC | Affiliation: Democratic | Senator Maria Cantwell (D-WA) seeks a Staff Assistant who will be responsible for operations in the Washington, D.C. front office. Among other tasks, the Staff Assistant is responsible for answering p...</description>
-      <guid isPermaLink="false">senate-309</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
-    </item>
-    <item>
-      <title>Fall Law Clerk - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/fall-law-clerk-washington-district-of-columbia-0880</link>
-      <description>Office: Senator Mazie K. Hirono | Location: Washington, DC | Affiliation: Democratic | Senator Mazie K. Hirono (D-HI) is accepting law clerk applications for the Fall 2026 semester. Law clerks will work with Senator Hirono’s Judiciary Committee team in her Washington, D.C. office. Prima...</description>
-      <guid isPermaLink="false">senate-308</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Fall 2026 Law Clerks - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/fall-2026-law-clerks-washington-district-of-columbia-0879</link>
-      <description>Office: Senator Jon Ossoff | Location: Washington, DC | Affiliation: Democratic | U.S. Senator Jon Ossoff (D-GA) seeks part-time or full-time Fall 2026 law clerks. Law clerks will support the Senator’s legal team in its investigations and policy work. Primary responsibilities inclu...</description>
-      <guid isPermaLink="false">senate-307</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Staff Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-0877</link>
-      <description>Office: Senator Gary C. Peters | Location: Washington, DC | Affiliation: Democratic | The Office of U.S. Senator Gary C. Peters is seeking to fill the position of Staff Assistant in the Washington, DC office. Primary responsibilities include answering phones, greeting office visitors,...</description>
-      <guid isPermaLink="false">senate-305</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
-    </item>
-    <item>
-      <title>Fall Communications Internship - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/fall-communications-internship-washington-district-of-columbia-0876</link>
-      <description>Office: Senator Patty Murray | Location: Washington, DC | Affiliation: Democratic | Senator Patty Murray is accepting applications for a paid, full-time communications internship for the fall semester. Communications interns work closely with the communications team and help compile...</description>
-      <guid isPermaLink="false">senate-304</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
-      <title>Law Clerk - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/law-clerk-washington-district-of-columbia-0867</link>
-      <description>Office: Senator Richard Blumenthal, Senate Judiciary Committee | Location: Washington, DC | Affiliation: Democratic | Senator Blumenthal (D-CT) is accepting law clerk applications for the Fall 2026 session. Applicants must either be currently enrolled in an accredited JD program or have recently received a JD from an...</description>
-      <guid isPermaLink="false">senate-303</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
     </item>
   </channel>
 </rss>
