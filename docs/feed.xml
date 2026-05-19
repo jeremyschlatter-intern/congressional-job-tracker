@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Mon, 18 May 2026 23:02:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 15:37:29 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -141,6 +141,14 @@
       <guid isPermaLink="false">senate-277</guid>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Fall 2026 Law Clerk - Office of Senator Christopher A. Coons - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/fall-2026-law-clerk-office-of-senator-christopher-a-coons-washington-district-of-columbia-0901</link>
+      <description>Office: Senator Christopher A. Coons | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Chris Coons is hiring Fall 2026 law clerks to assist the Senator’s Judiciary Committee staff. Law clerks will assist the Senator’s counsels in all aspects of the Senator’s Judici...</description>
+      <guid isPermaLink="false">senate-336</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
     <item>
       <title>Deputy Chief IT Customer Solutions Officer - U.S. House</title>
@@ -397,14 +405,6 @@
       <guid isPermaLink="false">senate-303</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Assistant Scheduler/Assistant to the Chief of Staff - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/assistant-scheduler-assistant-to-the-chief-of-staff-washington-district-of-columbia-0854</link>
-      <description>Office: Senator Ted Cruz | Location: Washington, DC | Affiliation: Republican | Senator Ted Cruz (R-TX) is seeking an Assistant Scheduler/Assistant to the Chief of Staff to join his Washington, D.C. office. Primary responsibilities include tracking complex schedule changes; booki...</description>
-      <guid isPermaLink="false">senate-276</guid>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
     </item>
   </channel>
 </rss>
