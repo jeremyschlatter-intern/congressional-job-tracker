@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Tue, 19 May 2026 23:03:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 15:37:42 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -71,14 +71,6 @@
       <category>Senate Support</category>
     </item>
     <item>
-      <title>Counsel - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/counsel-washington-district-of-columbia-0866</link>
-      <description>Office: Senator Adam B. Schiff | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Adam Schiff, a member of the Senate Judiciary Committee, is seeking a Counsel to cover judiciary issues, including issues related to nominations, courts, trademarks, patents, gov...</description>
-      <guid isPermaLink="false">senate-289</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>Staff Assistant - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/staff-assistant-dallas-texas-0865</link>
       <description>Office: Senator Ted Cruz | Location: Dallas, TX | Affiliation: Republican | Senator Ted Cruz (R-TX) is seeking a Staff Assistant to join his North Texas Regional office located in Dallas, Texas. Primary responsibilities include, but are not limited to, maintaining front offic...</description>
@@ -127,20 +119,20 @@
       <category>Administrative</category>
     </item>
     <item>
-      <title>Legislative Correspondent - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-correspondent-washington-district-of-columbia-0858</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | New England Democratic Senator seeks a legislative correspondent to join their policy team. Responsibilities include drafting and responding to constituent correspondence, drafting oversight letters a...</description>
-      <guid isPermaLink="false">senate-280</guid>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>Communications Director - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/communications-director-washington-district-of-columbia-0855</link>
       <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Republican Senator seeks an experienced and creative Communications Director to join a dynamic communications operation in a fast-paced, proactive, and collaborative office. The Communications Directo...</description>
       <guid isPermaLink="false">senate-277</guid>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Legislative Correspondent - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legislative-correspondent-washington-district-of-columbia-0907</link>
+      <description>Office: Senator Mark Kelly | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Mark Kelly seeks a highly motivated individual for a Legislative Correspondent (LC) position in his Washington, D.C. office. Candidate must be an outstanding writer and have soli...</description>
+      <guid isPermaLink="false">senate-344</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
     <item>
       <title>Legislative Technology Internship - U.S. House</title>
@@ -403,6 +395,14 @@
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4391?c=house</link>
       <description>Office: House Support Offices | Location: Washington, DC</description>
       <guid isPermaLink="false">house-311</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Summer Associate - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4392?c=house</link>
+      <description>Office: House Support Offices | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-310</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
