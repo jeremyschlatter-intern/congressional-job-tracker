@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 20 May 2026 23:14:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 15:41:02 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -47,28 +47,12 @@
       <category>Constituent Services</category>
     </item>
     <item>
-      <title>Emergency Preparedness Analyst #5369 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/emergency-preparedness-analyst-5369-washington-district-of-columbia-0870</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Sergeant at Arms is seeking an  Emergency Preparedness Analyst to d evelop emergency action plans, training, and exercises for the Senate community. Interface with Senate staff and Office Emergenc...</description>
-      <guid isPermaLink="false">senate-295</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
-    </item>
-    <item>
       <title>Bowling Green, KY Staff Assistant - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/bowling-green-ky-staff-assistant-bowling-green-kentucky-0869</link>
       <description>Office: Senator Rand Paul | Location: Bowling Green, KY | Affiliation: Republican | Senator Rand Paul is seeking a full-time Staff Assistant in the Bowling Green, Kentucky State Office to handle administrative tasks, answer phones, greet office visitors, distribute mail, and support...</description>
       <guid isPermaLink="false">senate-291</guid>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
-    </item>
-    <item>
-      <title>Principal Network Engineer (Unified Communications/Voice) #332 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/principal-network-engineer-unified-communications-voice-332-washington-district-of-columbia-0868</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Sergeant at Arms is seeking a Principal Network Engineer (Unified Communications/Voice). This is advanced professional work to plan, analyze, design, test, evaluate, install, troubleshoot, and mai...</description>
-      <guid isPermaLink="false">senate-290</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
     </item>
     <item>
       <title>Staff Assistant - U.S. Senate</title>
@@ -403,6 +387,22 @@
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4389?c=house</link>
       <description>Office: House Support Offices | Location: Washington, DC</description>
       <guid isPermaLink="false">house-312</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Internship - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4391?c=house</link>
+      <description>Office: House Support Offices | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-311</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Summer Associate - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4392?c=house</link>
+      <description>Office: House Support Offices | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-310</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
