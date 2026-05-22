@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Thu, 21 May 2026 23:04:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 14:50:42 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -13,14 +13,6 @@
       <guid isPermaLink="false">house-126</guid>
       <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
       <category>House Support</category>
-    </item>
-    <item>
-      <title>Capitol Telephone Exchange Operator #299 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/capitol-telephone-exchange-operator-299-washington-district-of-columbia-0875</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The U.S. Senate Sergeant at Arms is seeking a detail-oriented, customer service-focused Capitol Telephone Exchange Operator to join a team providing 24/7 call answering and transfer services that conn...</description>
-      <guid isPermaLink="false">senate-302</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
     </item>
     <item>
       <title>Research Assistant – Transportation - U.S. Senate</title>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">house-319</guid>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
+    </item>
+    <item>
+      <title>Legislative Correspondent - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legislative-correspondent-washington-district-of-columbia-0886</link>
+      <description>Office: Senator Tammy Baldwin | Location: Washington, DC | Affiliation: Democratic | Senator Baldwin is seeking a Legislative Correspondent to work primarily on defense, veterans, foreign relations, and homeland security issues. The Senator is an active member of the Defense and Milit...</description>
+      <guid isPermaLink="false">senate-318</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
   </channel>
 </rss>
