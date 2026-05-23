@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Fri, 22 May 2026 23:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 13:49:29 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -13,14 +13,6 @@
       <guid isPermaLink="false">house-126</guid>
       <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
       <category>House Support</category>
-    </item>
-    <item>
-      <title>Research Assistant – Transportation - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/research-assistant-transportation-washington-district-of-columbia-0874</link>
-      <description>Office: Commerce, Science, and Transportation - Democrats | Location: Washington, DC | Affiliation: Democratic | Democratic Ranking Member of the Commerce, Science, and Transportation Committee seeking qualified candidates to support work on surface transportation (railroads, motor vehicles (trucks), pipelines,...</description>
-      <guid isPermaLink="false">senate-301</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
     </item>
     <item>
       <title>Director of Scheduling - U.S. Senate</title>
@@ -85,14 +77,6 @@
       <guid isPermaLink="false">senate-283</guid>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Staff Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-0860</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | New England Democratic Senator is seeking a Staff Assistant with immediate availability for their Washington, DC office. Key responsibilities include: Managing front office operations, including greet...</description>
-      <guid isPermaLink="false">senate-282</guid>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
     </item>
     <item>
       <title>Communications Director - U.S. Senate</title>
@@ -327,22 +311,6 @@
       <category>Constituent Services</category>
     </item>
     <item>
-      <title>Temporary Press Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/temporary-press-assistant-washington-district-of-columbia-0895</link>
-      <description>Office: Senator Mark Kelly | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Mark Kelly seeks a detail-oriented and highly motivated individual to serve as a temporary Press Assistant on his communications team from June-December 2026. This role will be b...</description>
-      <guid isPermaLink="false">senate-329</guid>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
-      <title>Chief Counsel - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/chief-counsel-washington-district-of-columbia-0894</link>
-      <description>Office: Senator Adam B. Schiff | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Adam Schiff, a member of the Senate Judiciary Committee, is seeking a Chief Counsel to oversee his robust body of work on the Judiciary Committee, aggressive oversight efforts, a...</description>
-      <guid isPermaLink="false">senate-328</guid>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>Research Assistant - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/research-assistant-washington-district-of-columbia-0893</link>
       <description>Office: Commerce, Science, and Transportation - Democrats | Location: Washington, DC | Affiliation: Democratic | Democratic Ranking Member of the Commerce, Science, and Transportation Committee seeking highly motivated candidates to support the Committee’s oversight, investigations, and nominations work. Respons...</description>
@@ -405,6 +373,38 @@
       <guid isPermaLink="false">senate-320</guid>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
       <category>Constituent Services</category>
+    </item>
+    <item>
+      <title>Telecommunications Engineering Manager - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4396?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-319</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Legislative Correspondent - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legislative-correspondent-washington-district-of-columbia-0886</link>
+      <description>Office: Senator Tammy Baldwin | Location: Washington, DC | Affiliation: Democratic | Senator Baldwin is seeking a Legislative Correspondent to work primarily on defense, veterans, foreign relations, and homeland security issues. The Senator is an active member of the Defense and Milit...</description>
+      <guid isPermaLink="false">senate-318</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Policy Advisor/Senior Policy Advisor - K-12 Education - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/policy-advisor-senior-policy-advisor-k-12-education-washington-district-of-columbia-0885</link>
+      <description>Office: Health, Education, Labor, and Pensions - Democrats | Location: Washington, DC | Affiliation: Democratic | The U.S. Senate Health, Education, Labor and Pensions (HELP) Committee, Minority staff seeks a qualified candidate to support the Committee’s legislative activities related to K-12 education. Addition...</description>
+      <guid isPermaLink="false">senate-317</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Infant &amp; Young Toddler Lead Teacher - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4395?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-316</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
     </item>
   </channel>
 </rss>
