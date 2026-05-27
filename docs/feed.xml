@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 27 May 2026 15:58:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 23:18:05 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -13,14 +13,6 @@
       <guid isPermaLink="false">house-126</guid>
       <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
       <category>House Support</category>
-    </item>
-    <item>
-      <title>Director of Scheduling - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/director-of-scheduling-washington-district-of-columbia-0872</link>
-      <description>Office: Senator Kirsten E. Gillibrand | Location: Washington, DC | Affiliation: Democratic | The Office of Sen. Kirsten Gillibrand seeks a Director of Scheduling to manage her daily and long-term schedules in DC, New York and nationally. This person will report to the Deputy Chief of Staff, s...</description>
-      <guid isPermaLink="false">senate-297</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
     </item>
     <item>
       <title>Constituent Services Representative - U.S. Senate</title>
@@ -77,6 +69,30 @@
       <guid isPermaLink="false">senate-277</guid>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Digital Director - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/digital-director-washington-district-of-columbia-0925</link>
+      <description>Office: Senator Tammy Duckworth | Location: Washington, DC | Affiliation: Democratic | U.S. Senator Tammy Duckworth seeks a strategic, innovative and hardworking Digital Director to join her highly active communications team. This role would work with the Communications Director to deve...</description>
+      <guid isPermaLink="false">senate-368</guid>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Constituent Service Representative - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/constituent-service-representative-seattle-washington-0924</link>
+      <description>Office: Senator Patty Murray | Location: Seattle, WA | Affiliation: Democratic | U.S. Senator Patty Murray (D-WA) seeks a Constituent Service Representative in her Seattle office. The position will consist of providing administrative and clerical support, greeting visitors, managi...</description>
+      <guid isPermaLink="false">senate-367</guid>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
+    </item>
+    <item>
+      <title>Health Policy Legislative Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/health-policy-legislative-assistant-washington-district-of-columbia-0923</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Republican Finance Committee member seeks a Health Policy Legislative Assistant to lead healthcare portfolio in the Washington, D.C. office. Ideal candidate should have at least 4 years of experience...</description>
+      <guid isPermaLink="false">senate-366</guid>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
     <item>
       <title>Policy Advisor: Tax/Trade/Financial Services - U.S. Senate</title>
@@ -389,22 +405,6 @@
       <guid isPermaLink="false">house-323</guid>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
-    </item>
-    <item>
-      <title>NH Staff Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/nh-staff-assistant-manchester-new-hampshire-0889</link>
-      <description>Office: Senator Margaret Wood Hassan | Location: Manchester, NH | Affiliation: Democratic | Senator Maggie Hassan is seeking a Staff Assistant in her Manchester State Office. Applicants must be detail oriented, well organized, able to handle a fast-paced work environment and work well in a t...</description>
-      <guid isPermaLink="false">senate-322</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
-    </item>
-    <item>
-      <title>Military Legislative Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/military-legislative-assistant-washington-district-of-columbia-0888</link>
-      <description>Office: Senator Lisa Blunt Rochester | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Lisa Blunt Rochester seeks a highly motivated and experienced Military Legislative Assistant to lead a portfolio including national security, defense, veterans affairs, and forei...</description>
-      <guid isPermaLink="false">senate-321</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
     </item>
   </channel>
 </rss>
