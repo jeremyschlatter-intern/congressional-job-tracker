@@ -4,16 +4,8 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Thu, 28 May 2026 16:13:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 23:18:05 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4017?c=house</link>
-      <description>Office: House Support Offices | Location: Pittsburgh, PA</description>
-      <guid isPermaLink="false">house-126</guid>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
     <item>
       <title>Constituent Services Representative - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/constituent-services-representative-albuquerque-new-mexico-0871</link>
@@ -69,6 +61,22 @@
       <guid isPermaLink="false">senate-277</guid>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Mail Specialist #116 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/mail-specialist-116-landover-maryland-0927</link>
+      <description>Office: Senate Sergeant at Arms | Location: Landover, MD | Affiliation: Nonpartisan | The Senate Sergeant at Arms (SAA) is currently seeking a highly skilled and dedicated Mail Specialist to join our Senate Post Office team. In this role, you will be responsible in sorting, screening,...</description>
+      <guid isPermaLink="false">senate-370</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
+    </item>
+    <item>
+      <title>Service Worker/Driver #417 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/service-worker-driver-417-landover-maryland-0926</link>
+      <description>Office: Senate Sergeant at Arms | Location: Landover, MD | Affiliation: Nonpartisan | The Senate Sergeant at Arms (SAA) is currently seeking a highly skilled and dedicated Service Worker Driver available within the Printing, Graphics, and Direct Mail team (PGDM). In this role, you will...</description>
+      <guid isPermaLink="false">senate-369</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
     </item>
     <item>
       <title>Digital Director - U.S. Senate</title>
@@ -397,14 +405,6 @@
       <guid isPermaLink="false">senate-324</guid>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
       <category>Senate Support</category>
-    </item>
-    <item>
-      <title>Deputy Director, Engineering - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4398?c=house</link>
-      <description>Office: Office of the Clerk | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-323</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
     </item>
   </channel>
 </rss>
