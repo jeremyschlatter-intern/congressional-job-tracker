@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Fri, 29 May 2026 15:55:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 23:14:24 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Constituent Services Representative - U.S. Senate</title>
@@ -61,6 +61,22 @@
       <guid isPermaLink="false">senate-277</guid>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Press Internships - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/press-internships-washington-district-of-columbia-0931</link>
+      <description>Office: Senator Lisa Blunt Rochester | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Lisa Blunt Rochester (D-Del.) seeks a motivated, organized, and hardworking press intern in our Washington, DC office in Fall 2026. Our press intern will be fully integrated into...</description>
+      <guid isPermaLink="false">senate-373</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Legislative Internships - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legislative-internships-washington-district-of-columbia-0930</link>
+      <description>Office: Senator Lisa Blunt Rochester | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Lisa Blunt Rochester (D-Del.) seeks motivated, organized, and hardworking college students and recent graduates committed to public service to serve as interns in our Washington,...</description>
+      <guid isPermaLink="false">senate-372</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
     <item>
       <title>Counsel or Professional Staff Member - U.S. Senate</title>
@@ -121,7 +137,7 @@
     <item>
       <title>Policy Advisor: Health - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/policy-advisor-health-washington-district-of-columbia-0921</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Republican Senate Leadership office is seeking a Health Care policy staffer and advisor. A successful candidate will analyze legislation, nominations, federal rules and other administrative actions. A...</description>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Republican Senate Leadership office is seeking a Health Care policy staffer and advisor. A successful candidate will analyze legislation, nominations, federal rules and other administrative actions. T...</description>
       <guid isPermaLink="false">senate-363</guid>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
@@ -165,14 +181,6 @@
       <guid isPermaLink="false">house-358</guid>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
-    </item>
-    <item>
-      <title>Constituent Services &amp; Outreach Representative Office of U.S. Senator Chris Van Hollen – Maryland - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/constituent-services-outreach-representative-office-of-u-s-senator-chris-van-hollen-maryland-washington-district-of-columbia-0916</link>
-      <description>Office: Senator Chris Van Hollen | Location: Washington, DC | Affiliation: Democratic | Senator Van Hollen seeks a highly organized, detail-oriented Constituent Services &amp;amp; Outreach Representative. This Maryland-based position serves as a key liaison between constituents and federal a...</description>
-      <guid isPermaLink="false">senate-357</guid>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <category>Constituent Services</category>
     </item>
     <item>
       <title>Legislative Internship - U.S. Senate</title>
@@ -277,14 +285,6 @@
       <guid isPermaLink="false">senate-344</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Legislative Technology Internship - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4406?c=house</link>
-      <description>Office: House Support Offices | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-343</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
     </item>
     <item>
       <title>Manager, Office of Payroll and Benefits - U.S. House</title>
