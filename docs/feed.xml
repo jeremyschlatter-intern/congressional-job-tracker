@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Thu, 28 May 2026 23:18:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 15:55:22 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Constituent Services Representative - U.S. Senate</title>
@@ -61,6 +61,14 @@
       <guid isPermaLink="false">senate-277</guid>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Counsel or Professional Staff Member - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/counsel-or-professional-staff-member-washington-district-of-columbia-0929</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | A senior Republican on the Senate Homeland Security and Governmental Affairs Committee is seeking a Professional Staff Member to work on immigration and border management. A qualified individual will...</description>
+      <guid isPermaLink="false">senate-371</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
     <item>
       <title>Mail Specialist #116 - U.S. Senate</title>
@@ -301,14 +309,6 @@
       <guid isPermaLink="false">senate-340</guid>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
       <category>Senate Support</category>
-    </item>
-    <item>
-      <title>Staff Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-0904</link>
-      <description>Office: Senator Kirsten E. Gillibrand | Location: Washington, DC | Affiliation: Democratic | The Office of US Senator Kirsten Gillibrand is seeking a detail oriented, highly organized individual to serve as a Staff Assistant in our Washington, DC office. Successful candidates will demonstrate...</description>
-      <guid isPermaLink="false">senate-339</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
     </item>
     <item>
       <title>Veteran and Military Liaison - U.S. Senate</title>
