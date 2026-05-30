@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sat, 30 May 2026 13:52:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 22:58:22 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Bowling Green, KY Staff Assistant - U.S. Senate</title>
@@ -351,14 +351,6 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Regional Director - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/regional-director-boston-massachusetts-0896</link>
-      <description>Office: Confidential | Location: Boston, MA | Affiliation: Democratic | Massachusetts Democratic Senator seeks a Regional Director based in the Senator’s Boston office, covering the South Coast, Cape and Islands. The Regional Director is a critical member of a dynamic tea...</description>
-      <guid isPermaLink="false">senate-330</guid>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <category>Constituent Services</category>
-    </item>
-    <item>
       <title>Staff Assistant - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/staff-assistant-boston-massachusetts-0892</link>
       <description>Office: Senator Edward J. Markey | Location: Boston, MA | Affiliation: Democratic | Senator Edward J. Markey (D-Mass.) is looking for a highly-motivated and detail-oriented Staff Assistant for his Boston, Massachusetts office. Applicants must possess a professional telephone manner,...</description>
@@ -404,6 +396,14 @@
       <description>Office: Health, Education, Labor, and Pensions - Democrats | Location: Washington, DC | Affiliation: Democratic | The U.S. Senate Health, Education, Labor and Pensions (HELP) Committee, Minority staff seeks a qualified candidate to support the Committee’s legislative activities related to K-12 education. Addition...</description>
       <guid isPermaLink="false">senate-317</guid>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Legislative Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legislative-assistant-washington-district-of-columbia-0884</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | Northeast Democratic Senator seeks Legislative Assistant to handle transportation portfolio. Individual must be knowledgeable of current legislative and non-legislative issues and have a thorough unde...</description>
+      <guid isPermaLink="false">senate-315</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
     </item>
   </channel>
