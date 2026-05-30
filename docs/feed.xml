@@ -4,16 +4,8 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Fri, 29 May 2026 23:14:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 13:52:38 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Constituent Services Representative - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/constituent-services-representative-albuquerque-new-mexico-0871</link>
-      <description>Office: Senator Martin Heinrich | Location: Albuquerque, NM | Affiliation: Democratic | Senator Martin Heinrich (D-NM) seeks a Constituent Services Representative based in Albuquerque or Las Cruces. This position is responsible for assisting constituents in navigating federal agencies an...</description>
-      <guid isPermaLink="false">senate-296</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <category>Constituent Services</category>
-    </item>
     <item>
       <title>Bowling Green, KY Staff Assistant - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/bowling-green-ky-staff-assistant-bowling-green-kentucky-0869</link>
@@ -279,14 +271,6 @@
       <category>Administrative</category>
     </item>
     <item>
-      <title>Legislative Correspondent - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-correspondent-washington-district-of-columbia-0907</link>
-      <description>Office: Senator Mark Kelly | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Mark Kelly seeks a highly motivated individual for a Legislative Correspondent (LC) position in his Washington, D.C. office. Candidate must be an outstanding writer and have soli...</description>
-      <guid isPermaLink="false">senate-344</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>Manager, Office of Payroll and Benefits - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4405?c=house</link>
       <description>Office: Office of the Clerk | Location: Washington, DC</description>
@@ -367,14 +351,6 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Printing and Reprographics Specialist #550 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/printing-and-reprographics-specialist-550-landover-maryland-0897</link>
-      <description>Office: Senate Sergeant at Arms | Location: Landover, MD | Affiliation: Nonpartisan | As a Printing and Reprographics Specialist within Printing Graphics and Direct Mail’s (PGDM) Landover Print Facility, you will play a crucial role in processing high priority jobs for Senators, Commit...</description>
-      <guid isPermaLink="false">senate-331</guid>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
-    </item>
-    <item>
       <title>Regional Director - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/regional-director-boston-massachusetts-0896</link>
       <description>Office: Confidential | Location: Boston, MA | Affiliation: Democratic | Massachusetts Democratic Senator seeks a Regional Director based in the Senator’s Boston office, covering the South Coast, Cape and Islands. The Regional Director is a critical member of a dynamic tea...</description>
@@ -391,20 +367,44 @@
       <category>Administrative</category>
     </item>
     <item>
-      <title>Senior Systems Engineer #243 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/senior-systems-engineer-243-washington-district-of-columbia-0891</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Sergeant at Arms is seeking a Senior Systems Engineer #243.  The Senior Systems Engineer needs to have wide experience supporting and maintaining websites and web applications, have working knowle...</description>
-      <guid isPermaLink="false">senate-325</guid>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
+      <title>Deputy Director, Engineering - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4398?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-323</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
     </item>
     <item>
-      <title>Administrative Specialist #43 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/administrative-specialist-43-washington-district-of-columbia-0890</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Recording Studio is seeking an Administrative Specialist to support with various administrative tasks including but not limited to answering phones, greeting guests, scheduling work orders,...</description>
-      <guid isPermaLink="false">senate-324</guid>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
+      <title>NH Staff Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/nh-staff-assistant-manchester-new-hampshire-0889</link>
+      <description>Office: Senator Margaret Wood Hassan | Location: Manchester, NH | Affiliation: Democratic | Senator Maggie Hassan is seeking a Staff Assistant in her Manchester State Office. Applicants must be detail oriented, well organized, able to handle a fast-paced work environment and work well in a t...</description>
+      <guid isPermaLink="false">senate-322</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
+    </item>
+    <item>
+      <title>Military Legislative Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/military-legislative-assistant-washington-district-of-columbia-0888</link>
+      <description>Office: Senator Lisa Blunt Rochester | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Lisa Blunt Rochester seeks a highly motivated and experienced Military Legislative Assistant to lead a portfolio including national security, defense, veterans affairs, and forei...</description>
+      <guid isPermaLink="false">senate-321</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Telecommunications Engineering Manager - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4396?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-319</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Policy Advisor/Senior Policy Advisor - K-12 Education - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/policy-advisor-senior-policy-advisor-k-12-education-washington-district-of-columbia-0885</link>
+      <description>Office: Health, Education, Labor, and Pensions - Democrats | Location: Washington, DC | Affiliation: Democratic | The U.S. Senate Health, Education, Labor and Pensions (HELP) Committee, Minority staff seeks a qualified candidate to support the Committee’s legislative activities related to K-12 education. Addition...</description>
+      <guid isPermaLink="false">senate-317</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
   </channel>
 </rss>
