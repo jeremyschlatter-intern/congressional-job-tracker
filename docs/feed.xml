@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sun, 31 May 2026 23:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 17:52:55 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Bowling Green, KY Staff Assistant - U.S. Senate</title>
@@ -117,6 +117,14 @@
       <guid isPermaLink="false">senate-366</guid>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Digital Engagement Director - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/19/home/requisition/4414?c=house</link>
+      <description>Office: House Talent Marketplace | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-365</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <category>House Member/Committee</category>
     </item>
     <item>
       <title>Policy Advisor: Tax/Trade/Financial Services - U.S. Senate</title>
@@ -263,14 +271,6 @@
       <category>Administrative</category>
     </item>
     <item>
-      <title>Scheduler – U.S. Senator John Kennedy (R-LA) - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/scheduler-u-s-senator-john-kennedy-r-la-washington-district-of-columbia-0908</link>
-      <description>Office: Senator John Kennedy | Location: Washington, DC | Affiliation: Republican | Senator John Kennedy seeks a Scheduler for his Washington, DC office. Primary responsibilities include management of the Senator’s calendar, travel arrangements, and demonstrated attention to detail....</description>
-      <guid isPermaLink="false">senate-345</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
-    </item>
-    <item>
       <title>Manager, Office of Payroll and Benefits - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4405?c=house</link>
       <description>Office: Office of the Clerk | Location: Washington, DC</description>
@@ -335,14 +335,6 @@
       <category>Senate Support</category>
     </item>
     <item>
-      <title>Legislative Correspondent - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-correspondent-washington-district-of-columbia-0899</link>
-      <description>Office: Senator Jack Reed | Location: Washington, DC | Affiliation: Democratic | Senator Jack Reed is seeking a Legislative Correspondent to handle correspondence for several domestic policy issues, which may include healthcare, education, and other topics. Ties to Rhode Island ar...</description>
-      <guid isPermaLink="false">senate-333</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>Research Assistant (HSGAC-DMDCC Minority Staff) - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/research-assistant-hsgac-dmdcc-minority-staff-washington-district-of-columbia-0898</link>
       <description>Office: Senator Andy Kim | Location: Washington, DC | Affiliation: Democratic | Senator Andy Kim, Ranking Member of the Homeland Security and Governmental Affairs Committee’s Subcommittee on Disaster Management, Washington D.C., and the Census, seeks a Research Assistant (RA) to...</description>
@@ -391,20 +383,28 @@
       <category>House Support</category>
     </item>
     <item>
-      <title>Policy Advisor/Senior Policy Advisor - K-12 Education - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/policy-advisor-senior-policy-advisor-k-12-education-washington-district-of-columbia-0885</link>
-      <description>Office: Health, Education, Labor, and Pensions - Democrats | Location: Washington, DC | Affiliation: Democratic | The U.S. Senate Health, Education, Labor and Pensions (HELP) Committee, Minority staff seeks a qualified candidate to support the Committee’s legislative activities related to K-12 education. Addition...</description>
-      <guid isPermaLink="false">senate-317</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>Legislative Assistant - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/legislative-assistant-washington-district-of-columbia-0884</link>
       <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | Northeast Democratic Senator seeks Legislative Assistant to handle transportation portfolio. Individual must be knowledgeable of current legislative and non-legislative issues and have a thorough unde...</description>
       <guid isPermaLink="false">senate-315</guid>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Correspondence Manager - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/correspondence-manager-washington-district-of-columbia-0883</link>
+      <description>Office: Senator Elissa Slotkin | Location: Washington, DC | Affiliation: Democratic | The Office of Elissa Slotkin is seeking  a Correspondence Manager to join her Washington D.C. office. This position is responsible for all aspects of the office’s correspondence operation, including e...</description>
+      <guid isPermaLink="false">senate-314</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Attorney - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4389?c=house</link>
+      <description>Office: House Support Offices | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-312</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
     </item>
   </channel>
 </rss>
