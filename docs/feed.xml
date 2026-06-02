@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Mon, 01 Jun 2026 23:27:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 16:44:29 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Bowling Green, KY Staff Assistant - U.S. Senate</title>
@@ -167,14 +167,6 @@
       <category>Communications</category>
     </item>
     <item>
-      <title>Special Assistant/Driver - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/special-assistant-driver-washington-district-of-columbia-0917</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Southeast Republican Senator is seeking a dependable, detail oriented, and highly motivated individual to serve as a Driver/Special Assistant in the Washington, D.C. office. The candidate must be capa...</description>
-      <guid isPermaLink="false">senate-359</guid>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
-    </item>
-    <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4415?c=house</link>
       <description>Office: House Support Offices | Location: Grand Rapids, MI</description>
@@ -327,14 +319,6 @@
       <category>House Support</category>
     </item>
     <item>
-      <title>Employment Office Specialist #66 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/employment-office-specialist-66-washington-district-of-columbia-0900</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Sergeant at Arms is seeking an Employment Office Specialist. This role provides responsive and professional customer service to the Senate community and the public by posting jobs, respondi...</description>
-      <guid isPermaLink="false">senate-334</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
-    </item>
-    <item>
       <title>Research Assistant (HSGAC-DMDCC Minority Staff) - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/research-assistant-hsgac-dmdcc-minority-staff-washington-district-of-columbia-0898</link>
       <description>Office: Senator Andy Kim | Location: Washington, DC | Affiliation: Democratic | Senator Andy Kim, Ranking Member of the Homeland Security and Governmental Affairs Committee’s Subcommittee on Disaster Management, Washington D.C., and the Census, seeks a Research Assistant (RA) to...</description>
@@ -357,14 +341,6 @@
       <guid isPermaLink="false">house-323</guid>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
-    </item>
-    <item>
-      <title>NH Staff Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/nh-staff-assistant-manchester-new-hampshire-0889</link>
-      <description>Office: Senator Margaret Wood Hassan | Location: Manchester, NH | Affiliation: Democratic | Senator Maggie Hassan is seeking a Staff Assistant in her Manchester State Office. Applicants must be detail oriented, well organized, able to handle a fast-paced work environment and work well in a t...</description>
-      <guid isPermaLink="false">senate-322</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
     </item>
     <item>
       <title>Military Legislative Assistant - U.S. Senate</title>
@@ -405,6 +381,30 @@
       <guid isPermaLink="false">house-312</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
+    </item>
+    <item>
+      <title>Summer Associate - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4392?c=house</link>
+      <description>Office: House Support Offices | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-310</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Staff Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-0881</link>
+      <description>Office: Senator Maria Cantwell | Location: Washington, DC | Affiliation: Democratic | Senator Maria Cantwell (D-WA) seeks a Staff Assistant who will be responsible for operations in the Washington, D.C. front office. Among other tasks, the Staff Assistant is responsible for answering p...</description>
+      <guid isPermaLink="false">senate-309</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
+    </item>
+    <item>
+      <title>Fall Law Clerk - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/fall-law-clerk-washington-district-of-columbia-0880</link>
+      <description>Office: Senator Mazie K. Hirono | Location: Washington, DC | Affiliation: Democratic | Senator Mazie K. Hirono (D-HI) is accepting law clerk applications for the Fall 2026 semester. Law clerks will work with Senator Hirono’s Judiciary Committee team in her Washington, D.C. office. Prima...</description>
+      <guid isPermaLink="false">senate-308</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
   </channel>
 </rss>
