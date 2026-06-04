@@ -4,21 +4,13 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 03 Jun 2026 23:44:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 15:28:42 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Bowling Green, KY Staff Assistant - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/bowling-green-ky-staff-assistant-bowling-green-kentucky-0869</link>
       <description>Office: Senator Rand Paul | Location: Bowling Green, KY | Affiliation: Republican | Senator Rand Paul is seeking a full-time Staff Assistant in the Bowling Green, Kentucky State Office to handle administrative tasks, answer phones, greet office visitors, distribute mail, and support...</description>
       <guid isPermaLink="false">senate-291</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
-    </item>
-    <item>
-      <title>Staff Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/staff-assistant-dallas-texas-0865</link>
-      <description>Office: Senator Ted Cruz | Location: Dallas, TX | Affiliation: Republican | Senator Ted Cruz (R-TX) is seeking a Staff Assistant to join his North Texas Regional office located in Dallas, Texas. Primary responsibilities include, but are not limited to, maintaining front offic...</description>
-      <guid isPermaLink="false">senate-288</guid>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
     </item>
@@ -139,14 +131,6 @@
       <link>https://careers.employment.senate.gov/job/policy-advisor-health-washington-district-of-columbia-0921</link>
       <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Republican Senate Leadership office is seeking a Health Care policy staffer and advisor. A successful candidate will analyze legislation, nominations, federal rules and other administrative actions. T...</description>
       <guid isPermaLink="false">senate-363</guid>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Research Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/research-assistant-washington-district-of-columbia-0920</link>
-      <description>Office: Commerce, Science, and Transportation - Democrats | Location: Washington, DC | Affiliation: Democratic | Democratic Ranking Member of the Commerce, Science, and Transportation Committee seeking highly motivated candidates to support the Committee’s leadership team, including the Staff Director, Deputy St...</description>
-      <guid isPermaLink="false">senate-362</guid>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
     </item>
@@ -405,6 +389,22 @@
       <guid isPermaLink="false">house-285</guid>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
+    </item>
+    <item>
+      <title>Stars of Valor Fellow – Senator Ron Johnson - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/stars-of-valor-fellow-senator-ron-johnson-milwaukee-wisconsin-0771</link>
+      <description>Office: Stars of Valor Fellowships Program | Location: Milwaukee, WI | Affiliation: Nonpartisan | The Senate has established the Stars of Valor Fellowships Program for wounded and disabled veterans; family members of Armed Forces servicemembers who die in the line of duty or veterans who die of se...</description>
+      <guid isPermaLink="false">senate-174</guid>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
+    </item>
+    <item>
+      <title>Legislative Correspondent - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legislative-correspondent-washington-district-of-columbia-0762</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Midwest Republican member of the Senate Agriculture Committee is seeking a Legislative Correspondent to handle constituent correspondence and provide legislative support on agriculture, energy, enviro...</description>
+      <guid isPermaLink="false">senate-162</guid>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
   </channel>
 </rss>
