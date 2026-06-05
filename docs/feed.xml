@@ -4,16 +4,8 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Fri, 05 Jun 2026 15:16:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 23:11:03 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Constituent Data &amp; Outreach Coordinator - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/constituent-data-outreach-coordinator-washington-district-of-columbia-0863</link>
-      <description>Office: Senator Kirsten E. Gillibrand | Location: Washington, DC | Affiliation: Democratic | The Office of U.S. Senator Kirsten Gillibrand seeks a Constituent  Data &amp;amp; Outreach Coordinator to be based in her Washington, DC office. This is a new position that will coordinate communication t...</description>
-      <guid isPermaLink="false">senate-286</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-      <category>Constituent Services</category>
-    </item>
     <item>
       <title>Press Secretary for Republican Senator - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/press-secretary-for-republican-senator-washington-district-of-columbia-0862</link>
@@ -383,27 +375,35 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Constituent Services Representative (Social Security and Health Care) - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/constituent-services-representative-social-security-and-health-care-portland-oregon-0950</link>
-      <description>Office: Senator Jeff Merkley | Location: Portland, OR | Affiliation: Democratic | U.S. Senator Jeff Merkley is seeking a Constituent Services Representative to join his Oregon team to assist Oregonians with Social Security and health care matters. This staff member reports to the C...</description>
-      <guid isPermaLink="false">senate-392</guid>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
+      <title>Photographic Services Specialist #376 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/photographic-services-specialist-376-washington-district-of-columbia-0955</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | Senate Photographic Services (SPS) documents the work and history of the U.S. Senate through official photography, short-form video, and visual media. The Photographic Services Specialist serves as th...</description>
+      <guid isPermaLink="false">senate-398</guid>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
     </item>
     <item>
-      <title>Delaware Legislative Internship - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/delaware-legislative-internship-wilmington-delaware-0949</link>
-      <description>Office: Senator Lisa Blunt Rochester | Location: Wilmington, DE | Affiliation: Democratic | The Office of Senator Lisa Blunt Rochester (D-Del.) seeks motivated, organized, and hardworking college students and recent graduates committed to public service to serve as interns in our Delaware of...</description>
-      <guid isPermaLink="false">senate-391</guid>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
+      <title>Technology Solutions Specialist #5550 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/technology-solutions-specialist-5550-washington-district-of-columbia-0954</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Sergeant at Arms, Printing Graphics and Direct Mail (PGDM) department is seeking a highly skilled and motivated Technology Solutions Specialist to join our team. This role will primarily focus on...</description>
+      <guid isPermaLink="false">senate-397</guid>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
     </item>
     <item>
-      <title>Tax Legislative Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/tax-legislative-assistant-washington-district-of-columbia-0948</link>
-      <description>Office: Senator Mark R. Warner | Location: Washington, DC | Affiliation: Democratic | Senator Mark R. Warner is seeking a Tax Legislative Assistant to handle tax, trade, pensions, Social Security, and unemployment insurance policy related to the Senator’s work on the Senate Finance Com...</description>
-      <guid isPermaLink="false">senate-390</guid>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <title>SCC Summer Fellowship - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/scc-summer-fellowship-washington-district-of-columbia-0953</link>
+      <description>Office: Senator Cory A. Booker | Location: Washington, DC | Affiliation: Democratic | The Senate Democrats’ Strategic Communications Committee (SCC), Chaired by Senator Cory Booker (D-NJ), is launching a summer fellowship program that will help prepare a new generation of talent for jo...</description>
+      <guid isPermaLink="false">senate-396</guid>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Energy Policy Director - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/energy-policy-director-washington-district-of-columbia-0952</link>
+      <description>Office: Energy and Natural Resources - Democrats | Location: Washington, DC | Affiliation: Democratic | Ranking Member Martin Heinrich (D-NM) seeks an Energy Policy Director to join the Democratic Staff of the Energy and Natural Resources Committee. As a member of the senior staff, this position reports...</description>
+      <guid isPermaLink="false">senate-395</guid>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
     </item>
   </channel>
