@@ -4,24 +4,8 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Fri, 05 Jun 2026 23:11:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 13:56:31 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Press Secretary for Republican Senator - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/press-secretary-for-republican-senator-washington-district-of-columbia-0862</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | A Republican Senate office is seeking a Press Secretary to join its fast-paced communications team in Washington, D.C. This role is ideal for a strong writer with prior media experience who can work q...</description>
-      <guid isPermaLink="false">senate-284</guid>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
-      <title>Judiciary Law Clerk - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/judiciary-law-clerk-washington-district-of-columbia-0861</link>
-      <description>Office: Senator Amy Klobuchar | Location: Washington, DC | Affiliation: Democratic | The Judiciary Committee staff of U.S. Senator Amy Klobuchar is accepting applications for law clerks for Fall 2026 to work in-person in her Washington, D.C. office. Law clerks will assist Senator Klob...</description>
-      <guid isPermaLink="false">senate-283</guid>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
     <item>
       <title>Press Internships - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/press-internships-washington-district-of-columbia-0931</link>
@@ -199,14 +183,6 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Legislative Correspondent - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-correspondent-washington-district-of-columbia-0911</link>
-      <description>Office: Senator Martin Heinrich | Location: Washington, DC | Affiliation: Democratic | Senator Martin Heinrich (D-NM) seeks a Legislative Correspondent based in Washington, DC for his Personal Office and Energy and Natural Resources Committee to work on policy and correspondence related...</description>
-      <guid isPermaLink="false">senate-348</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>2026 Fall Law Clerk - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/2026-fall-law-clerk-washington-district-of-columbia-0910</link>
       <description>Office: Senator Peter Welch | Location: Washington, DC | Affiliation: Democratic | Senator Peter Welch (D-VT), member of the Senate Judiciary Committee, seeks one full-time law clerk for the Fall of 2026. The law clerk will serve on the policy team that manages the Senator’s Judicia...</description>
@@ -269,14 +245,6 @@
       <guid isPermaLink="false">senate-326</guid>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
-    </item>
-    <item>
-      <title>Deputy Director, Engineering - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/4398?c=house</link>
-      <description>Office: Office of the Clerk | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-323</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
     </item>
     <item>
       <title>Military Legislative Assistant - U.S. Senate</title>
@@ -404,6 +372,38 @@
       <description>Office: Energy and Natural Resources - Democrats | Location: Washington, DC | Affiliation: Democratic | Ranking Member Martin Heinrich (D-NM) seeks an Energy Policy Director to join the Democratic Staff of the Energy and Natural Resources Committee. As a member of the senior staff, this position reports...</description>
       <guid isPermaLink="false">senate-395</guid>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Special Assistant/Deputy Scheduler - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/special-assistant-deputy-scheduler-washington-district-of-columbia-0951</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Southern Republican Senator is seeking a Special Assistant to work in the Operations Department in our Washington, D.C. office.  The job would entail assisting as a deputy scheduler and a special assi...</description>
+      <guid isPermaLink="false">senate-394</guid>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
+    </item>
+    <item>
+      <title>Constituent Services Representative (Social Security and Health Care) - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/constituent-services-representative-social-security-and-health-care-portland-oregon-0950</link>
+      <description>Office: Senator Jeff Merkley | Location: Portland, OR | Affiliation: Democratic | U.S. Senator Jeff Merkley is seeking a Constituent Services Representative to join his Oregon team to assist Oregonians with Social Security and health care matters. This staff member reports to the C...</description>
+      <guid isPermaLink="false">senate-392</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
+    </item>
+    <item>
+      <title>Delaware Legislative Internship - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/delaware-legislative-internship-wilmington-delaware-0949</link>
+      <description>Office: Senator Lisa Blunt Rochester | Location: Wilmington, DE | Affiliation: Democratic | The Office of Senator Lisa Blunt Rochester (D-Del.) seeks motivated, organized, and hardworking college students and recent graduates committed to public service to serve as interns in our Delaware of...</description>
+      <guid isPermaLink="false">senate-391</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Tax Legislative Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/tax-legislative-assistant-washington-district-of-columbia-0948</link>
+      <description>Office: Senator Mark R. Warner | Location: Washington, DC | Affiliation: Democratic | Senator Mark R. Warner is seeking a Tax Legislative Assistant to handle tax, trade, pensions, Social Security, and unemployment insurance policy related to the Senator’s work on the Senate Finance Com...</description>
+      <guid isPermaLink="false">senate-390</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
     </item>
   </channel>
