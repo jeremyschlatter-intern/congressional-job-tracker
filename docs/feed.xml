@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sun, 07 Jun 2026 23:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 16:07:53 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Press Internships - U.S. Senate</title>
@@ -101,14 +101,6 @@
       <guid isPermaLink="false">senate-361</guid>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
-    </item>
-    <item>
-      <title>Press Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/press-assistant-washington-district-of-columbia-0918</link>
-      <description>Office: Senator Reverend Raphael Warnock | Location: Washington, DC | Affiliation: Democratic | Senator Reverend Raphael Warnock (D-GA) seeks a Press Assistant based in Washington, D.C. to support an active and fast-paced press operation. The Press Assistant will help advance the Senator’s leade...</description>
-      <guid isPermaLink="false">senate-360</guid>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
     </item>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -403,6 +395,14 @@
       <link>https://careers.employment.senate.gov/job/tax-legislative-assistant-washington-district-of-columbia-0948</link>
       <description>Office: Senator Mark R. Warner | Location: Washington, DC | Affiliation: Democratic | Senator Mark R. Warner is seeking a Tax Legislative Assistant to handle tax, trade, pensions, Social Security, and unemployment insurance policy related to the Senator’s work on the Senate Finance Com...</description>
       <guid isPermaLink="false">senate-390</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Fall 2026 Intern - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/fall-2026-intern-washington-district-of-columbia-0947</link>
+      <description>Office: Senator Sheldon Whitehouse | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Sheldon Whitehouse (D-RI) seeks legislative and press interns for his Washington, DC and Providence, RI offices for Fall 2026. Responsibilities include answering phones, sorting...</description>
+      <guid isPermaLink="false">senate-389</guid>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
     </item>
