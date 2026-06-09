@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Mon, 08 Jun 2026 23:12:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 15:17:11 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Press Internships - U.S. Senate</title>
@@ -45,14 +45,6 @@
       <guid isPermaLink="false">senate-369</guid>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
       <category>Senate Support</category>
-    </item>
-    <item>
-      <title>Digital Director - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/digital-director-washington-district-of-columbia-0925</link>
-      <description>Office: Senator Tammy Duckworth | Location: Washington, DC | Affiliation: Democratic | U.S. Senator Tammy Duckworth seeks a strategic, innovative and hardworking Digital Director to join her highly active communications team. This role would work with the Communications Director to deve...</description>
-      <guid isPermaLink="false">senate-368</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
     </item>
     <item>
       <title>Constituent Service Representative - U.S. Senate</title>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">senate-389</guid>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Press Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/press-assistant-washington-district-of-columbia-0946</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Republican Senator seeks a press assistant to join an active communications team. Responsibilities include but are not limited to: producing digital media content, photographing events, editing photos...</description>
+      <guid isPermaLink="false">senate-388</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
     </item>
   </channel>
 </rss>
