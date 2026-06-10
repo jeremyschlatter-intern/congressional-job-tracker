@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 10 Jun 2026 15:51:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 23:25:53 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Press Internships - U.S. Senate</title>
@@ -247,14 +247,6 @@
       <category>Administrative</category>
     </item>
     <item>
-      <title>Fall Law Clerk - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/fall-law-clerk-washington-district-of-columbia-0880</link>
-      <description>Office: Senator Mazie K. Hirono | Location: Washington, DC | Affiliation: Democratic | Senator Mazie K. Hirono (D-HI) is accepting law clerk applications for the Fall 2026 semester. Law clerks will work with Senator Hirono’s Judiciary Committee team in her Washington, D.C. office. Prima...</description>
-      <guid isPermaLink="false">senate-308</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>Fall Communications Internship - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/fall-communications-internship-washington-district-of-columbia-0876</link>
       <description>Office: Senator Patty Murray | Location: Washington, DC | Affiliation: Democratic | Senator Patty Murray is accepting applications for a paid, full-time communications internship for the fall semester. Communications interns work closely with the communications team and help compile...</description>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">senate-392</guid>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
+    </item>
+    <item>
+      <title>Delaware Legislative Internship - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/delaware-legislative-internship-wilmington-delaware-0949</link>
+      <description>Office: Senator Lisa Blunt Rochester | Location: Wilmington, DE | Affiliation: Democratic | The Office of Senator Lisa Blunt Rochester (D-Del.) seeks motivated, organized, and hardworking college students and recent graduates committed to public service to serve as interns in our Delaware of...</description>
+      <guid isPermaLink="false">senate-391</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
   </channel>
 </rss>
