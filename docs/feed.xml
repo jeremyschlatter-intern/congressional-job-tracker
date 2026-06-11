@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 10 Jun 2026 23:25:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 16:13:00 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Press Internships - U.S. Senate</title>
@@ -85,14 +85,6 @@
       <guid isPermaLink="false">senate-363</guid>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Deputy Scheduler/Assistant to the Chief of Staff - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/deputy-scheduler-assistant-to-the-chief-of-staff-washington-district-of-columbia-0919</link>
-      <description>Office: Senator Patty Murray | Location: Washington, DC | Affiliation: Democratic | U.S. Senator Patty Murray (D-WA) seeks a Deputy Scheduler / Assistant to the Chief of Staff to join the Washington, D.C. team. This position will work closely with the Scheduler, the Chief of Staff, a...</description>
-      <guid isPermaLink="false">senate-361</guid>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
     </item>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -223,28 +215,12 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Legislative Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-assistant-washington-district-of-columbia-0884</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | Northeast Democratic Senator seeks Legislative Assistant to handle transportation portfolio. Individual must be knowledgeable of current legislative and non-legislative issues and have a thorough unde...</description>
-      <guid isPermaLink="false">senate-315</guid>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>Correspondence Manager - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/correspondence-manager-washington-district-of-columbia-0883</link>
       <description>Office: Senator Elissa Slotkin | Location: Washington, DC | Affiliation: Democratic | The Office of Elissa Slotkin is seeking  a Correspondence Manager to join her Washington D.C. office. This position is responsible for all aspects of the office’s correspondence operation, including e...</description>
       <guid isPermaLink="false">senate-314</guid>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Staff Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-0881</link>
-      <description>Office: Senator Maria Cantwell | Location: Washington, DC | Affiliation: Democratic | Senator Maria Cantwell (D-WA) seeks a Staff Assistant who will be responsible for operations in the Washington, D.C. front office. Among other tasks, the Staff Assistant is responsible for answering p...</description>
-      <guid isPermaLink="false">senate-309</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
     </item>
     <item>
       <title>Fall Communications Internship - U.S. Senate</title>
@@ -405,6 +381,30 @@
       <guid isPermaLink="false">senate-391</guid>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Tax Legislative Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/tax-legislative-assistant-washington-district-of-columbia-0948</link>
+      <description>Office: Senator Mark R. Warner | Location: Washington, DC | Affiliation: Democratic | Senator Mark R. Warner is seeking a Tax Legislative Assistant to handle tax, trade, pensions, Social Security, and unemployment insurance policy related to the Senator’s work on the Senate Finance Com...</description>
+      <guid isPermaLink="false">senate-390</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Fall 2026 Intern - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/fall-2026-intern-washington-district-of-columbia-0947</link>
+      <description>Office: Senator Sheldon Whitehouse | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Sheldon Whitehouse (D-RI) seeks legislative and press interns for his Washington, DC and Providence, RI offices for Fall 2026. Responsibilities include answering phones, sorting...</description>
+      <guid isPermaLink="false">senate-389</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Press Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/press-assistant-washington-district-of-columbia-0946</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Republican Senator seeks a press assistant to join an active communications team. Responsibilities include but are not limited to: producing digital media content, photographing events, editing photos...</description>
+      <guid isPermaLink="false">senate-388</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
     </item>
   </channel>
 </rss>
