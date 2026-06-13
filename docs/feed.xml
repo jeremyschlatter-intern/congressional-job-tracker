@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Fri, 12 Jun 2026 23:18:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 14:12:24 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Press Internships - U.S. Senate</title>
@@ -181,14 +181,6 @@
       <guid isPermaLink="false">senate-326</guid>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
-    </item>
-    <item>
-      <title>Military Legislative Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/military-legislative-assistant-washington-district-of-columbia-0888</link>
-      <description>Office: Senator Lisa Blunt Rochester | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Lisa Blunt Rochester seeks a highly motivated and experienced Military Legislative Assistant to lead a portfolio including national security, defense, veterans affairs, and forei...</description>
-      <guid isPermaLink="false">senate-321</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
     </item>
     <item>
       <title>Correspondence Manager - U.S. Senate</title>
@@ -403,6 +395,14 @@
       <link>https://careers.employment.senate.gov/job/legislative-correspondent-health-and-education-washington-district-of-columbia-0943</link>
       <description>Office: Senator Brian Schatz | Location: Washington, DC | Affiliation: Democratic | U.S. Senator Brian Schatz of Hawaii seeks a legislative correspondent to support the senator’s work on health, education, veterans affairs, tax, and nutrition policy. Responsibilities include drafting...</description>
       <guid isPermaLink="false">senate-385</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Legislative Assistant (Housing and Transportation) - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legislative-assistant-housing-and-transportation-washington-district-of-columbia-0942</link>
+      <description>Office: Senator Brian Schatz | Location: Washington, DC | Affiliation: Democratic | Senator Brian Schatz is hiring a legislative staffer to advise the senator on housing and transportation policy. The staffer will support the senator as a member of the Commerce Committee and Appropri...</description>
+      <guid isPermaLink="false">senate-384</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
     </item>
