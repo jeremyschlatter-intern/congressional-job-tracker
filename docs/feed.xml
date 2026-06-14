@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sat, 13 Jun 2026 23:05:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 14:17:31 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Press Internships - U.S. Senate</title>
@@ -29,14 +29,6 @@
       <guid isPermaLink="false">senate-371</guid>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Constituent Service Representative - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/constituent-service-representative-seattle-washington-0924</link>
-      <description>Office: Senator Patty Murray | Location: Seattle, WA | Affiliation: Democratic | U.S. Senator Patty Murray (D-WA) seeks a Constituent Service Representative in her Seattle office. The position will consist of providing administrative and clerical support, greeting visitors, managi...</description>
-      <guid isPermaLink="false">senate-367</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <category>Constituent Services</category>
     </item>
     <item>
       <title>Health Policy Legislative Assistant - U.S. Senate</title>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">senate-384</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Digital Staffer - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/digital-staffer-washington-district-of-columbia-0941</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | Northeast Democratic senator seeks a Digital staffer to join our office’s communications team. One to two years of digital experience is preferred but not required. Excellent creativity, as well as th...</description>
+      <guid isPermaLink="false">senate-383</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
     </item>
   </channel>
 </rss>
