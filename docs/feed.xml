@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sun, 14 Jun 2026 23:10:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 17:22:00 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Press Internships - U.S. Senate</title>
@@ -135,14 +135,6 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Staff Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/staff-assistant-austin-texas-0909</link>
-      <description>Office: Senator Ted Cruz | Location: Austin, TX | Affiliation: Republican | Senator Ted Cruz (R-TX) is seeking a Staff Assistant to join his Central Texas Regional office located in Austin, Texas. Primary responsibilities include, but are not limited to, maintaining front off...</description>
-      <guid isPermaLink="false">senate-346</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
-    </item>
-    <item>
       <title>Veteran and Military Liaison - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/veteran-and-military-liaison-casper-wyoming-0903</link>
       <description>Office: Senator John Barrasso | Location: Casper, WY | Affiliation: Republican | U.S. Senator John Barrasso is seeking a Veteran and Military Liaison in his Casper, WY office. This position will work directly with military and veteran constituents and their families on casework to...</description>
@@ -165,14 +157,6 @@
       <guid isPermaLink="false">senate-336</guid>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Staff Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/staff-assistant-boston-massachusetts-0892</link>
-      <description>Office: Senator Edward J. Markey | Location: Boston, MA | Affiliation: Democratic | Senator Edward J. Markey (D-Mass.) is looking for a highly-motivated and detail-oriented Staff Assistant for his Boston, Massachusetts office. Applicants must possess a professional telephone manner,...</description>
-      <guid isPermaLink="false">senate-326</guid>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
     </item>
     <item>
       <title>Correspondence Manager - U.S. Senate</title>
@@ -405,6 +389,22 @@
       <guid isPermaLink="false">senate-383</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Press Secretary - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/press-secretary-washington-district-of-columbia-0940</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | Progressive Democratic senator seeks an experienced and detail-oriented applicant to join an active communications office as Press Secretary. Duties include, but are not limited to, managing day-to-da...</description>
+      <guid isPermaLink="false">senate-382</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Professional Staff Member - Natural Resources - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/professional-staff-member-natural-resources-washington-district-of-columbia-0970</link>
+      <description>Office: Energy and Natural Resources - Democrats | Location: Washington, DC | Affiliation: Democratic | Ranking Member Martin Heinrich (D-NM) seeks a Professional Staff Member to join the Democratic staff of the Energy and Natural Resources Committee. This role will be responsible for policy and oversig...</description>
+      <guid isPermaLink="false">senate-423</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
   </channel>
 </rss>
