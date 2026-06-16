@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Mon, 15 Jun 2026 23:46:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 17:06:16 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Press Internships - U.S. Senate</title>
@@ -37,14 +37,6 @@
       <guid isPermaLink="false">senate-366</guid>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Digital Engagement Director - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/19/home/requisition/4414?c=house</link>
-      <description>Office: House Talent Marketplace | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-365</guid>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <category>House Member/Committee</category>
     </item>
     <item>
       <title>Policy Advisor: Tax/Trade/Financial Services - U.S. Senate</title>
@@ -399,12 +391,20 @@
       <category>Communications</category>
     </item>
     <item>
-      <title>Washington, D.C. Staff Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/washington-d-c-staff-assistant-washington-district-of-columbia-0972</link>
-      <description>Office: Senator Andy Kim | Location: Washington, DC | Affiliation: Democratic | Senator Andy Kim seeks a Staff Assistant in his Washington, D.C. office. Ideal candidate is dependable, detail-oriented, and highly-motivated individual with excellent organizational and oral and writ...</description>
-      <guid isPermaLink="false">senate-425</guid>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
+      <title>Communications Internships - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/communications-internships-washington-district-of-columbia-0975</link>
+      <description>Office: Senator Gary C. Peters | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Gary C. Peters is currently seeking a paid, full-time Press Intern and a paid, full-time Digital Intern for Fall 2026 . Responsibilities for the Press Intern include media monito...</description>
+      <guid isPermaLink="false">senate-428</guid>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>DC Legislative Internship - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/dc-legislative-internship-washington-district-of-columbia-0974</link>
+      <description>Office: Senator Gary C. Peters | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Gary C. Peters is currently seeking paid legislative interns for the Fall 2026 class. Legislative interns in the Washington, D.C. office will attend briefings and hearings, draft...</description>
+      <guid isPermaLink="false">senate-427</guid>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
   </channel>
 </rss>
