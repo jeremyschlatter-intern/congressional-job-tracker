@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Tue, 16 Jun 2026 17:06:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 23:24:13 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Press Internships - U.S. Senate</title>
@@ -391,20 +391,20 @@
       <category>Communications</category>
     </item>
     <item>
-      <title>Communications Internships - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/communications-internships-washington-district-of-columbia-0975</link>
-      <description>Office: Senator Gary C. Peters | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Gary C. Peters is currently seeking a paid, full-time Press Intern and a paid, full-time Digital Intern for Fall 2026 . Responsibilities for the Press Intern include media monito...</description>
-      <guid isPermaLink="false">senate-428</guid>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
-      <title>DC Legislative Internship - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/dc-legislative-internship-washington-district-of-columbia-0974</link>
-      <description>Office: Senator Gary C. Peters | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Gary C. Peters is currently seeking paid legislative interns for the Fall 2026 class. Legislative interns in the Washington, D.C. office will attend briefings and hearings, draft...</description>
-      <guid isPermaLink="false">senate-427</guid>
+      <title>Fall 2026 Internship - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/fall-2026-internship-washington-district-of-columbia-0978</link>
+      <description>Office: Senator Mazie K. Hirono | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Mazie K. Hirono seeks interns for Fall 2026 in Washington, D.C. This opportunity is designed for the professional development of recent graduates of and students currently enroll...</description>
+      <guid isPermaLink="false">senate-431</guid>
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Staff Assistant/Assistant to the State Director - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/staff-assistant-assistant-to-the-state-director-phoenix-arizona-0977</link>
+      <description>Office: Senator Mark Kelly | Location: Phoenix, AZ | Affiliation: Democratic | The Office of Senator Mark Kelly seeks a Staff Assistant/Assistant to the State Director for his Phoenix office. This position reports to the State Operations Manager. Primary responsibilities include...</description>
+      <guid isPermaLink="false">senate-430</guid>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
     </item>
   </channel>
 </rss>
