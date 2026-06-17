@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 17 Jun 2026 15:50:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 23:25:36 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Press Internships - U.S. Senate</title>
@@ -367,6 +367,14 @@
       <category>Communications</category>
     </item>
     <item>
+      <title>Fall 2026 Washington, D.C. Internship - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/fall-2026-washington-d-c-internship-washington-district-of-columbia-0980</link>
+      <description>Office: Senator John Fetterman | Location: Washington, DC | Affiliation: Democratic | The Office of United States Senator John Fetterman seeks full-time fall interns for the fall semester. Internships with the Office of United States Senator John Fetterman offers students a deeper unde...</description>
+      <guid isPermaLink="false">senate-434</guid>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
       <title>Financial Analyst - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5463?c=house</link>
       <description>Office: Office of the Clerk | Location: Washington, DC</description>
@@ -397,14 +405,6 @@
       <guid isPermaLink="false">senate-430</guid>
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
-    </item>
-    <item>
-      <title>Legislative Correspondent - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-correspondent-washington-district-of-columbia-0976</link>
-      <description>Office: Senator Mark R. Warner | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Mark R. Warner is looking for a Legislative Correspondent to work on policy issues related to technology, telecommunications, cybersecurity, veterans’ affairs, and government pro...</description>
-      <guid isPermaLink="false">senate-429</guid>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
     </item>
   </channel>
 </rss>
