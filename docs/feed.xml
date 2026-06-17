@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Tue, 16 Jun 2026 23:24:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 15:50:54 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Press Internships - U.S. Senate</title>
@@ -207,14 +207,6 @@
       <category>Communications</category>
     </item>
     <item>
-      <title>Legislative Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-assistant-washington-district-of-columbia-0751</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Senior Republican Senator seeks Legislative Assistant in the Washington, DC office with a focus on health care and education policy. Responsibilities include monitoring legislation in assigned portfol...</description>
-      <guid isPermaLink="false">senate-149</guid>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4284?c=house</link>
       <description>Office: House Support Offices | Location: Garner, NC</description>
@@ -261,14 +253,6 @@
       <guid isPermaLink="false">senate-405</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Digital Director - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/digital-director-washington-district-of-columbia-0956</link>
-      <description>Office: Senator Tammy Duckworth | Location: Washington, DC | Affiliation: Democratic | U.S. Senator Tammy Duckworth seeks a strategic, innovative and hardworking Digital Director to join her highly active communications team. This role would work with the Communications Director to deve...</description>
-      <guid isPermaLink="false">senate-404</guid>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
     </item>
     <item>
       <title>Photographic Services Specialist #376 - U.S. Senate</title>
@@ -343,14 +327,6 @@
       <category>Communications</category>
     </item>
     <item>
-      <title>Parking Operations Specialist #5541 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/parking-operations-specialist-5541-washington-district-of-columbia-0945</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | Join the Sergeant at Arms (SAA) as a Parking Operations Specialist. In this position, you'll play a critical role in ensuring the security and compliance of vehicles parking within the SAA’s jurisdict...</description>
-      <guid isPermaLink="false">senate-387</guid>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
-    </item>
-    <item>
       <title>Staff Assistant and Office Coordinator (South Jersey) - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/staff-assistant-and-office-coordinator-south-jersey-barrington-new-jersey-0944</link>
       <description>Office: Senator Andy Kim | Location: Barrington, NJ | Affiliation: Democratic | Senator Andy Kim is seeking a Staff Assistant in his Barrington, NJ Office. Applicants must be professional, detail oriented, well organized, able to handle a fast-paced work environment, work well in...</description>
@@ -391,6 +367,22 @@
       <category>Communications</category>
     </item>
     <item>
+      <title>Financial Analyst - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5463?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-433</guid>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Energy &amp; Environment Policy Advisor - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/energy-environment-policy-advisor-washington-district-of-columbia-0979</link>
+      <description>Office: Senator Jacky Rosen | Location: Washington, DC | Affiliation: Democratic | Senator Jacky Rosen (D-NV) seeks an Energy &amp;amp; Environment Policy Advisor to manage an active portfolio including Public Lands, Energy, Environment, Water, Natural Resources, and Tribal Affairs. The...</description>
+      <guid isPermaLink="false">senate-432</guid>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
       <title>Fall 2026 Internship - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/fall-2026-internship-washington-district-of-columbia-0978</link>
       <description>Office: Senator Mazie K. Hirono | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Mazie K. Hirono seeks interns for Fall 2026 in Washington, D.C. This opportunity is designed for the professional development of recent graduates of and students currently enroll...</description>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">senate-430</guid>
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
+    </item>
+    <item>
+      <title>Legislative Correspondent - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legislative-correspondent-washington-district-of-columbia-0976</link>
+      <description>Office: Senator Mark R. Warner | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Mark R. Warner is looking for a Legislative Correspondent to work on policy issues related to technology, telecommunications, cybersecurity, veterans’ affairs, and government pro...</description>
+      <guid isPermaLink="false">senate-429</guid>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
   </channel>
 </rss>
