@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Thu, 18 Jun 2026 15:38:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 23:45:52 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Press Internships - U.S. Senate</title>
@@ -148,14 +148,6 @@
       <description>Office: Senator Christopher A. Coons | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Chris Coons is hiring Fall 2026 law clerks to assist the Senator’s Judiciary Committee staff. Law clerks will assist the Senator’s counsels in all aspects of the Senator’s Judici...</description>
       <guid isPermaLink="false">senate-336</guid>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Correspondence Manager - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/correspondence-manager-washington-district-of-columbia-0883</link>
-      <description>Office: Senator Elissa Slotkin | Location: Washington, DC | Affiliation: Democratic | The Office of Elissa Slotkin is seeking  a Correspondence Manager to join her Washington D.C. office. This position is responsible for all aspects of the office’s correspondence operation, including e...</description>
-      <guid isPermaLink="false">senate-314</guid>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
     </item>
     <item>
@@ -351,6 +343,46 @@
       <category>Communications</category>
     </item>
     <item>
+      <title>The Senate Radio-Television Correspondents Gallery Deputy Director #435 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/the-senate-radio-television-correspondents-gallery-deputy-director-435-washington-district-of-columbia-0987</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Radio-Television Correspondents Gallery Deputy Director assists in managing press operations and office staff that serve as Senate liaisons to electronic news-gathering reporters. Essential...</description>
+      <guid isPermaLink="false">senate-441</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
+    </item>
+    <item>
+      <title>Legislative Aide (Education) - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legislative-aide-education-washington-district-of-columbia-0986</link>
+      <description>Office: Health, Education, Labor, and Pensions - Democrats | Location: Washington, DC | Affiliation: Democratic | The U.S. Senate Health, Education, Labor and Pensions (HELP) Committee, Minority staff seeks a Legislative Aide to support the committee’s work on education. Interested applicants should apply to this...</description>
+      <guid isPermaLink="false">senate-440</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Systems Specialist #284 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/systems-specialist-284-landover-maryland-0985</link>
+      <description>Office: Senate Sergeant at Arms | Location: Landover, MD | Affiliation: Nonpartisan | The Senate Sergeant at Arms (SAA) is currently seeking a talented IT Systems Engineer to join the Printing, Graphics, and Direct Mail’s (PGDM) Information Technology team. This role involves hands-on...</description>
+      <guid isPermaLink="false">senate-439</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
+    </item>
+    <item>
+      <title>Fall 2026 Pennsylvania Internship - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/fall-2026-pennsylvania-internship-harrisburg-pittsburgh-philadelphia-pennsylvania-0984</link>
+      <description>Office: Senator John Fetterman | Location: Harrisburg,Pittsburgh,Philadelphia, PA | Affiliation: Democratic | The Office of United States Senator John Fetterman seeks part-time interns for the fall semester in its Philadelphia, Harrisburg, and Pittsburgh offices. Internships with the Office of United States S...</description>
+      <guid isPermaLink="false">senate-438</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
+    </item>
+    <item>
+      <title>Creative Director and New Media Strategist - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/creative-director-and-new-media-strategist-washington-district-of-columbia-0983</link>
+      <description>Office: Senator Kirsten E. Gillibrand | Location: Washington, DC | Affiliation: Democratic | U.S. Senator Kirsten Gillibrand seeks a Creative Director and New Media Strategist to join her communications team. This role would work with the Communications Director to develop digital first strat...</description>
+      <guid isPermaLink="false">senate-437</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
       <title>Counsel - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/counsel-washington-district-of-columbia-0982</link>
       <description>Office: Senator Peter Welch | Location: Washington, DC | Affiliation: Democratic | Senator Welch is seeking a proactive, experienced Counsel to work on a variety of issues that fall under the Judiciary Committee’s jurisdiction. Issues may include patent law, intellectual property, a...</description>
@@ -373,38 +405,6 @@
       <guid isPermaLink="false">senate-434</guid>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Financial Analyst - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5463?c=house</link>
-      <description>Office: Office of the Clerk | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-433</guid>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Energy &amp; Environment Policy Advisor - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/energy-environment-policy-advisor-washington-district-of-columbia-0979</link>
-      <description>Office: Senator Jacky Rosen | Location: Washington, DC | Affiliation: Democratic | Senator Jacky Rosen (D-NV) seeks an Energy &amp;amp; Environment Policy Advisor to manage an active portfolio including Public Lands, Energy, Environment, Water, Natural Resources, and Tribal Affairs. The...</description>
-      <guid isPermaLink="false">senate-432</guid>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Fall 2026 Internship - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/fall-2026-internship-washington-district-of-columbia-0978</link>
-      <description>Office: Senator Mazie K. Hirono | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Mazie K. Hirono seeks interns for Fall 2026 in Washington, D.C. This opportunity is designed for the professional development of recent graduates of and students currently enroll...</description>
-      <guid isPermaLink="false">senate-431</guid>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Staff Assistant/Assistant to the State Director - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/staff-assistant-assistant-to-the-state-director-phoenix-arizona-0977</link>
-      <description>Office: Senator Mark Kelly | Location: Phoenix, AZ | Affiliation: Democratic | The Office of Senator Mark Kelly seeks a Staff Assistant/Assistant to the State Director for his Phoenix office. This position reports to the State Operations Manager. Primary responsibilities include...</description>
-      <guid isPermaLink="false">senate-430</guid>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
     </item>
   </channel>
 </rss>
