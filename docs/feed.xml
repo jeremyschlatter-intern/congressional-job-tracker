@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Thu, 18 Jun 2026 23:45:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 15:32:24 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Press Internships - U.S. Senate</title>
@@ -103,14 +103,6 @@
       <category>House Support</category>
     </item>
     <item>
-      <title>Principal Systems Engineer #628 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/principal-systems-engineer-628-washington-district-of-columbia-0913</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Sergeant at Arms is seeking a Principal Engineer to join our Enterprise Operations department. In this role, you will plan, analyze, test, install, troubleshoot, and maintain the integrity of a co...</description>
-      <guid isPermaLink="false">senate-350</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
-    </item>
-    <item>
       <title>Legislative Correspondent - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/legislative-correspondent-washington-district-of-columbia-0912</link>
       <description>Office: Senator Gary C. Peters | Location: Washington, DC | Affiliation: Democratic | The Office of U.S. Senator Gary Peters seeks multiple highly motivated, detail oriented and resourceful Legislative Correspondents in the Washington, D.C. office. Primary duties include processing and...</description>
@@ -124,22 +116,6 @@
       <description>Office: Senator Peter Welch | Location: Washington, DC | Affiliation: Democratic | Senator Peter Welch (D-VT), member of the Senate Judiciary Committee, seeks one full-time law clerk for the Fall of 2026. The law clerk will serve on the policy team that manages the Senator’s Judicia...</description>
       <guid isPermaLink="false">senate-347</guid>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Veteran and Military Liaison - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/veteran-and-military-liaison-casper-wyoming-0903</link>
-      <description>Office: Senator John Barrasso | Location: Casper, WY | Affiliation: Republican | U.S. Senator John Barrasso is seeking a Veteran and Military Liaison in his Casper, WY office. This position will work directly with military and veteran constituents and their families on casework to...</description>
-      <guid isPermaLink="false">senate-338</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <category>Constituent Services</category>
-    </item>
-    <item>
-      <title>Legislative Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-assistant-washington-district-of-columbia-0902</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Midwest Republican Senator and senior member of the Senate Foreign Relations Committee seeks a legislative assistant to join their Washington, D.C. office. The LA will play a pivotal role on the senat...</description>
-      <guid isPermaLink="false">senate-337</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
     </item>
     <item>
@@ -245,22 +221,6 @@
       <guid isPermaLink="false">senate-405</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Photographic Services Specialist #376 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/photographic-services-specialist-376-washington-district-of-columbia-0955</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | Senate Photographic Services (SPS) documents the work and history of the U.S. Senate through official photography, short-form video, and visual media. The Photographic Services Specialist serves as th...</description>
-      <guid isPermaLink="false">senate-398</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
-    </item>
-    <item>
-      <title>Technology Solutions Specialist #5550 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/technology-solutions-specialist-5550-washington-district-of-columbia-0954</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Sergeant at Arms, Printing Graphics and Direct Mail (PGDM) department is seeking a highly skilled and motivated Technology Solutions Specialist to join our team. This role will primarily focus on...</description>
-      <guid isPermaLink="false">senate-397</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
     </item>
     <item>
       <title>SCC Summer Fellowship - U.S. Senate</title>
@@ -404,6 +364,46 @@
       <description>Office: Senator John Fetterman | Location: Washington, DC | Affiliation: Democratic | The Office of United States Senator John Fetterman seeks full-time fall interns for the fall semester. Internships with the Office of United States Senator John Fetterman offers students a deeper unde...</description>
       <guid isPermaLink="false">senate-434</guid>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Financial Analyst - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5463?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-433</guid>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Energy &amp; Environment Policy Advisor - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/energy-environment-policy-advisor-washington-district-of-columbia-0979</link>
+      <description>Office: Senator Jacky Rosen | Location: Washington, DC | Affiliation: Democratic | Senator Jacky Rosen (D-NV) seeks an Energy &amp;amp; Environment Policy Advisor to manage an active portfolio including Public Lands, Energy, Environment, Water, Natural Resources, and Tribal Affairs. The...</description>
+      <guid isPermaLink="false">senate-432</guid>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Fall 2026 Internship - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/fall-2026-internship-washington-district-of-columbia-0978</link>
+      <description>Office: Senator Mazie K. Hirono | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Mazie K. Hirono seeks interns for Fall 2026 in Washington, D.C. This opportunity is designed for the professional development of recent graduates of and students currently enroll...</description>
+      <guid isPermaLink="false">senate-431</guid>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Staff Assistant/Assistant to the State Director - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/staff-assistant-assistant-to-the-state-director-phoenix-arizona-0977</link>
+      <description>Office: Senator Mark Kelly | Location: Phoenix, AZ | Affiliation: Democratic | The Office of Senator Mark Kelly seeks a Staff Assistant/Assistant to the State Director for his Phoenix office. This position reports to the State Operations Manager. Primary responsibilities include...</description>
+      <guid isPermaLink="false">senate-430</guid>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
+    </item>
+    <item>
+      <title>Legislative Correspondent - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legislative-correspondent-washington-district-of-columbia-0976</link>
+      <description>Office: Senator Mark R. Warner | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Mark R. Warner is looking for a Legislative Correspondent to work on policy issues related to technology, telecommunications, cybersecurity, veterans’ affairs, and government pro...</description>
+      <guid isPermaLink="false">senate-429</guid>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
     </item>
   </channel>
