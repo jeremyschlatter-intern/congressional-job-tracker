@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Mon, 22 Jun 2026 17:06:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 23:20:38 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Press Internships - U.S. Senate</title>
@@ -117,6 +117,14 @@
       <guid isPermaLink="false">senate-347</guid>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Veteran and Military Liaison - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/veteran-and-military-liaison-casper-wyoming-0903</link>
+      <description>Office: Senator John Barrasso | Location: Casper, WY | Affiliation: Republican | U.S. Senator John Barrasso is seeking a Veteran and Military Liaison in his Casper, WY office. This position will work directly with military and veteran constituents and their families on casework to...</description>
+      <guid isPermaLink="false">senate-338</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
     </item>
     <item>
       <title>Fall 2026 Law Clerk - Office of Senator Christopher A. Coons - U.S. Senate</title>
@@ -271,6 +279,54 @@
       <category>Communications</category>
     </item>
     <item>
+      <title>House Digital Services - Member Services Intern, Fall - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5467?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-449</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Human Resources Intern, Fall - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5468?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-448</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>House Human Capital Office Intern, Fall - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5469?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-447</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Capitol Service Center Intern, Fall - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5471?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-446</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Retail Inventory Specialist Intern, Fall - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5472?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-445</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>CAO Immediate Office Intern, Fall - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5473?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-444</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
       <title>CAO IT Customer Solutions Intern, Fall - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5470?c=house</link>
       <description>Office: Office of the Clerk | Location: Washington, DC</description>
@@ -349,62 +405,6 @@
       <guid isPermaLink="false">senate-438</guid>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <category>Constituent Services</category>
-    </item>
-    <item>
-      <title>Creative Director and New Media Strategist - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/creative-director-and-new-media-strategist-washington-district-of-columbia-0983</link>
-      <description>Office: Senator Kirsten E. Gillibrand | Location: Washington, DC | Affiliation: Democratic | U.S. Senator Kirsten Gillibrand seeks a Creative Director and New Media Strategist to join her communications team. This role would work with the Communications Director to develop digital first strat...</description>
-      <guid isPermaLink="false">senate-437</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
-      <title>Counsel - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/counsel-washington-district-of-columbia-0982</link>
-      <description>Office: Senator Peter Welch | Location: Washington, DC | Affiliation: Democratic | Senator Welch is seeking a proactive, experienced Counsel to work on a variety of issues that fall under the Judiciary Committee’s jurisdiction. Issues may include patent law, intellectual property, a...</description>
-      <guid isPermaLink="false">senate-436</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Fall 2026 Legal Fellow - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/fall-2026-legal-fellow-washington-district-of-columbia-0981</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | Democratic Senator is seeking a fall legal fellow to work on their legislative team. This is a full-time position, based in Washington, D.C, and applicants must either be currently enrolled in an accr...</description>
-      <guid isPermaLink="false">senate-435</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Fall 2026 Washington, D.C. Internship - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/fall-2026-washington-d-c-internship-washington-district-of-columbia-0980</link>
-      <description>Office: Senator John Fetterman | Location: Washington, DC | Affiliation: Democratic | The Office of United States Senator John Fetterman seeks full-time fall interns for the fall semester. Internships with the Office of United States Senator John Fetterman offers students a deeper unde...</description>
-      <guid isPermaLink="false">senate-434</guid>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Financial Analyst - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5463?c=house</link>
-      <description>Office: Office of the Clerk | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-433</guid>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Energy &amp; Environment Policy Advisor - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/energy-environment-policy-advisor-washington-district-of-columbia-0979</link>
-      <description>Office: Senator Jacky Rosen | Location: Washington, DC | Affiliation: Democratic | Senator Jacky Rosen (D-NV) seeks an Energy &amp;amp; Environment Policy Advisor to manage an active portfolio including Public Lands, Energy, Environment, Water, Natural Resources, and Tribal Affairs. The...</description>
-      <guid isPermaLink="false">senate-432</guid>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Fall 2026 Internship - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/fall-2026-internship-washington-district-of-columbia-0978</link>
-      <description>Office: Senator Mazie K. Hirono | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Mazie K. Hirono seeks interns for Fall 2026 in Washington, D.C. This opportunity is designed for the professional development of recent graduates of and students currently enroll...</description>
-      <guid isPermaLink="false">senate-431</guid>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
     </item>
   </channel>
 </rss>
