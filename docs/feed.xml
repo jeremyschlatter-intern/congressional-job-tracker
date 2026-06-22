@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sun, 21 Jun 2026 23:14:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 17:06:13 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Press Internships - U.S. Senate</title>
@@ -271,6 +271,22 @@
       <category>Communications</category>
     </item>
     <item>
+      <title>CAO IT Customer Solutions Intern, Fall - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5470?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-443</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Special Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/special-assistant-washington-district-of-columbia-0988</link>
+      <description>Office: Senator Chris Van Hollen | Location: Washington, DC | Affiliation: Democratic | Senator Chris Van Hollen is seeking a highly organized, detail-oriented, and dependable Special Assistant. This trusted Washington, DC-based position provides direct support to the Senator in managing...</description>
+      <guid isPermaLink="false">senate-442</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
+    </item>
+    <item>
       <title>Legislative Correspondent (Health and Education) - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/legislative-correspondent-health-and-education-washington-district-of-columbia-0943</link>
       <description>Office: Senator Brian Schatz | Location: Washington, DC | Affiliation: Democratic | U.S. Senator Brian Schatz of Hawaii seeks a legislative correspondent to support the senator’s work on health, education, veterans affairs, tax, and nutrition policy. Responsibilities include drafting...</description>
@@ -387,22 +403,6 @@
       <link>https://careers.employment.senate.gov/job/fall-2026-internship-washington-district-of-columbia-0978</link>
       <description>Office: Senator Mazie K. Hirono | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Mazie K. Hirono seeks interns for Fall 2026 in Washington, D.C. This opportunity is designed for the professional development of recent graduates of and students currently enroll...</description>
       <guid isPermaLink="false">senate-431</guid>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Staff Assistant/Assistant to the State Director - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/staff-assistant-assistant-to-the-state-director-phoenix-arizona-0977</link>
-      <description>Office: Senator Mark Kelly | Location: Phoenix, AZ | Affiliation: Democratic | The Office of Senator Mark Kelly seeks a Staff Assistant/Assistant to the State Director for his Phoenix office. This position reports to the State Operations Manager. Primary responsibilities include...</description>
-      <guid isPermaLink="false">senate-430</guid>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
-    </item>
-    <item>
-      <title>Legislative Correspondent - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-correspondent-washington-district-of-columbia-0976</link>
-      <description>Office: Senator Mark R. Warner | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Mark R. Warner is looking for a Legislative Correspondent to work on policy issues related to technology, telecommunications, cybersecurity, veterans’ affairs, and government pro...</description>
-      <guid isPermaLink="false">senate-429</guid>
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
     </item>
