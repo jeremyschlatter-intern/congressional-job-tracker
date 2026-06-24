@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 24 Jun 2026 14:43:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 23:04:23 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Press Internships - U.S. Senate</title>
@@ -135,14 +135,6 @@
       <category>Communications</category>
     </item>
     <item>
-      <title>Law Clerk - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/law-clerk-washington-district-of-columbia-0867</link>
-      <description>Office: Senator Richard Blumenthal, Senate Judiciary Committee | Location: Washington, DC | Affiliation: Democratic | Senator Blumenthal (D-CT) is accepting law clerk applications for the Fall 2026 session. Applicants must either be currently enrolled in an accredited JD program or have recently received a JD from an...</description>
-      <guid isPermaLink="false">senate-303</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>Senior Cloud Engineer - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4378?c=house</link>
       <description>Office: House Support Offices | Location: Washington, DC</description>
@@ -245,6 +237,30 @@
       <guid isPermaLink="false">senate-388</guid>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Front Desk Clerk - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5466?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-461</guid>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Fall 2026 - State Office Internship - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/fall-2026-state-office-internship-phoenix-arizona-0996</link>
+      <description>Office: Senator Ruben Gallego | Location: Phoenix, AZ | Affiliation: Democratic | The Office of U.S. Senator Ruben Gallego is now accepting applications for internship opportunities in both our Phoenix and Tucson offices for the upcoming 2026 Fall term. Interns will be expected to...</description>
+      <guid isPermaLink="false">senate-460</guid>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
+    </item>
+    <item>
+      <title>Fall 2026 Legislative Internship - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/fall-2026-legislative-internship-washington-district-of-columbia-0995</link>
+      <description>Office: Senator Kirsten E. Gillibrand | Location: Washington, DC | Affiliation: Democratic | U.S. Senator Kirsten E. Gillibrand (D-NY) is currently accepting applications for her 14-week legislative internship program for the upcoming fall semester in the Washington, DC office. Responsibiliti...</description>
+      <guid isPermaLink="false">senate-459</guid>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
     </item>
     <item>
       <title>Staff Assistant - Washington, DC - U.S. Senate</title>
@@ -389,22 +405,6 @@
       <guid isPermaLink="false">senate-385</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Legislative Assistant (Housing and Transportation) - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-assistant-housing-and-transportation-washington-district-of-columbia-0942</link>
-      <description>Office: Senator Brian Schatz | Location: Washington, DC | Affiliation: Democratic | Senator Brian Schatz is hiring a legislative staffer to advise the senator on housing and transportation policy. The staffer will support the senator as a member of the Commerce Committee and Appropri...</description>
-      <guid isPermaLink="false">senate-384</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Digital Staffer - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/digital-staffer-washington-district-of-columbia-0941</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | Northeast Democratic senator seeks a Digital staffer to join our office’s communications team. One to two years of digital experience is preferred but not required. Excellent creativity, as well as th...</description>
-      <guid isPermaLink="false">senate-383</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
     </item>
   </channel>
 </rss>
