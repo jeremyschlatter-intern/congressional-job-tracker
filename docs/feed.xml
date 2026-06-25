@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Thu, 25 Jun 2026 14:42:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 23:18:56 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Press Internships - U.S. Senate</title>
@@ -143,14 +143,6 @@
       <category>House Support</category>
     </item>
     <item>
-      <title>Stars of Valor Fellow – Senator Ron Johnson - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/stars-of-valor-fellow-senator-ron-johnson-milwaukee-wisconsin-0771</link>
-      <description>Office: Stars of Valor Fellowships Program | Location: Milwaukee, WI | Affiliation: Nonpartisan | The Senate has established the Stars of Valor Fellowships Program for wounded and disabled veterans; family members of Armed Forces servicemembers who die in the line of duty or veterans who die of se...</description>
-      <guid isPermaLink="false">senate-174</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Constituent Services</category>
-    </item>
-    <item>
       <title>Legislative Correspondent - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/legislative-correspondent-washington-district-of-columbia-0762</link>
       <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Midwest Republican member of the Senate Agriculture Committee is seeking a Legislative Correspondent to handle constituent correspondence and provide legislative support on agriculture, energy, enviro...</description>
@@ -187,14 +179,6 @@
       <link>https://careers.employment.senate.gov/job/counsel-or-professional-staff-member-washington-district-of-columbia-0959</link>
       <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Conservative Republican chairman seeking experienced oversight and investigations attorney or professional staff member for subcommittee. Responsibilities will include managing oversight and investiga...</description>
       <guid isPermaLink="false">senate-407</guid>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Correspondent Manager - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/correspondent-manager-washington-district-of-columbia-0957</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Southern Republican Senator is seeking a Correspondence Manager to join their Washington D.C. office. This position is responsible for all aspects of the office’s correspondence operation, including e...</description>
-      <guid isPermaLink="false">senate-405</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
     </item>
@@ -237,6 +221,22 @@
       <guid isPermaLink="false">senate-388</guid>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Chamber Operations Manager - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5487?c=house</link>
+      <description>Office: House Support Offices | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-463</guid>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Staff Assistant – Austin Office of U.S. Senator John Cornyn - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/staff-assistant-austin-office-of-u-s-senator-john-cornyn-austin-texas-0997</link>
+      <description>Office: Senator John Cornyn | Location: Austin, TX | Affiliation: Republican | Staff Assistant Tasks: Maintains front office, general office areas and related office supplies/technology. Greets visitors. Answers phone calls and maintains call tracking database. Routes mail, emai...</description>
+      <guid isPermaLink="false">senate-462</guid>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
     </item>
     <item>
       <title>Front Desk Clerk - U.S. House</title>
