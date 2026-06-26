@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Thu, 25 Jun 2026 23:18:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 14:36:12 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Press Internships - U.S. Senate</title>
@@ -36,22 +36,6 @@
       <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Republican Finance Committee member seeks a Health Policy Legislative Assistant to lead healthcare portfolio in the Washington, D.C. office. Ideal candidate should have at least 4 years of experience...</description>
       <guid isPermaLink="false">senate-366</guid>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Policy Advisor: Tax/Trade/Financial Services - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/policy-advisor-tax-trade-financial-services-washington-district-of-columbia-0922</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Republican Senate Leadership office is seeking a Tax, Trade and Financial Services staffer. Tasks include analyzing legislation, nominations, treaties, executive actions, and briefing staff on those i...</description>
-      <guid isPermaLink="false">senate-364</guid>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Policy Advisor: Health - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/policy-advisor-health-washington-district-of-columbia-0921</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Republican Senate Leadership office is seeking a Health Care policy staffer and advisor. A successful candidate will analyze legislation, nominations, federal rules and other administrative actions. T...</description>
-      <guid isPermaLink="false">senate-363</guid>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
     </item>
     <item>
@@ -143,14 +127,6 @@
       <category>House Support</category>
     </item>
     <item>
-      <title>Legislative Correspondent - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-correspondent-washington-district-of-columbia-0762</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Midwest Republican member of the Senate Agriculture Committee is seeking a Legislative Correspondent to handle constituent correspondence and provide legislative support on agriculture, energy, enviro...</description>
-      <guid isPermaLink="false">senate-162</guid>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>Press/Digital Assistant - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/press-digital-assistant-washington-district-of-columbia-0758</link>
       <description>Office: Senator Brian Schatz | Location: Washington, DC | Affiliation: Democratic | The Office of U.S. Senator Brian Schatz seeks a Press and Digital Assistant to join an active communications team. Responsibilities include but are not limited to: producing high-quality digital media...</description>
@@ -215,12 +191,20 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Press Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/press-assistant-washington-district-of-columbia-0946</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Republican Senator seeks a press assistant to join an active communications team. Responsibilities include but are not limited to: producing digital media content, photographing events, editing photos...</description>
-      <guid isPermaLink="false">senate-388</guid>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
+      <title>Legislative Correspondent - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legislative-correspondent-washington-district-of-columbia-0999</link>
+      <description>Office: Senator Ted Cruz | Location: Washington, DC | Affiliation: Republican | Senator Ted Cruz (R-TX) is seeking an enthusiastic legislative correspondent to manage a portfolio that includes tax, budget, agriculture, trade, and banking issues. Responsibilities include conductin...</description>
+      <guid isPermaLink="false">senate-465</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Staff Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-0998</link>
+      <description>Office: Senator Kevin Cramer | Location: Washington, DC | Affiliation: Republican | U.S. Senator Kevin Cramer (R-ND) is seeking a friendly and enthusiastic person to serve as Staff Assistant in the Washington D.C. office. The ideal candidate will be highly organized with a strong att...</description>
+      <guid isPermaLink="false">senate-464</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
     </item>
     <item>
       <title>Chamber Operations Manager - U.S. House</title>
@@ -405,6 +389,22 @@
       <guid isPermaLink="false">senate-385</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Legislative Assistant (Housing and Transportation) - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legislative-assistant-housing-and-transportation-washington-district-of-columbia-0942</link>
+      <description>Office: Senator Brian Schatz | Location: Washington, DC | Affiliation: Democratic | Senator Brian Schatz is hiring a legislative staffer to advise the senator on housing and transportation policy. The staffer will support the senator as a member of the Commerce Committee and Appropri...</description>
+      <guid isPermaLink="false">senate-384</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Digital Staffer - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/digital-staffer-washington-district-of-columbia-0941</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | Northeast Democratic senator seeks a Digital staffer to join our office’s communications team. One to two years of digital experience is preferred but not required. Excellent creativity, as well as th...</description>
+      <guid isPermaLink="false">senate-383</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
     </item>
   </channel>
 </rss>
