@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Fri, 26 Jun 2026 14:36:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 23:07:19 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Press Internships - U.S. Senate</title>
@@ -119,14 +119,6 @@
       <category>Communications</category>
     </item>
     <item>
-      <title>Senior Cloud Engineer - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4378?c=house</link>
-      <description>Office: House Support Offices | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-285</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
       <title>Press/Digital Assistant - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/press-digital-assistant-washington-district-of-columbia-0758</link>
       <description>Office: Senator Brian Schatz | Location: Washington, DC | Affiliation: Democratic | The Office of U.S. Senator Brian Schatz seeks a Press and Digital Assistant to join an active communications team. Responsibilities include but are not limited to: producing high-quality digital media...</description>
@@ -188,6 +180,30 @@
       <description>Office: Senator Sheldon Whitehouse | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Sheldon Whitehouse (D-RI) seeks legislative and press interns for his Washington, DC and Providence, RI offices for Fall 2026. Responsibilities include answering phones, sorting...</description>
       <guid isPermaLink="false">senate-389</guid>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Digital Director - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/digital-director-washington-district-of-columbia-1004</link>
+      <description>Office: Senator Alex Padilla | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Alex Padilla is looking for a Digital Director to oversee the Senator’s social media platforms. This role leads in sharing the Senator’s message and vision online across multiple...</description>
+      <guid isPermaLink="false">senate-468</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Press Secretary - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/press-secretary-washington-district-of-columbia-1002</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Southern Republican Senator seeks a detail-oriented writer and communications professional to join an active office as Press Secretary. The ideal applicant is first and foremost a strong writer but mu...</description>
+      <guid isPermaLink="false">senate-467</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Legislative Correspondent - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legislative-correspondent-washington-district-of-columbia-1000</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | New England Democratic Senator seeks a Legislative Correspondent to cover judiciary issues. Primary responsibilities include responding to constituent mail, meeting with constituents, and working with...</description>
+      <guid isPermaLink="false">senate-466</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
     </item>
     <item>
@@ -389,22 +405,6 @@
       <guid isPermaLink="false">senate-385</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Legislative Assistant (Housing and Transportation) - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-assistant-housing-and-transportation-washington-district-of-columbia-0942</link>
-      <description>Office: Senator Brian Schatz | Location: Washington, DC | Affiliation: Democratic | Senator Brian Schatz is hiring a legislative staffer to advise the senator on housing and transportation policy. The staffer will support the senator as a member of the Commerce Committee and Appropri...</description>
-      <guid isPermaLink="false">senate-384</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Digital Staffer - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/digital-staffer-washington-district-of-columbia-0941</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | Northeast Democratic senator seeks a Digital staffer to join our office’s communications team. One to two years of digital experience is preferred but not required. Excellent creativity, as well as th...</description>
-      <guid isPermaLink="false">senate-383</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
     </item>
   </channel>
 </rss>
