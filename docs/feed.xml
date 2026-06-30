@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Mon, 29 Jun 2026 22:59:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 14:31:21 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Press Internships - U.S. Senate</title>
@@ -95,14 +95,6 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Fall Communications Internship - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/fall-communications-internship-washington-district-of-columbia-0876</link>
-      <description>Office: Senator Patty Murray | Location: Washington, DC | Affiliation: Democratic | Senator Patty Murray is accepting applications for a paid, full-time communications internship for the fall semester. Communications interns work closely with the communications team and help compile...</description>
-      <guid isPermaLink="false">senate-304</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
       <title>Press/Digital Assistant - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/press-digital-assistant-washington-district-of-columbia-0758</link>
       <description>Office: Senator Brian Schatz | Location: Washington, DC | Affiliation: Democratic | The Office of U.S. Senator Brian Schatz seeks a Press and Digital Assistant to join an active communications team. Responsibilities include but are not limited to: producing high-quality digital media...</description>
@@ -141,6 +133,14 @@
       <guid isPermaLink="false">senate-396</guid>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Director, Executive Office Operations - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/director-executive-office-operations-washington-district-of-columbia-1014</link>
+      <description>Office: Secretary of the Senate | Location: Washington, DC | Affiliation: Nonpartisan | NATURE OF WORK This is administrative work providing executive support services to the Office of the Secretary of the Senate. Work involves performing a variety of administrative duties including sens...</description>
+      <guid isPermaLink="false">senate-477</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
     </item>
     <item>
       <title>Delaware Legislative Internship - U.S. Senate</title>
