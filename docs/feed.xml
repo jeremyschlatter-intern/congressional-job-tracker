@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Tue, 30 Jun 2026 23:14:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 14:48:09 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Press Internships - U.S. Senate</title>
@@ -171,14 +171,6 @@
       <link>https://careers.employment.senate.gov/job/delaware-legislative-internship-wilmington-delaware-0949</link>
       <description>Office: Senator Lisa Blunt Rochester | Location: Wilmington, DE | Affiliation: Democratic | The Office of Senator Lisa Blunt Rochester (D-Del.) seeks motivated, organized, and hardworking college students and recent graduates committed to public service to serve as interns in our Delaware of...</description>
       <guid isPermaLink="false">senate-391</guid>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Fall 2026 Intern - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/fall-2026-intern-washington-district-of-columbia-0947</link>
-      <description>Office: Senator Sheldon Whitehouse | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Sheldon Whitehouse (D-RI) seeks legislative and press interns for his Washington, DC and Providence, RI offices for Fall 2026. Responsibilities include answering phones, sorting...</description>
-      <guid isPermaLink="false">senate-389</guid>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
     </item>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">senate-384</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Digital Staffer - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/digital-staffer-washington-district-of-columbia-0941</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | Northeast Democratic senator seeks a Digital staffer to join our office’s communications team. One to two years of digital experience is preferred but not required. Excellent creativity, as well as th...</description>
+      <guid isPermaLink="false">senate-383</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
     </item>
   </channel>
 </rss>
