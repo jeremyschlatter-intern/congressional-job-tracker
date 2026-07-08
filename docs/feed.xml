@@ -4,24 +4,8 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Tue, 07 Jul 2026 23:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 14:27:36 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Press Internships - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/press-internships-washington-district-of-columbia-0931</link>
-      <description>Office: Senator Lisa Blunt Rochester | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Lisa Blunt Rochester (D-Del.) seeks a motivated, organized, and hardworking press intern in our Washington, DC office in Fall 2026. Our press intern will be fully integrated into...</description>
-      <guid isPermaLink="false">senate-373</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
-      <title>Legislative Internships - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-internships-washington-district-of-columbia-0930</link>
-      <description>Office: Senator Lisa Blunt Rochester | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Lisa Blunt Rochester (D-Del.) seeks motivated, organized, and hardworking college students and recent graduates committed to public service to serve as interns in our Washington,...</description>
-      <guid isPermaLink="false">senate-372</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
     <item>
       <title>Counsel or Professional Staff Member - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/counsel-or-professional-staff-member-washington-district-of-columbia-0929</link>
@@ -403,6 +387,22 @@
       <link>https://careers.employment.senate.gov/job/fall-2026-washington-d-c-internship-washington-district-of-columbia-0980</link>
       <description>Office: Senator John Fetterman | Location: Washington, DC | Affiliation: Democratic | The Office of United States Senator John Fetterman seeks full-time fall interns for the fall semester. Internships with the Office of United States Senator John Fetterman offers students a deeper unde...</description>
       <guid isPermaLink="false">senate-434</guid>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Financial Analyst - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5463?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-433</guid>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Energy &amp; Environment Policy Advisor - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/energy-environment-policy-advisor-washington-district-of-columbia-0979</link>
+      <description>Office: Senator Jacky Rosen | Location: Washington, DC | Affiliation: Democratic | Senator Jacky Rosen (D-NV) seeks an Energy &amp;amp; Environment Policy Advisor to manage an active portfolio including Public Lands, Energy, Environment, Water, Natural Resources, and Tribal Affairs. The...</description>
+      <guid isPermaLink="false">senate-432</guid>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
     </item>
