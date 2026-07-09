@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 08 Jul 2026 23:08:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 15:22:18 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Counsel or Professional Staff Member - U.S. Senate</title>
@@ -271,14 +271,6 @@
       <category>House Support</category>
     </item>
     <item>
-      <title>Front Desk Clerk - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5466?c=house</link>
-      <description>Office: Office of the Clerk | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-461</guid>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
       <title>Fall 2026 - State Office Internship - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/fall-2026-state-office-internship-phoenix-arizona-0996</link>
       <description>Office: Senator Ruben Gallego | Location: Phoenix, AZ | Affiliation: Democratic | The Office of U.S. Senator Ruben Gallego is now accepting applications for internship opportunities in both our Phoenix and Tucson offices for the upcoming 2026 Fall term. Interns will be expected to...</description>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">senate-432</guid>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Communications Internships - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/communications-internships-washington-district-of-columbia-0975</link>
+      <description>Office: Senator Gary C. Peters | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Gary C. Peters is currently seeking a paid, full-time Press Intern and a paid, full-time Digital Intern for Fall 2026 . Responsibilities for the Press Intern include media monito...</description>
+      <guid isPermaLink="false">senate-428</guid>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
     </item>
   </channel>
 </rss>
