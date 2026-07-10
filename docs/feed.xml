@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Thu, 09 Jul 2026 23:12:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 14:40:09 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Counsel or Professional Staff Member - U.S. Senate</title>
@@ -199,22 +199,6 @@
       <category>Senate Support</category>
     </item>
     <item>
-      <title>Physical Labor Technician #485 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/physical-labor-technician-485-washington-district-of-columbia-1007</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | This position requires a highly-motivated and team-oriented individual to execute special event setups, office moves, specialized cleaning, and deliveries of supplies and historical furnishings in the...</description>
-      <guid isPermaLink="false">senate-471</guid>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
-    </item>
-    <item>
-      <title>HR Business Partner I #5460 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/hr-business-partner-i-5460-washington-district-of-columbia-1006</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Sergeant at Arms (SAA) is seeking a detail-oriented, proactive Human Resources Business Partner I (HRBP I) to support the Talent Acquisition team. The HRBP I position collaborates effective...</description>
-      <guid isPermaLink="false">senate-470</guid>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
-    </item>
-    <item>
       <title>Legislative Assistant - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/legislative-assistant-washington-district-of-columbia-1005</link>
       <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | A northeastern Democratic Senator and Member of the Senate Finance Committee is seeking an experienced Legislative Assistant to lead their tax, financial services, housing, small business, and postal...</description>
@@ -263,14 +247,6 @@
       <category>Administrative</category>
     </item>
     <item>
-      <title>Chamber Operations Manager - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5487?c=house</link>
-      <description>Office: House Support Offices | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-463</guid>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
       <title>Fall 2026 - State Office Internship - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/fall-2026-state-office-internship-phoenix-arizona-0996</link>
       <description>Office: Senator Ruben Gallego | Location: Phoenix, AZ | Affiliation: Democratic | The Office of U.S. Senator Ruben Gallego is now accepting applications for internship opportunities in both our Phoenix and Tucson offices for the upcoming 2026 Fall term. Interns will be expected to...</description>
@@ -309,14 +285,6 @@
       <guid isPermaLink="false">house-456</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
-    </item>
-    <item>
-      <title>Intern/Fellow - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/intern-fellow-washington-district-of-columbia-0993</link>
-      <description>Office: Congressional Commissions | Location: Washington, DC | Affiliation: Nonpartisan | The U.S.-China Economic and Security Review Commission is hiring an Intern/Fellow for the Fall term, with flexible start and end dates between August and December. ﻿The Commission's internship/fellows...</description>
-      <guid isPermaLink="false">senate-455</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
     </item>
     <item>
       <title>Constituent Advocate - Metro Denver and North Metro, Colorado - U.S. Senate</title>
@@ -405,6 +373,38 @@
       <guid isPermaLink="false">senate-428</guid>
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>DC Legislative Internship - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/dc-legislative-internship-washington-district-of-columbia-0974</link>
+      <description>Office: Senator Gary C. Peters | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Gary C. Peters is currently seeking paid legislative interns for the Fall 2026 class. Legislative interns in the Washington, D.C. office will attend briefings and hearings, draft...</description>
+      <guid isPermaLink="false">senate-427</guid>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Chief Counsel - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/chief-counsel-washington-district-of-columbia-0971</link>
+      <description>Office: Senator John Kennedy | Location: Washington, DC | Affiliation: Republican | Senator John Kennedy seeks an experienced chief counsel for his Washington, D.C. office. The chief counsel will manage the Senator’s legislative portfolio for the Senate Committee on the Judiciary. Pr...</description>
+      <guid isPermaLink="false">senate-424</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4458?c=house</link>
+      <description>Office: House Support Offices | Location: Bronx, NY</description>
+      <guid isPermaLink="false">house-419</guid>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Fall 2026 HSGAC Law Clerks, Interns - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/fall-2026-hsgac-law-clerks-interns-washington-district-of-columbia-0965</link>
+      <description>Office: Homeland Security and Governmental Affairs - Democrats | Location: Washington, DC | Affiliation: Democratic | The Senate Committee on Homeland Security and Governmental Affairs, Office of Ranking Member Senator Gary Peters, is accepting applications for its Fall 2026 Law Clerk, Press Intern and Graduate/Under...</description>
+      <guid isPermaLink="false">senate-416</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
   </channel>
 </rss>
