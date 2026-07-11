@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sat, 11 Jul 2026 13:39:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 22:49:27 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Counsel or Professional Staff Member - U.S. Senate</title>
@@ -197,14 +197,6 @@
       <guid isPermaLink="false">senate-464</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
-    </item>
-    <item>
-      <title>Fall 2026 - State Office Internship - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/fall-2026-state-office-internship-phoenix-arizona-0996</link>
-      <description>Office: Senator Ruben Gallego | Location: Phoenix, AZ | Affiliation: Democratic | The Office of U.S. Senator Ruben Gallego is now accepting applications for internship opportunities in both our Phoenix and Tucson offices for the upcoming 2026 Fall term. Interns will be expected to...</description>
-      <guid isPermaLink="false">senate-460</guid>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Constituent Services</category>
     </item>
     <item>
       <title>Fall 2026 Legislative Internship - U.S. Senate</title>
@@ -404,6 +396,14 @@
       <description>Office: Foreign Relations - Republicans | Location: Washington, DC | Affiliation: Republican | Counsel Committee: U.S. Senate Committee on Foreign Relations -- Republicans Location: Washington, DC Position Type: Full-Time Salary: Commensurate with experience Position Summary The U.S. Senate Com...</description>
       <guid isPermaLink="false">senate-497</guid>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Fall 2026 Finance Committee Tax Intern/Law Clerk - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/fall-2026-finance-committee-tax-intern-law-clerk-washington-district-of-columbia-1025</link>
+      <description>Office: Finance - Democrats | Location: Washington, DC | Affiliation: Democratic | The Senate Committee on Finance Minority office (Ranking Member Wyden) is seeking a full-time intern, fellow, or law clerk to assist the Committee’s tax team for the fall of 2026. Interns, fellows, an...</description>
+      <guid isPermaLink="false">senate-496</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
     </item>
   </channel>
