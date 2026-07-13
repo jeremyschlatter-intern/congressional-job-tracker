@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Mon, 13 Jul 2026 14:47:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 22:56:13 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Counsel or Professional Staff Member - U.S. Senate</title>
@@ -231,14 +231,6 @@
       <category>House Support</category>
     </item>
     <item>
-      <title>Constituent Advocate - Metro Denver and North Metro, Colorado - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/constituent-advocate-metro-denver-and-north-metro-colorado-denver-colorado-0991</link>
-      <description>Office: Senator John W. Hickenlooper | Location: Denver, CO | Affiliation: Democratic | Senator John Hickenlooper – a former geologist turned brewpub owner turned elected official – seeks a full-time Constituent Advocate - based in the Front Range Urban Corridor, (Denver, Thornton, Fort...</description>
-      <guid isPermaLink="false">senate-451</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Constituent Services</category>
-    </item>
-    <item>
       <title>Communications Director - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/communications-director-washington-district-of-columbia-0990</link>
       <description>Office: Senator Christopher Murphy | Location: Washington, DC | Affiliation: Democratic | Senator Chris Murphy seeks an experienced, strategic, and high-energy Communications Director (CD) to lead a forward-looking, aggressive, and digital-forward press operation. Serving as a key member o...</description>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">senate-496</guid>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Videographer/Video Editor - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/videographer-video-editor-washington-district-of-columbia-1024</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | The Senate Democratic Media Center (SDMC), seeks a Videographer/Video Editor to join the Video Production Team. The position will be responsible for supporting the Video Production Team in all facets...</description>
+      <guid isPermaLink="false">senate-495</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
     </item>
   </channel>
 </rss>
