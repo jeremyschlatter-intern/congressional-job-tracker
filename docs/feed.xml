@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Tue, 14 Jul 2026 13:57:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 22:57:11 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Counsel or Professional Staff Member - U.S. Senate</title>
@@ -187,14 +187,6 @@
       <link>https://careers.employment.senate.gov/job/fall-2026-legislative-internship-washington-district-of-columbia-0995</link>
       <description>Office: Senator Kirsten E. Gillibrand | Location: Washington, DC | Affiliation: Democratic | U.S. Senator Kirsten E. Gillibrand (D-NY) is currently accepting applications for her 14-week legislative internship program for the upcoming fall semester in the Washington, DC office. Responsibiliti...</description>
       <guid isPermaLink="false">senate-459</guid>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
-    </item>
-    <item>
-      <title>Staff Assistant - Washington, DC - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-dc-washington-district-of-columbia-0994</link>
-      <description>Office: Senator Bernard Sanders | Location: Washington, DC | U.S. Senator Bernie Sanders is looking for an engaging, high energy, detail-oriented individual with an interest in public policy to become a Staff Assistant in his Washington, DC office. Primary resp...</description>
-      <guid isPermaLink="false">senate-458</guid>
       <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
     </item>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">senate-503</guid>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Constituent Advocate - Vienna, VA - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/constituent-advocate-vienna-va-vienna-virginia-1029</link>
+      <description>Office: Senator Mark R. Warner | Location: Vienna, VA | Affiliation: Democratic | The office of Senator Mark R. Warner is looking to hire a Constituent Advocate in the Senator’s Vienna, VA office. The Constituent Advocate will be responsible for: general administrative assignments,...</description>
+      <guid isPermaLink="false">senate-502</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
     </item>
   </channel>
 </rss>
