@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Mon, 13 Jul 2026 22:56:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 13:57:25 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Counsel or Professional Staff Member - U.S. Senate</title>
@@ -149,22 +149,6 @@
       <guid isPermaLink="false">house-478</guid>
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
-    </item>
-    <item>
-      <title>Director, Executive Office Operations - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/director-executive-office-operations-washington-district-of-columbia-1014</link>
-      <description>Office: Secretary of the Senate | Location: Washington, DC | Affiliation: Nonpartisan | NATURE OF WORK This is administrative work providing executive support services to the Office of the Secretary of the Senate. Work involves performing a variety of administrative duties including sens...</description>
-      <guid isPermaLink="false">senate-477</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
-    </item>
-    <item>
-      <title>Principal IAM Specialist #1001 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/principal-iam-specialist-1001-washington-district-of-columbia-1012</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | Join our dedicated team in the Identity Access Management department at the Senate Sergeant at Arms and play a pivotal role in developing complex IAM solutions for the Senate community. The Principal...</description>
-      <guid isPermaLink="false">senate-476</guid>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
     </item>
     <item>
       <title>Digital Director - U.S. Senate</title>
@@ -327,14 +311,6 @@
       <category>House Support</category>
     </item>
     <item>
-      <title>Fall 2026 HSGAC Law Clerks, Interns - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/fall-2026-hsgac-law-clerks-interns-washington-district-of-columbia-0965</link>
-      <description>Office: Homeland Security and Governmental Affairs - Democrats | Location: Washington, DC | Affiliation: Democratic | The Senate Committee on Homeland Security and Governmental Affairs, Office of Ranking Member Senator Gary Peters, is accepting applications for its Fall 2026 Law Clerk, Press Intern and Graduate/Under...</description>
-      <guid isPermaLink="false">senate-416</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>Stars of Valor Fellow – Senator Martin Heinrich - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/stars-of-valor-fellow-senator-martin-heinrich-albuquerque-new-mexico-0932</link>
       <description>Office: Stars of Valor Fellowships Program | Location: Albuquerque, NM | Affiliation: Nonpartisan | The Senate has established the Stars of Valor Fellowships Program for wounded and disabled veterans; family members of Armed Forces servicemembers who die in the line of duty or veterans who die of se...</description>
@@ -404,6 +380,30 @@
       <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | The Senate Democratic Media Center (SDMC), seeks a Videographer/Video Editor to join the Video Production Team. The position will be responsible for supporting the Video Production Team in all facets...</description>
       <guid isPermaLink="false">senate-495</guid>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Staff Assistant - Washington, DC - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-dc-washington-district-of-columbia-1023</link>
+      <description>Office: Senator Catherine Cortez Masto | Location: Washington, DC | Affiliation: Democratic | U.S. Senator Catherine Cortez Masto is seeking an engaging, enthusiastic, detail-oriented staff assistant for her Washington, DC office. The position’s primary responsibilities include greeting visito...</description>
+      <guid isPermaLink="false">senate-493</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
+    </item>
+    <item>
+      <title>Congressional Affairs and Communications Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/congressional-affairs-and-communications-assistant-washington-district-of-columbia-1022</link>
+      <description>Office: Congressional Commissions | Location: Washington, DC | Affiliation: Nonpartisan | The U.S.-China Economic and Security Review Commission is hiring a Congressional Affairs and Communications Assistant . ﻿ ﻿﻿ ﻿This is a great opportunity for a dynamic, creative, and ambitious person...</description>
+      <guid isPermaLink="false">senate-492</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Fall 2026 Press Intern - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/fall-2026-press-intern-washington-district-of-columbia-1030</link>
+      <description>Office: Senator Elizabeth Warren | Location: Washington, DC | Affiliation: Democratic | The Senate Banking Committee Minority, under the leadership of Ranking Member Elizabeth Warren, is currently seeking a full-time, in-person Communications Intern for Fall 2026. The ideal start date is...</description>
+      <guid isPermaLink="false">senate-503</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
     </item>
   </channel>
