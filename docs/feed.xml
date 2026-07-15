@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Tue, 14 Jul 2026 22:57:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 13:53:46 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Counsel or Professional Staff Member - U.S. Senate</title>
@@ -109,14 +109,6 @@
       <guid isPermaLink="false">senate-407</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>SCC Summer Fellowship - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/scc-summer-fellowship-washington-district-of-columbia-0953</link>
-      <description>Office: Senator Cory A. Booker | Location: Washington, DC | Affiliation: Democratic | The Senate Democrats’ Strategic Communications Committee (SCC), Chaired by Senator Cory Booker (D-NJ), is launching a summer fellowship program that will help prepare a new generation of talent for jo...</description>
-      <guid isPermaLink="false">senate-396</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
     </item>
     <item>
       <title>Fall Press 2026 Internship - U.S. Senate</title>
@@ -287,14 +279,6 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Chief Counsel - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/chief-counsel-washington-district-of-columbia-0971</link>
-      <description>Office: Senator John Kennedy | Location: Washington, DC | Affiliation: Republican | Senator John Kennedy seeks an experienced chief counsel for his Washington, D.C. office. The chief counsel will manage the Senator’s legislative portfolio for the Senate Committee on the Judiciary. Pr...</description>
-      <guid isPermaLink="false">senate-424</guid>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4458?c=house</link>
       <description>Office: House Support Offices | Location: Bronx, NY</description>
@@ -391,20 +375,36 @@
       <category>Communications</category>
     </item>
     <item>
+      <title>Max Kampelman Fellowship Program - Fall 2026 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/max-kampelman-fellowship-program-fall-2026-washington-district-of-columbia-1033</link>
+      <description>Office: Commission on Security and Cooperation in Europe (U.S. Helsinki Commission) | Location: Washington, DC | Affiliation: Nonpartisan | The Commission on Security and Cooperation in Europe, also known as the U.S. Helsinki Commission, seeks candidates for its Max Kampelman fellowship program for fall 2026. The Commission is accepting a...</description>
+      <guid isPermaLink="false">senate-506</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Senior Policy Analyst, Economics and Trade - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/senior-policy-analyst-economics-and-trade-washington-district-of-columbia-1032</link>
+      <description>Office: U.S.-China Economic and Security Review Commission | Location: Washington, DC | Affiliation: Nonpartisan | The U.S.-China Economic and Security Review Commission is hiring a Senior Policy Analyst to join the Economics and Trade team. We are looking for an individual with superior research, writing, and com...</description>
+      <guid isPermaLink="false">senate-505</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Director, Economics and Trade - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/director-economics-and-trade-washington-district-of-columbia-1031</link>
+      <description>Office: U.S.-China Economic and Security Review Commission | Location: Washington, DC | Affiliation: Nonpartisan | The U.S.-China Economic and Security Review Commission is hiring a Director to lead the Economics and Trade team. We are seeking an experienced leader with a record developing high-performing teams; s...</description>
+      <guid isPermaLink="false">senate-504</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
       <title>Fall 2026 Press Intern - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/fall-2026-press-intern-washington-district-of-columbia-1030</link>
       <description>Office: Senator Elizabeth Warren | Location: Washington, DC | Affiliation: Democratic | The Senate Banking Committee Minority, under the leadership of Ranking Member Elizabeth Warren, is currently seeking a full-time, in-person Communications Intern for Fall 2026. The ideal start date is...</description>
       <guid isPermaLink="false">senate-503</guid>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
-    </item>
-    <item>
-      <title>Constituent Advocate - Vienna, VA - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/constituent-advocate-vienna-va-vienna-virginia-1029</link>
-      <description>Office: Senator Mark R. Warner | Location: Vienna, VA | Affiliation: Democratic | The office of Senator Mark R. Warner is looking to hire a Constituent Advocate in the Senator’s Vienna, VA office. The Constituent Advocate will be responsible for: general administrative assignments,...</description>
-      <guid isPermaLink="false">senate-502</guid>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Constituent Services</category>
     </item>
   </channel>
 </rss>
