@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 15 Jul 2026 22:58:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 14:06:05 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Counsel or Professional Staff Member - U.S. Senate</title>
@@ -53,14 +53,6 @@
       <guid isPermaLink="false">house-352</guid>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
-    </item>
-    <item>
-      <title>2026 Fall Law Clerk - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/2026-fall-law-clerk-washington-district-of-columbia-0910</link>
-      <description>Office: Senator Peter Welch | Location: Washington, DC | Affiliation: Democratic | Senator Peter Welch (D-VT), member of the Senate Judiciary Committee, seeks one full-time law clerk for the Fall of 2026. The law clerk will serve on the policy team that manages the Senator’s Judicia...</description>
-      <guid isPermaLink="false">senate-347</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
     </item>
     <item>
       <title>Veteran and Military Liaison - U.S. Senate</title>
@@ -223,36 +215,12 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Fall 2026 Pennsylvania Internship - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/fall-2026-pennsylvania-internship-harrisburg-pittsburgh-philadelphia-pennsylvania-0984</link>
-      <description>Office: Senator John Fetterman | Location: Harrisburg,Pittsburgh,Philadelphia, PA | Affiliation: Democratic | The Office of United States Senator John Fetterman seeks part-time interns for the fall semester in its Philadelphia, Harrisburg, and Pittsburgh offices. Internships with the Office of United States S...</description>
-      <guid isPermaLink="false">senate-438</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Constituent Services</category>
-    </item>
-    <item>
       <title>Creative Director and New Media Strategist - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/creative-director-and-new-media-strategist-washington-district-of-columbia-0983</link>
       <description>Office: Senator Kirsten E. Gillibrand | Location: Washington, DC | Affiliation: Democratic | U.S. Senator Kirsten Gillibrand seeks a Creative Director and New Media Strategist to join her communications team. This role would work with the Communications Director to develop digital first strat...</description>
       <guid isPermaLink="false">senate-437</guid>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
-    </item>
-    <item>
-      <title>Fall 2026 Washington, D.C. Internship - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/fall-2026-washington-d-c-internship-washington-district-of-columbia-0980</link>
-      <description>Office: Senator John Fetterman | Location: Washington, DC | Affiliation: Democratic | The Office of United States Senator John Fetterman seeks full-time fall interns for the fall semester. Internships with the Office of United States Senator John Fetterman offers students a deeper unde...</description>
-      <guid isPermaLink="false">senate-434</guid>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Financial Analyst - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5463?c=house</link>
-      <description>Office: Office of the Clerk | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-433</guid>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
     </item>
     <item>
       <title>Energy &amp; Environment Legislative Assistant / Policy Advisor - U.S. Senate</title>
@@ -285,6 +253,14 @@
       <guid isPermaLink="false">house-419</guid>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
+    </item>
+    <item>
+      <title>Fall 2026 Regional Internship - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/fall-2026-regional-internship-new-york-new-york-0936</link>
+      <description>Office: Senator Kirsten E. Gillibrand | Location: New York, NY | Affiliation: Democratic | U.S. Senator Kirsten E. Gillibrand (D-NY) is currently accepting applications for her fall state office internship program for the upcoming semester. Responsibilities will include, but not be limited...</description>
+      <guid isPermaLink="false">senate-378</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
     </item>
     <item>
       <title>Stars of Valor Fellow – Senator Martin Heinrich - U.S. Senate</title>
@@ -375,6 +351,22 @@
       <category>Communications</category>
     </item>
     <item>
+      <title>Fall 2026 Intern - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/fall-2026-intern-austin-texas-1039</link>
+      <description>Office: Senator John Cornyn | Location: Austin, TX | Affiliation: Republican | U.S. Senator John Cornyn is currently accepting applications for an in-person internship for the fall in his Austin office, which oversees Central Texas community outreach. An intern could be expected...</description>
+      <guid isPermaLink="false">senate-513</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
+    </item>
+    <item>
+      <title>Videographer &amp; Long Form Editor - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/videographer-long-form-editor-washington-district-of-columbia-1038</link>
+      <description>Office: Senator Cory A. Booker | Location: Washington, DC | Affiliation: Democratic | The Senate Democratic Strategic Communications Committee (SCC), chaired by Senator Cory A. Booker (D-New Jersey), seeks a Videographer and Long Form Editor to join the committee’s creative department....</description>
+      <guid isPermaLink="false">senate-512</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
       <title>Compliance Manager - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5526?c=house</link>
       <description>Office: Office of the Clerk | Location: Washington, DC</description>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">senate-508</guid>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>DC Staff Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/dc-staff-assistant-washington-district-of-columbia-1034</link>
+      <description>Office: Senator Mark Kelly | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Mark Kelly seeks a Staff Assistant for the Washington, D.C. office. This position reports to the Director of Administration, People, and Culture. Primary responsibilities include...</description>
+      <guid isPermaLink="false">senate-507</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
     </item>
   </channel>
 </rss>
