@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Fri, 17 Jul 2026 22:51:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 13:26:51 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Counsel or Professional Staff Member - U.S. Senate</title>
@@ -207,14 +207,6 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Creative Director and New Media Strategist - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/creative-director-and-new-media-strategist-washington-district-of-columbia-0983</link>
-      <description>Office: Senator Kirsten E. Gillibrand | Location: Washington, DC | Affiliation: Democratic | U.S. Senator Kirsten Gillibrand seeks a Creative Director and New Media Strategist to join her communications team. This role would work with the Communications Director to develop digital first strat...</description>
-      <guid isPermaLink="false">senate-437</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
       <title>Energy &amp; Environment Legislative Assistant / Policy Advisor - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/energy-environment-legislative-assistant-policy-advisor-washington-district-of-columbia-0979</link>
       <description>Office: Senator Jacky Rosen | Location: Washington, DC | Affiliation: Democratic | Senator Jacky Rosen (D-NV) seeks an Energy &amp;amp; Environment Legislative Assistant / Policy Advisor to manage an active portfolio including Public Lands, Energy, Environment, Water, Natural Resources,...</description>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">senate-510</guid>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Press Secretary - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/press-secretary-washington-district-of-columbia-1036</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | Northeast Democratic senator who holds Committee leadership positions seeks a Press Secretary to join our office’s communications team. Ideal candidates will have at least 4 years of work experience i...</description>
+      <guid isPermaLink="false">senate-509</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
     </item>
   </channel>
 </rss>
