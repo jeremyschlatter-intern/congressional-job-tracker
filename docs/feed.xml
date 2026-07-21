@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Mon, 20 Jul 2026 23:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 14:05:58 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Counsel or Professional Staff Member - U.S. Senate</title>
@@ -199,30 +199,6 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Energy &amp; Environment Legislative Assistant / Policy Advisor - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/energy-environment-legislative-assistant-policy-advisor-washington-district-of-columbia-0979</link>
-      <description>Office: Senator Jacky Rosen | Location: Washington, DC | Affiliation: Democratic | Senator Jacky Rosen (D-NV) seeks an Energy &amp;amp; Environment Legislative Assistant / Policy Advisor to manage an active portfolio including Public Lands, Energy, Environment, Water, Natural Resources,...</description>
-      <guid isPermaLink="false">senate-432</guid>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Communications Internships - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/communications-internships-washington-district-of-columbia-0975</link>
-      <description>Office: Senator Gary C. Peters | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Gary C. Peters is currently seeking a paid, full-time Press Intern and a paid, full-time Digital Intern for Fall 2026 . Responsibilities for the Press Intern include media monito...</description>
-      <guid isPermaLink="false">senate-428</guid>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
-      <title>DC Legislative Internship - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/dc-legislative-internship-washington-district-of-columbia-0974</link>
-      <description>Office: Senator Gary C. Peters | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Gary C. Peters is currently seeking paid legislative interns for the Fall 2026 class. Legislative interns in the Washington, D.C. office will attend briefings and hearings, draft...</description>
-      <guid isPermaLink="false">senate-427</guid>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4458?c=house</link>
       <description>Office: House Support Offices | Location: Bronx, NY</description>
@@ -308,6 +284,14 @@
       <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | The Senate Democratic Media Center (SDMC), seeks a Videographer/Video Editor to join the Video Production Team. The position will be responsible for supporting the Video Production Team in all facets...</description>
       <guid isPermaLink="false">senate-495</guid>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Deputy Press Secretary/Communications Staff Member - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/deputy-press-secretary-communications-staff-member-washington-district-of-columbia-0122</link>
+      <description>Office: Senator Brian Schatz | Location: Washington, DC | Affiliation: Democratic | U.S. Senator Brian Schatz of Hawai‘i is hiring a shared communications staff member for his personal office and the Senate Committee on Indian Affairs, Office of the Vice Chairman. This position will...</description>
+      <guid isPermaLink="false">senate-526</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
     </item>
     <item>
@@ -405,6 +389,22 @@
       <guid isPermaLink="false">senate-515</guid>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Regional Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/regional-assistant-boston-massachusetts-1040</link>
+      <description>Office: Confidential | Location: Boston, MA | Affiliation: Democratic | Massachusetts Democratic Senator seeks a Regional Assistant with immediate availability for their Boston office. This is an entry-level role and primary responsibilities include responding to constitu...</description>
+      <guid isPermaLink="false">senate-514</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
+    </item>
+    <item>
+      <title>Fall 2026 Intern - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/fall-2026-intern-austin-texas-1039</link>
+      <description>Office: Senator John Cornyn | Location: Austin, TX | Affiliation: Republican | U.S. Senator John Cornyn is currently accepting applications for an in-person internship for the fall in his Austin office, which oversees Central Texas community outreach. An intern could be expected...</description>
+      <guid isPermaLink="false">senate-513</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
     </item>
   </channel>
 </rss>
