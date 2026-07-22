@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 22 Jul 2026 14:08:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 23:04:21 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Counsel or Professional Staff Member - U.S. Senate</title>
@@ -151,14 +151,6 @@
       <category>Communications</category>
     </item>
     <item>
-      <title>Press Secretary - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/press-secretary-washington-district-of-columbia-1002</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Southern Republican Senator seeks a detail-oriented writer and communications professional to join an active office as Press Secretary. The ideal applicant is first and foremost a strong writer but mu...</description>
-      <guid isPermaLink="false">senate-467</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
       <title>Fall 2026 Legislative Internship - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/fall-2026-legislative-internship-washington-district-of-columbia-0995</link>
       <description>Office: Senator Kirsten E. Gillibrand | Location: Washington, DC | Affiliation: Democratic | U.S. Senator Kirsten E. Gillibrand (D-NY) is currently accepting applications for her 14-week legislative internship program for the upcoming fall semester in the Washington, DC office. Responsibiliti...</description>
@@ -279,6 +271,30 @@
       <category>Communications</category>
     </item>
     <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5541?c=house</link>
+      <description>Office: House Support Offices | Location: Long Beach, CA</description>
+      <guid isPermaLink="false">house-532</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5543?c=house</link>
+      <description>Office: House Support Offices | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-531</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Staff Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-1051</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Conservative Republican Senator’s DC Office seeks organized, dependable and professional Staff Assistant . Responsibilities will include answering phones, greeting visitors, managing mail and general...</description>
+      <guid isPermaLink="false">senate-530</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
+    </item>
+    <item>
       <title>Network Communications Specialist - Wide Area Networks - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5538?c=house</link>
       <description>Office: Office of the Clerk | Location: Washington, DC</description>
@@ -387,22 +403,6 @@
       <link>https://careers.employment.senate.gov/job/constituent-advocate-tucson-az-tucson-arizona-1042</link>
       <description>Office: Senator Ruben Gallego | Location: Tucson, AZ | Affiliation: Democratic | The Office of U.S. Senator Ruben Gallego seeks a dedicated, detail-oriented, and compassionate Caseworker to join the Tucson regional office. This position serves as a primary point of contact for con...</description>
       <guid isPermaLink="false">senate-516</guid>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Constituent Services</category>
-    </item>
-    <item>
-      <title>Fall 2026 Communications/Digital Internship - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/fall-2026-communications-digital-internship-washington-district-of-columbia-1041</link>
-      <description>Office: Senator John W. Hickenlooper | Location: Washington, DC | Affiliation: Democratic | Our Communications/Digital Intern will join an active comms shop with a heavy emphasis on digital presence and strategy in our Washington D.C. office. Responsibilities include editing and filming vide...</description>
-      <guid isPermaLink="false">senate-515</guid>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
-      <title>Regional Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/regional-assistant-boston-massachusetts-1040</link>
-      <description>Office: Confidential | Location: Boston, MA | Affiliation: Democratic | Massachusetts Democratic Senator seeks a Regional Assistant with immediate availability for their Boston office. This is an entry-level role and primary responsibilities include responding to constitu...</description>
-      <guid isPermaLink="false">senate-514</guid>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
       <category>Constituent Services</category>
     </item>
