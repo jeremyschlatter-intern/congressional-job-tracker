@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Tue, 21 Jul 2026 22:57:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 14:08:19 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Counsel or Professional Staff Member - U.S. Senate</title>
@@ -191,14 +191,6 @@
       <category>Communications</category>
     </item>
     <item>
-      <title>Special Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/special-assistant-washington-district-of-columbia-0988</link>
-      <description>Office: Senator Chris Van Hollen | Location: Washington, DC | Affiliation: Democratic | Senator Chris Van Hollen is seeking a highly organized, detail-oriented, and dependable Special Assistant. This trusted Washington, DC-based position provides direct support to the Senator in managing...</description>
-      <guid isPermaLink="false">senate-442</guid>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
-    </item>
-    <item>
       <title>Legislative Assistant (Housing and Transportation) - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/legislative-assistant-housing-and-transportation-washington-district-of-columbia-0942</link>
       <description>Office: Senator Brian Schatz | Location: Washington, DC | Affiliation: Democratic | Senator Brian Schatz is hiring a legislative staffer to advise the senator on housing and transportation policy. The staffer will support the senator as a member of the Commerce Committee and Appropri...</description>
@@ -261,14 +253,6 @@
       <guid isPermaLink="false">senate-500</guid>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
       <category>Constituent Services</category>
-    </item>
-    <item>
-      <title>HR Business Partner I - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/hr-business-partner-i-washington-district-of-columbia-1027</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Sergeant at Arms (SAA) is seeking a detail‑oriented, proactive Human Resources Business Partner I (HRBP I) to support the Personnel Data Management vertical. The HRBP I collaborates effecti...</description>
-      <guid isPermaLink="false">senate-499</guid>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
     </item>
     <item>
       <title>Counsel - U.S. Senate</title>
@@ -383,14 +367,6 @@
       <category>House Support</category>
     </item>
     <item>
-      <title>Congressional Affairs and Communications Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/congressional-affairs-and-communications-assistant-washington-district-of-columbia-1022</link>
-      <description>Office: Congressional Commissions | Location: Washington, DC | Affiliation: Nonpartisan | The U.S.-China Economic and Security Review Commission is hiring a Congressional Affairs and Communications Assistant . ﻿ ﻿﻿ ﻿This is a great opportunity for a dynamic, creative, and ambitious person...</description>
-      <guid isPermaLink="false">senate-492</guid>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
       <title>Staff Assistant - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-1044</link>
       <description>Office: Senator Chris Van Hollen | Location: Washington, DC | Affiliation: Democratic | Senator Chris Van Hollen seeks a dependable, highly motivated, and energetic Staff Assistant for the Washington, D.C. office. Primary responsibilities include answering phones, greeting constituents a...</description>
@@ -405,6 +381,30 @@
       <guid isPermaLink="false">senate-517</guid>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Constituent Advocate - Tucson, AZ - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/constituent-advocate-tucson-az-tucson-arizona-1042</link>
+      <description>Office: Senator Ruben Gallego | Location: Tucson, AZ | Affiliation: Democratic | The Office of U.S. Senator Ruben Gallego seeks a dedicated, detail-oriented, and compassionate Caseworker to join the Tucson regional office. This position serves as a primary point of contact for con...</description>
+      <guid isPermaLink="false">senate-516</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
+    </item>
+    <item>
+      <title>Fall 2026 Communications/Digital Internship - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/fall-2026-communications-digital-internship-washington-district-of-columbia-1041</link>
+      <description>Office: Senator John W. Hickenlooper | Location: Washington, DC | Affiliation: Democratic | Our Communications/Digital Intern will join an active comms shop with a heavy emphasis on digital presence and strategy in our Washington D.C. office. Responsibilities include editing and filming vide...</description>
+      <guid isPermaLink="false">senate-515</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Regional Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/regional-assistant-boston-massachusetts-1040</link>
+      <description>Office: Confidential | Location: Boston, MA | Affiliation: Democratic | Massachusetts Democratic Senator seeks a Regional Assistant with immediate availability for their Boston office. This is an entry-level role and primary responsibilities include responding to constitu...</description>
+      <guid isPermaLink="false">senate-514</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
     </item>
   </channel>
 </rss>
