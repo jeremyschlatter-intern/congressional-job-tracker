@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Fri, 24 Jul 2026 13:56:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 23:01:30 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Counsel or Professional Staff Member - U.S. Senate</title>
@@ -191,6 +191,14 @@
       <category>House Support</category>
     </item>
     <item>
+      <title>Fall 2026 Regional Internship - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/fall-2026-regional-internship-new-york-new-york-0936</link>
+      <description>Office: Senator Kirsten E. Gillibrand | Location: New York, NY | Affiliation: Democratic | U.S. Senator Kirsten E. Gillibrand (D-NY) is currently accepting applications for her fall state office internship program for the upcoming semester. Responsibilities will include, but not be limited...</description>
+      <guid isPermaLink="false">senate-378</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
+    </item>
+    <item>
       <title>Stars of Valor Fellow – Senator Martin Heinrich - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/stars-of-valor-fellow-senator-martin-heinrich-albuquerque-new-mexico-0932</link>
       <description>Office: Stars of Valor Fellowships Program | Location: Albuquerque, NM | Affiliation: Nonpartisan | The Senate has established the Stars of Valor Fellowships Program for wounded and disabled veterans; family members of Armed Forces servicemembers who die in the line of duty or veterans who die of se...</description>
@@ -253,6 +261,30 @@
       <guid isPermaLink="false">senate-495</guid>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Deputy Scheduler/Assistant to the Chief of Staff - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/deputy-scheduler-assistant-to-the-chief-of-staff-washington-alabama-1069</link>
+      <description>Office: Senator David McCormick | Location: Washington, AL | Affiliation: Republican | Senator McCormick is seeking a Deputy Scheduler / Assistant to the Chief of Staff to join the Washington, D.C. team. The position is for someone that is proactive, detail-oriented, and highly organize...</description>
+      <guid isPermaLink="false">senate-550</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
+    </item>
+    <item>
+      <title>Senior Systems Engineer #243 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/senior-systems-engineer-243-washington-district-of-columbia-1068</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Sergeant at Arms is seeking a Senior Systems Engineer #243. The Senior Systems Engineer needs to have wide experience supporting and maintaining websites and web applications, have working knowled...</description>
+      <guid isPermaLink="false">senate-549</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
+    </item>
+    <item>
+      <title>Program Management Specialist #442 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/program-management-specialist-442-washington-district-of-columbia-1067</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Program Management Specialist is a project lead for projects across Support Operations and the Senate community. The Program Management Specialist has a portfolio of a variety of projects includin...</description>
+      <guid isPermaLink="false">senate-548</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
     </item>
     <item>
       <title>Legislative Correspondent - U.S. Senate</title>
@@ -373,38 +405,6 @@
       <guid isPermaLink="false">senate-533</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
       <category>Senate Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5541?c=house</link>
-      <description>Office: House Support Offices | Location: Long Beach, CA</description>
-      <guid isPermaLink="false">house-532</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5543?c=house</link>
-      <description>Office: House Support Offices | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-531</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Staff Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-1051</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Conservative Republican Senator’s DC Office seeks organized, dependable and professional Staff Assistant . Responsibilities will include answering phones, greeting visitors, managing mail and general...</description>
-      <guid isPermaLink="false">senate-530</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
-    </item>
-    <item>
-      <title>Network Communications Specialist - Wide Area Networks - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5538?c=house</link>
-      <description>Office: Office of the Clerk | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-529</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
     </item>
   </channel>
 </rss>
