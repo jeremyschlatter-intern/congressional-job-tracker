@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Fri, 24 Jul 2026 23:01:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 13:47:12 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Counsel or Professional Staff Member - U.S. Senate</title>
@@ -391,20 +391,20 @@
       <category>Senate Support</category>
     </item>
     <item>
-      <title>Furnishings Artisan #712 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/furnishings-artisan-712-washington-district-of-columbia-1053</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | This is highly skilled work crafting, repairing, and installing custom cabinetry and furniture for the Senate wing of the Capitol building. Work includes building and maintaining complex cabinetry and...</description>
-      <guid isPermaLink="false">senate-534</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
-    </item>
-    <item>
       <title>Printing and Reprographics Specialist #28 - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/printing-and-reprographics-specialist-28-washington-district-of-columbia-1052</link>
       <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | As a Printing and Reprographics Specialist within Printing Graphics and Direct Mail’s (PGDM) Capitol Hill Facility, you will play a crucial role in processing high priority jobs for Senators, Committe...</description>
       <guid isPermaLink="false">senate-533</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
       <category>Senate Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5541?c=house</link>
+      <description>Office: House Support Offices | Location: Long Beach, CA</description>
+      <guid isPermaLink="false">house-532</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
     </item>
   </channel>
 </rss>
