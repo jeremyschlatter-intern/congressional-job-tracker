@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Mon, 27 Jul 2026 14:47:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 23:02:07 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Counsel or Professional Staff Member - U.S. Senate</title>
@@ -239,20 +239,20 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Fall 2026 Finance Committee Tax Intern/Law Clerk - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/fall-2026-finance-committee-tax-intern-law-clerk-washington-district-of-columbia-1025</link>
-      <description>Office: Finance - Democrats | Location: Washington, DC | Affiliation: Democratic | The Senate Committee on Finance Minority office (Ranking Member Wyden) is seeking a full-time intern, fellow, or law clerk to assist the Committee’s tax team for the fall of 2026. Interns, fellows, an...</description>
-      <guid isPermaLink="false">senate-496</guid>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>Videographer/Video Editor - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/videographer-video-editor-washington-district-of-columbia-1024</link>
       <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | The Senate Democratic Media Center (SDMC), seeks a Videographer/Video Editor to join the Video Production Team. The position will be responsible for supporting the Video Production Team in all facets...</description>
       <guid isPermaLink="false">senate-495</guid>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Special Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/special-assistant-wilmington-delaware-1073</link>
+      <description>Office: Senator Christopher A. Coons | Location: Wilmington, DE | Affiliation: Democratic | Senator Chris Coons (D-Del.) seeks a highly organized, positive, and dependable individual to serve as Special Assistant in his Wilmington, Delaware office. This is a key support role with responsibil...</description>
+      <guid isPermaLink="false">senate-554</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
     </item>
     <item>
       <title>Senior Systems Engineer #243 - U.S. Senate</title>
@@ -301,14 +301,6 @@
       <guid isPermaLink="false">senate-548</guid>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
       <category>Senate Support</category>
-    </item>
-    <item>
-      <title>Legislative Correspondent - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-correspondent-washington-district-of-columbia-1066</link>
-      <description>Office: Senator James E. Risch | Location: Washington, DC | Affiliation: Republican | Senator Jim Risch is seeking a motivated and resourceful Legislative Correspondent for his Washington, D.C. office. The position will cover a broad portfolio that includes health care, immigration, de...</description>
-      <guid isPermaLink="false">senate-547</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
     </item>
     <item>
       <title>Mail Carrier #721 - U.S. Senate</title>
@@ -403,6 +395,14 @@
       <link>https://careers.employment.senate.gov/job/facilities-services-supervisor-184-washington-district-of-columbia-1054</link>
       <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | This is highly responsible supervisory work overseeing staff in the execution of special events, logistics, specialized cleaning, and labor services in support of the U.S. Senate. The incumbent ensure...</description>
       <guid isPermaLink="false">senate-535</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
+    </item>
+    <item>
+      <title>Printing and Reprographics Specialist #28 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/printing-and-reprographics-specialist-28-washington-district-of-columbia-1052</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | As a Printing and Reprographics Specialist within Printing Graphics and Direct Mail’s (PGDM) Capitol Hill Facility, you will play a crucial role in processing high priority jobs for Senators, Committe...</description>
+      <guid isPermaLink="false">senate-533</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
       <category>Senate Support</category>
     </item>
