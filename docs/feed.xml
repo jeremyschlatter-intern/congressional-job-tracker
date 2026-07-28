@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Mon, 27 Jul 2026 23:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 14:22:36 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Counsel or Professional Staff Member - U.S. Senate</title>
@@ -303,6 +303,14 @@
       <category>Senate Support</category>
     </item>
     <item>
+      <title>Legislative Correspondent - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legislative-correspondent-washington-district-of-columbia-1066</link>
+      <description>Office: Senator James E. Risch | Location: Washington, DC | Affiliation: Republican | Senator Jim Risch is seeking a motivated and resourceful Legislative Correspondent for his Washington, D.C. office. The position will cover a broad portfolio that includes health care, immigration, de...</description>
+      <guid isPermaLink="false">senate-547</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
       <title>Mail Carrier #721 - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/mail-carrier-721-washington-district-of-columbia-1065</link>
       <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | Mail Carrier responsibilities include sorting and organizing mail, preparing delivery routes, transporting and delivering mail and packages to designated locations, maintaining accurate tracking recor...</description>
@@ -387,14 +395,6 @@
       <link>https://careers.employment.senate.gov/job/network-engineer-engineer-level-wireless-166-washington-district-of-columbia-1055</link>
       <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The United States Senate Sergeant at Arms is seeking qualified candidates for a Network Engineer with strong expertise in wireless network technologies to join our team. This is a great opportunity fo...</description>
       <guid isPermaLink="false">senate-536</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
-    </item>
-    <item>
-      <title>Facilities Services Supervisor #184 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/facilities-services-supervisor-184-washington-district-of-columbia-1054</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | This is highly responsible supervisory work overseeing staff in the execution of special events, logistics, specialized cleaning, and labor services in support of the U.S. Senate. The incumbent ensure...</description>
-      <guid isPermaLink="false">senate-535</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
       <category>Senate Support</category>
     </item>
