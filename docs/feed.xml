@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Tue, 28 Jul 2026 14:22:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 22:59:34 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Counsel or Professional Staff Member - U.S. Senate</title>
@@ -247,6 +247,22 @@
       <category>Communications</category>
     </item>
     <item>
+      <title>Public Information Specialist - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5547?c=house</link>
+      <description>Office: House Support Offices | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-556</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Constituent Services Representative (Caseworker) - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/constituent-services-representative-caseworker-honolulu-hawaii-1074</link>
+      <description>Office: Senator Mazie K. Hirono | Location: Honolulu, HI | Affiliation: Democratic | The Office of U.S. Senator Mazie K. Hirono seeks a dedicated, detail-oriented, and compassionate Constituent Services Representative (Caseworker) to join the state office in Honolulu, Hawaii. This pos...</description>
+      <guid isPermaLink="false">senate-555</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
+    </item>
+    <item>
       <title>Special Assistant - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/special-assistant-wilmington-delaware-1073</link>
       <description>Office: Senator Christopher A. Coons | Location: Wilmington, DE | Affiliation: Democratic | Senator Chris Coons (D-Del.) seeks a highly organized, positive, and dependable individual to serve as Special Assistant in his Wilmington, Delaware office. This is a key support role with responsibil...</description>
@@ -387,22 +403,6 @@
       <link>https://careers.employment.senate.gov/job/senior-manager-broadcast-engineering-563-washington-district-of-columbia-1056</link>
       <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Recording Studio is seeking a new Senior Manager of Broadcast Engineering. This role is responsible for leading the Engineering team, including oversight of operations, personnel, and techn...</description>
       <guid isPermaLink="false">senate-537</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
-    </item>
-    <item>
-      <title>Network Engineer-Engineer Level (Wireless) #166 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/network-engineer-engineer-level-wireless-166-washington-district-of-columbia-1055</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The United States Senate Sergeant at Arms is seeking qualified candidates for a Network Engineer with strong expertise in wireless network technologies to join our team. This is a great opportunity fo...</description>
-      <guid isPermaLink="false">senate-536</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
-    </item>
-    <item>
-      <title>Printing and Reprographics Specialist #28 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/printing-and-reprographics-specialist-28-washington-district-of-columbia-1052</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | As a Printing and Reprographics Specialist within Printing Graphics and Direct Mail’s (PGDM) Capitol Hill Facility, you will play a crucial role in processing high priority jobs for Senators, Committe...</description>
-      <guid isPermaLink="false">senate-533</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
       <category>Senate Support</category>
     </item>
