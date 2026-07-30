@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 29 Jul 2026 22:59:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 14:16:11 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Counsel or Professional Staff Member - U.S. Senate</title>
@@ -359,14 +359,6 @@
       <category>Senate Support</category>
     </item>
     <item>
-      <title>Visual Information Specialist #5472 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/visual-information-specialist-5472-washington-district-of-columbia-1060</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The U.S. Senate Sergeant at Arms is seeking a professional, service-oriented Visual Information Specialist to support official Senate short-form video, photography, and visual multimedia storytelling...</description>
-      <guid isPermaLink="false">senate-541</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
-    </item>
-    <item>
       <title>Printing and Reprographics Specialist #28 - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/printing-and-reprographics-specialist-28-washington-district-of-columbia-1052</link>
       <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | As a Printing and Reprographics Specialist within Printing Graphics and Direct Mail’s (PGDM) Capitol Hill Facility, you will play a crucial role in processing high priority jobs for Senators, Committe...</description>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">house-529</guid>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
+    </item>
+    <item>
+      <title>Creative Director &amp; New Media Strategist - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/creative-director-new-media-strategist-washington-district-of-columbia-1050</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Republican Senator is seeking a Creative Director &amp;amp; New Media Strategist to lead their creative vision and digital strategy across Washington, D.C., and home state. The ideal candidate is a creati...</description>
+      <guid isPermaLink="false">senate-528</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
     </item>
   </channel>
 </rss>
