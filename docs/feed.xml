@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Fri, 31 Jul 2026 23:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 13:39:36 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Counsel or Professional Staff Member - U.S. Senate</title>
@@ -53,14 +53,6 @@
       <guid isPermaLink="false">senate-338</guid>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
       <category>Constituent Services</category>
-    </item>
-    <item>
-      <title>Fall 2026 Law Clerk - Office of Senator Christopher A. Coons - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/fall-2026-law-clerk-office-of-senator-christopher-a-coons-washington-district-of-columbia-0901</link>
-      <description>Office: Senator Christopher A. Coons | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Chris Coons is hiring Fall 2026 law clerks to assist the Senator’s Judiciary Committee staff. Law clerks will assist the Senator’s counsels in all aspects of the Senator’s Judici...</description>
-      <guid isPermaLink="false">senate-336</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
     </item>
     <item>
       <title>State Press Secretary - U.S. Senate</title>
@@ -403,6 +395,14 @@
       <link>https://careers.employment.senate.gov/job/broadcast-technician-graphics-161-washington-district-of-columbia-1062</link>
       <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Recording Studio (SRS) is seeking a talented Broadcast Graphic Designer to join our broadcast team. The Broadcast Graphic Designer will collaborate closely with our post-production and prod...</description>
       <guid isPermaLink="false">senate-543</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
+    </item>
+    <item>
+      <title>Deputy Director, Senate Recording Studio #399 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/deputy-director-senate-recording-studio-399-washington-district-of-columbia-1061</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Deputy Director provides leadership for video and audio production, broadcast, and media operations, ensuring the efficient delivery of services that support the Senate community. The position ove...</description>
+      <guid isPermaLink="false">senate-542</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
       <category>Senate Support</category>
     </item>
