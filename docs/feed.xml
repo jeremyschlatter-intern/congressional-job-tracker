@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 05 Aug 2026 22:59:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 14:24:53 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Counsel or Professional Staff Member - U.S. Senate</title>
@@ -215,14 +215,6 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Videographer/Video Editor - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/videographer-video-editor-washington-district-of-columbia-1024</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | The Senate Democratic Media Center (SDMC), seeks a Videographer/Video Editor to join the Video Production Team. The position will be responsible for supporting the Video Production Team in all facets...</description>
-      <guid isPermaLink="false">senate-495</guid>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
       <title>Transition Specialist #144 - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/transition-specialist-144-washington-district-of-columbia-1082</link>
       <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Target Hiring Range for this position is: $80,000-$90,000 Transition Specialists play an essential role in supporting Senate offices through key operational moments like office openings, moves, an...</description>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">senate-523</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
       <category>Constituent Services</category>
+    </item>
+    <item>
+      <title>Senator Cantwell Legislative Intern Fall 2026 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/senator-cantwell-legislative-intern-fall-2026-washington-district-of-columbia-1046</link>
+      <description>Office: Senator Maria Cantwell | Location: Washington, DC | Affiliation: Democratic | Senator Cantwell offers seasonal internships in her Washington, DC office to highly motivated and organized students and recent graduates interested in serving Washingtonians and learning more about t...</description>
+      <guid isPermaLink="false">senate-521</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
   </channel>
 </rss>
