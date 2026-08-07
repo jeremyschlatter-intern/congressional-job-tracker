@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Fri, 07 Aug 2026 01:29:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 13:15:26 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Counsel or Professional Staff Member - U.S. Senate</title>
@@ -199,14 +199,6 @@
       <category>Constituent Services</category>
     </item>
     <item>
-      <title>Counsel - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/counsel-washington-district-of-columbia-1026</link>
-      <description>Office: Foreign Relations - Republicans | Location: Washington, DC | Affiliation: Republican | Counsel Committee: U.S. Senate Committee on Foreign Relations -- Republicans Location: Washington, DC Position Type: Full-Time Salary: Commensurate with experience Position Summary The U.S. Senate Com...</description>
-      <guid isPermaLink="false">senate-497</guid>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>Transition Specialist #144 - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/transition-specialist-144-washington-district-of-columbia-1082</link>
       <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Target Hiring Range for this position is: $80,000-$90,000 Transition Specialists play an essential role in supporting Senate offices through key operational moments like office openings, moves, an...</description>
@@ -303,22 +295,6 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Senior Systems Engineer #243 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/senior-systems-engineer-243-washington-district-of-columbia-1068</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Sergeant at Arms is seeking a Senior Systems Engineer #243. The Senior Systems Engineer needs to have wide experience supporting and maintaining websites and web applications, have working knowled...</description>
-      <guid isPermaLink="false">senate-549</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
-    </item>
-    <item>
-      <title>Program Management Specialist #442 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/program-management-specialist-442-washington-district-of-columbia-1067</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Program Management Specialist is a project lead for projects across Support Operations and the Senate community. The Program Management Specialist has a portfolio of a variety of projects includin...</description>
-      <guid isPermaLink="false">senate-548</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
-    </item>
-    <item>
       <title>Printing and Reprographics Specialist #28 - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/printing-and-reprographics-specialist-28-washington-district-of-columbia-1052</link>
       <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | As a Printing and Reprographics Specialist within Printing Graphics and Direct Mail’s (PGDM) Capitol Hill Facility, you will play a crucial role in processing high priority jobs for Senators, Committe...</description>
@@ -404,6 +380,30 @@
       <description>Office: Homeland Security and Governmental Affairs - Republicans | Location: Washington, DC | Affiliation: Republican | The U.S. Senate Permanent Subcommittee on Investigations office of Chairman Ron Johnson (R-WI) is seeking law clerks for the fall of 2026. The position offers law students the opportunity to gain expe...</description>
       <guid isPermaLink="false">senate-520</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Constituent Advocate - Tucson, AZ - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/constituent-advocate-tucson-az-tucson-arizona-1042</link>
+      <description>Office: Senator Ruben Gallego | Location: Tucson, AZ | Affiliation: Democratic | The Office of U.S. Senator Ruben Gallego seeks a dedicated, detail-oriented, and compassionate Caseworker to join the Tucson regional office. This position serves as a primary point of contact for con...</description>
+      <guid isPermaLink="false">senate-516</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
+    </item>
+    <item>
+      <title>Press Secretary - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/press-secretary-washington-district-of-columbia-1036</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | Northeast Democratic senator who holds Committee leadership positions seeks a Press Secretary to join our office’s communications team. Ideal candidates will have at least 4 years of work experience i...</description>
+      <guid isPermaLink="false">senate-509</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Senior Policy Analyst, Economics and Trade - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/senior-policy-analyst-economics-and-trade-washington-district-of-columbia-1032</link>
+      <description>Office: U.S.-China Economic and Security Review Commission | Location: Washington, DC | Affiliation: Nonpartisan | The U.S.-China Economic and Security Review Commission is hiring a Senior Policy Analyst to join the Economics and Trade team. We are looking for an individual with superior research, writing, and com...</description>
+      <guid isPermaLink="false">senate-505</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
     </item>
   </channel>
