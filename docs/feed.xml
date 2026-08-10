@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sun, 09 Aug 2026 22:31:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 13:20:24 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -37,14 +37,6 @@
       <guid isPermaLink="false">house-352</guid>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
-    </item>
-    <item>
-      <title>Veteran and Military Liaison - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/veteran-and-military-liaison-casper-wyoming-0903</link>
-      <description>Office: Senator John Barrasso | Location: Casper, WY | Affiliation: Republican | U.S. Senator John Barrasso is seeking a Veteran and Military Liaison in his Casper, WY office. This position will work directly with military and veteran constituents and their families on casework to...</description>
-      <guid isPermaLink="false">senate-338</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <category>Constituent Services</category>
     </item>
     <item>
       <title>State Press Secretary - U.S. Senate</title>
@@ -93,14 +85,6 @@
       <guid isPermaLink="false">house-478</guid>
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
-    </item>
-    <item>
-      <title>Digital Director - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/digital-director-washington-district-of-columbia-1004</link>
-      <description>Office: Senator Alex Padilla | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Alex Padilla is looking for a Digital Director to oversee the Senator’s social media platforms. This role leads in sharing the Senator’s message and vision online across multiple...</description>
-      <guid isPermaLink="false">senate-468</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
     </item>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -167,6 +151,14 @@
       <category>House Support</category>
     </item>
     <item>
+      <title>Counsel - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/counsel-washington-district-of-columbia-1026</link>
+      <description>Office: Foreign Relations - Republicans | Location: Washington, DC | Affiliation: Republican | Counsel Committee: U.S. Senate Committee on Foreign Relations -- Republicans Location: Washington, DC Position Type: Full-Time Salary: Commensurate with experience Position Summary The U.S. Senate Com...</description>
+      <guid isPermaLink="false">senate-497</guid>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
       <title>Transition Specialist #144 - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/transition-specialist-144-washington-district-of-columbia-1082</link>
       <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Target Hiring Range for this position is: $80,000-$90,000 Transition Specialists play an essential role in supporting Senate offices through key operational moments like office openings, moves, an...</description>
@@ -189,14 +181,6 @@
       <guid isPermaLink="false">senate-562</guid>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
       <category>Senate Support</category>
-    </item>
-    <item>
-      <title>Press Intern - Fall 2026 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/press-intern-fall-2026-washington-district-of-columbia-1078</link>
-      <description>Office: Senator Ron Wyden | Location: Washington, DC | Affiliation: Democratic | Senator Ron Wyden and the Senate Finance Committee are seeking a D.C. based Press Intern for the Fall 2026 cycle. Ideal candidates are self-motivated, excellent communicators, fast learners, and passi...</description>
-      <guid isPermaLink="false">senate-561</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
     </item>
     <item>
       <title>Employment Office Specialist #66 - U.S. Senate</title>
@@ -403,6 +387,22 @@
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3586?c=house</link>
       <description>Office: House Support Offices | Location: Greeley, CO</description>
       <guid isPermaLink="false">house-114</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3647?c=house</link>
+      <description>Office: House Support Offices | Location: Escondido, CA</description>
+      <guid isPermaLink="false">house-111</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3700?c=house</link>
+      <description>Office: House Support Offices | Location: Bountiful, UT</description>
+      <guid isPermaLink="false">house-110</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
