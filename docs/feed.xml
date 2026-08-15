@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sat, 15 Aug 2026 12:47:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 22:21:25 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -239,14 +239,6 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Constituent Advocate - Tucson, AZ - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/constituent-advocate-tucson-az-tucson-arizona-1042</link>
-      <description>Office: Senator Ruben Gallego | Location: Tucson, AZ | Affiliation: Democratic | The Office of U.S. Senator Ruben Gallego seeks a dedicated, detail-oriented, and compassionate Caseworker to join the Tucson regional office. This position serves as a primary point of contact for con...</description>
-      <guid isPermaLink="false">senate-516</guid>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Constituent Services</category>
-    </item>
-    <item>
       <title>Senate Resume Bank - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/senate-resume-bank-washington-district-of-columbia-1018</link>
       <description>Office: Senate Employment Office | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Employment Office is accepting submissions for the 2026 Senate Resume Bank. Individuals interested in entry-level through professional staff opportunities with a Senator or Senate Committee...</description>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">senate-587</guid>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Director of Scheduling - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/director-of-scheduling-washington-district-of-columbia-1102</link>
+      <description>Office: Senator Michael F. Bennet | Location: Washington, DC | Affiliation: Democratic | Colorado Senator Michael Bennet seeks a detail-oriented and highly organized individual to serve as Director of Scheduling. The Director of Scheduling reports to the Chief of Staff and supervises an A...</description>
+      <guid isPermaLink="false">senate-586</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
     </item>
   </channel>
 </rss>
