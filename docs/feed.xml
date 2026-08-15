@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Fri, 14 Aug 2026 22:22:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 12:47:23 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -159,14 +159,6 @@
       <category>Constituent Services</category>
     </item>
     <item>
-      <title>Public Information Specialist - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5547?c=house</link>
-      <description>Office: House Support Offices | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-556</guid>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
       <title>Special Assistant - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/special-assistant-wilmington-delaware-1073</link>
       <description>Office: Senator Christopher A. Coons | Location: Wilmington, DE | Affiliation: Democratic | Senator Chris Coons (D-Del.) seeks a highly organized, positive, and dependable individual to serve as Special Assistant in his Wilmington, Delaware office. This is a key support role with responsibil...</description>
@@ -253,14 +245,6 @@
       <guid isPermaLink="false">senate-516</guid>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
       <category>Constituent Services</category>
-    </item>
-    <item>
-      <title>Press Secretary - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/press-secretary-washington-district-of-columbia-1036</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | Northeast Democratic senator who holds Committee leadership positions seeks a Press Secretary to join our office’s communications team. Ideal candidates will have at least 4 years of work experience i...</description>
-      <guid isPermaLink="false">senate-509</guid>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
     </item>
     <item>
       <title>Senate Resume Bank - U.S. Senate</title>
@@ -405,6 +389,22 @@
       <guid isPermaLink="false">senate-589</guid>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
       <category>Senate Support</category>
+    </item>
+    <item>
+      <title>Cybersecurity Principal Specialist - Hunt Host #4150 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/cybersecurity-principal-specialist-hunt-host-4150-washington-district-of-columbia-1104</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Threat Hunt &amp;amp; Response Specialist serves as a senior technical subject matter expert within the Cybersecurity Threat Hunt &amp;amp; Response Team, operating at the forefront of the Senate’s cyber...</description>
+      <guid isPermaLink="false">senate-588</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
+    </item>
+    <item>
+      <title>Press Secretary/Deputy Press Secretary - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/press-secretary-deputy-press-secretary-washington-district-of-columbia-1103</link>
+      <description>Office: Senator Gary C. Peters | Location: Washington, DC | Affiliation: Democratic | The Office of U.S. Senator Gary C. Peters seeks a Press Secretary or Deputy Press Secretary in the Washington, DC office. Responsibilities include: drafting press releases, advisories, talking points,...</description>
+      <guid isPermaLink="false">senate-587</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
     </item>
   </channel>
 </rss>
