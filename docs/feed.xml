@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Mon, 17 Aug 2026 12:53:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 22:24:38 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -141,14 +141,6 @@
       <guid isPermaLink="false">senate-562</guid>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
       <category>Senate Support</category>
-    </item>
-    <item>
-      <title>Fall Communications Internship - U.S. Senator Reverend Raphael Warnock (Washington, D.C.) - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/fall-communications-internship-u-s-senator-reverend-raphael-warnock-washington-d-c-washington-district-of-columbia-1076</link>
-      <description>Office: Senator Reverend Raphael Warnock | Location: Washington, DC | Affiliation: Democratic | Senator Reverend Raphael Warnock’s Washington, D.C. office is accepting applications for a fall communications intern. This is a unique opportunity to gain firsthand experience in the U.S. Senate by w...</description>
-      <guid isPermaLink="false">senate-559</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
     </item>
     <item>
       <title>Constituent Services Representative (Caseworker) - U.S. Senate</title>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">senate-586</guid>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
+    </item>
+    <item>
+      <title>Press Secretary - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/press-secretary-washington-district-of-columbia-1101</link>
+      <description>Office: Senator Cory A. Booker | Location: Washington, DC | Affiliation: Democratic | Senator Cory A. Booker's office is hiring a Press Secretary to serve as the primary on-the-record spokesperson in a fast-paced, high-volume DC-based communications office. This is not an entry-level p...</description>
+      <guid isPermaLink="false">senate-585</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
     </item>
   </channel>
 </rss>
