@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Mon, 17 Aug 2026 22:24:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 12:55:24 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -125,14 +125,6 @@
       <guid isPermaLink="false">senate-497</guid>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Community Outreach Representative – Fresno, CA - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/community-outreach-representative-fresno-ca-fresno-california-1080</link>
-      <description>Office: Senator Adam B. Schiff | Location: Fresno, CA | Affiliation: Democratic | Community Outreach Representative – Fresno, CA The Office of Senator Adam Schiff is seeking a Community Outreach Representative. Based in the Fresno office, and under the direction of the Regional Dir...</description>
-      <guid isPermaLink="false">senate-563</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Constituent Services</category>
     </item>
     <item>
       <title>Technology Solutions Architect #5374 - U.S. Senate</title>
@@ -403,6 +395,14 @@
       <link>https://careers.employment.senate.gov/job/press-secretary-washington-district-of-columbia-1101</link>
       <description>Office: Senator Cory A. Booker | Location: Washington, DC | Affiliation: Democratic | Senator Cory A. Booker's office is hiring a Press Secretary to serve as the primary on-the-record spokesperson in a fast-paced, high-volume DC-based communications office. This is not an entry-level p...</description>
       <guid isPermaLink="false">senate-585</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Communications Intern - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/communications-intern-washington-district-of-columbia-1100</link>
+      <description>Office: Senator Cory A. Booker | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Cory A. Booker is looking for a dynamic, driven Communications Intern to join our fast‑paced press team and help power an exciting, high‑energy communications operation. The inte...</description>
+      <guid isPermaLink="false">senate-584</guid>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
     </item>
