@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 19 Aug 2026 12:56:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 22:24:33 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -207,14 +207,6 @@
       <category>House Support</category>
     </item>
     <item>
-      <title>Senator Cantwell Legislative Intern Fall 2026 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/senator-cantwell-legislative-intern-fall-2026-washington-district-of-columbia-1046</link>
-      <description>Office: Senator Maria Cantwell | Location: Washington, DC | Affiliation: Democratic | Senator Cantwell offers seasonal internships in her Washington, DC office to highly motivated and organized students and recent graduates interested in serving Washingtonians and learning more about t...</description>
-      <guid isPermaLink="false">senate-521</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>Fall 2026 Law Clerks - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/fall-2026-law-clerks-washington-district-of-columbia-1045</link>
       <description>Office: Homeland Security and Governmental Affairs - Republicans | Location: Washington, DC | Affiliation: Republican | The U.S. Senate Permanent Subcommittee on Investigations office of Chairman Ron Johnson (R-WI) is seeking law clerks for the fall of 2026. The position offers law students the opportunity to gain expe...</description>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">senate-584</guid>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Policy Advisor - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/policy-advisor-washington-district-of-columbia-1099</link>
+      <description>Office: Senator David McCormick | Location: Washington, DC | Affiliation: Republican | Senator Dave McCormick is seeking an experienced Policy Advisor to lead his banking and finance portfolio. The Policy Advisor will provide policy analysis and guidance on these matters, while also dra...</description>
+      <guid isPermaLink="false">senate-583</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
   </channel>
 </rss>
