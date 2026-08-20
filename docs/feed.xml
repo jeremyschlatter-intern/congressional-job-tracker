@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Thu, 20 Aug 2026 12:58:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 22:27:37 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -13,14 +13,6 @@
       <guid isPermaLink="false">house-354</guid>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
-    </item>
-    <item>
-      <title>State Press Secretary - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/state-press-secretary-newark-new-jersey-0689</link>
-      <description>Office: Senator Cory A. Booker | Location: Newark, NJ | Affiliation: Democratic | Senator Cory A. Booker (D-New Jersey) seeks a State Press Secretary for his Newark, New Jersey office. The ideal candidate has experience working directly with members of the media, particularly those...</description>
-      <guid isPermaLink="false">senate-44</guid>
-      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
     </item>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -181,14 +173,6 @@
       <guid isPermaLink="false">senate-530</guid>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
-    </item>
-    <item>
-      <title>Deputy Press Secretary/Communications Staff Member - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/deputy-press-secretary-communications-staff-member-washington-district-of-columbia-0122</link>
-      <description>Office: Senator Brian Schatz | Location: Washington, DC | Affiliation: Democratic | U.S. Senator Brian Schatz of Hawai‘i is hiring a shared communications staff member for his personal office and the Senate Committee on Indian Affairs, Office of the Vice Chairman. This position will...</description>
-      <guid isPermaLink="false">senate-526</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
     </item>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -404,6 +388,22 @@
       <description>Office: Senator John Barrasso | Location: Casper, WY | Affiliation: Republican | Senator Barrasso has an immediate opening for a Field Assistant in his Casper, WY office. Duties include, but are not limited to: answering phones, greeting visitors, and facilitating correspondence a...</description>
       <guid isPermaLink="false">senate-582</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
+    </item>
+    <item>
+      <title>Health Policy Advisor - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/health-policy-advisor-washington-district-of-columbia-1097</link>
+      <description>Office: Senator Catherine Cortez Masto | Location: Washington, DC | Affiliation: Democratic | U.S. Senator Catherine Cortez Masto is seeking an experienced Policy Advisor to handle all areas of health policy. This individual will be responsible for staffing the Senator’s work on issues before...</description>
+      <guid isPermaLink="false">senate-581</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Southeast Michigan or Bay Regional Coordinator - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/southeast-michigan-or-bay-regional-coordinator-pontiac-michigan-1096</link>
+      <description>Office: Senator Gary C. Peters | Location: Pontiac, MI | Affiliation: Democratic | U.S. Senator Gary C. Peters seeks a highly-motivated, organized Regional Coordinator for either his Southeast Michigan Regional Office located in Pontiac, MI or his Bay Regional Office located in Flin...</description>
+      <guid isPermaLink="false">senate-579</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
       <category>Constituent Services</category>
     </item>
   </channel>
