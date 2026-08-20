@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 19 Aug 2026 22:24:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 12:58:26 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -37,14 +37,6 @@
       <guid isPermaLink="false">senate-407</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5499?c=house</link>
-      <description>Office: House Support Offices | Location: Jersey City, NJ</description>
-      <guid isPermaLink="false">house-480</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
     </item>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">senate-583</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Field Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/field-assistant-casper-wyoming-1098</link>
+      <description>Office: Senator John Barrasso | Location: Casper, WY | Affiliation: Republican | Senator Barrasso has an immediate opening for a Field Assistant in his Casper, WY office. Duties include, but are not limited to: answering phones, greeting visitors, and facilitating correspondence a...</description>
+      <guid isPermaLink="false">senate-582</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
     </item>
   </channel>
 </rss>
