@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sun, 23 Aug 2026 12:50:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 22:21:43 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -53,14 +53,6 @@
       <guid isPermaLink="false">house-456</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
-    </item>
-    <item>
-      <title>Fall 2026 Regional Internship - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/fall-2026-regional-internship-new-york-new-york-0936</link>
-      <description>Office: Senator Kirsten E. Gillibrand | Location: New York, NY | Affiliation: Democratic | U.S. Senator Kirsten E. Gillibrand (D-NY) is currently accepting applications for her fall state office internship program for the upcoming semester. Responsibilities will include, but not be limited...</description>
-      <guid isPermaLink="false">senate-378</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
     </item>
     <item>
       <title>Stars of Valor Fellow – Senator Martin Heinrich - U.S. Senate</title>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">senate-572</guid>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Counsel - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/counsel-washington-district-of-columbia-1083</link>
+      <description>Office: Senator Alex Padilla | Location: Washington, DC | Affiliation: Democratic | Senator Alex Padilla seeks an attorney for the position of Counsel on his Judiciary Committee staff to manage a policy portfolio that includes Technology, Competition/Antitrust, Intellectual Property,...</description>
+      <guid isPermaLink="false">senate-566</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
   </channel>
 </rss>
