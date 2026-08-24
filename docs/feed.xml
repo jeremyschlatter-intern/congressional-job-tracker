@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Mon, 24 Aug 2026 12:59:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 22:26:21 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -52,6 +52,14 @@
       <description>Office: House Support Offices | Location: Quincy, IL</description>
       <guid isPermaLink="false">house-456</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4458?c=house</link>
+      <description>Office: House Support Offices | Location: Bronx, NY</description>
+      <guid isPermaLink="false">house-419</guid>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
     <item>
@@ -397,14 +405,6 @@
       <guid isPermaLink="false">senate-572</guid>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
-    </item>
-    <item>
-      <title>Counsel - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/counsel-washington-district-of-columbia-1083</link>
-      <description>Office: Senator Alex Padilla | Location: Washington, DC | Affiliation: Democratic | Senator Alex Padilla seeks an attorney for the position of Counsel on his Judiciary Committee staff to manage a policy portfolio that includes Technology, Competition/Antitrust, Intellectual Property,...</description>
-      <guid isPermaLink="false">senate-566</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
     </item>
   </channel>
 </rss>
