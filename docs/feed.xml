@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Mon, 24 Aug 2026 22:26:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 12:56:08 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -367,22 +367,6 @@
       <category>Constituent Services</category>
     </item>
     <item>
-      <title>Fall 2026 Legal Fellow - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/fall-2026-legal-fellow-washington-district-of-columbia-1095</link>
-      <description>Office: Joint Economic Committee | Location: Washington, DC | Affiliation: Democratic | The Democratic staff of the U.S. Congress Joint Economic Committee (JEC) invite applications for an in-person legal fellowship for fall 2026. The legal fellow can expect to learn about and contribute...</description>
-      <guid isPermaLink="false">senate-578</guid>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Deputy State Press Secretary &amp; Digital Assistant – Hartford, CT - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/deputy-state-press-secretary-digital-assistant-hartford-ct-hartford-connecticut-1094</link>
-      <description>Office: Senator Richard Blumenthal | Location: Hartford, CT | Affiliation: Democratic | Connecticut’s senior U.S. Senator seeks a dynamic Deputy State Press Secretary and Digital Assistant to support the State Communications Director with coordinating and executing all in-state media act...</description>
-      <guid isPermaLink="false">senate-577</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
       <title>Stars of Valor Fellow – Senator Bernie Moreno - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/stars-of-valor-fellow-senator-bernie-moreno-columbus-ohio-1092</link>
       <description>Office: Stars of Valor Fellowships Program | Location: Columbus, OH | Affiliation: Republican | The Senate has established the Stars of Valor Fellowships Program for wounded and disabled veterans; family members of Armed Forces servicemembers who die in the line of duty or veterans who die of se...</description>
@@ -399,11 +383,27 @@
       <category>Administrative</category>
     </item>
     <item>
-      <title>Deputy Press Secretary - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/deputy-press-secretary-washington-district-of-columbia-1089</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | Progressive Democratic Senator seeks a Deputy Press Secretary who can immediately contribute to a very fast-paced communications team. Duties include, but are not limited to, drafting press releases,...</description>
-      <guid isPermaLink="false">senate-572</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Counsel - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/counsel-washington-district-of-columbia-1083</link>
+      <description>Office: Senator Alex Padilla | Location: Washington, DC | Affiliation: Democratic | Senator Alex Padilla seeks an attorney for the position of Counsel on his Judiciary Committee staff to manage a policy portfolio that includes Technology, Competition/Antitrust, Intellectual Property,...</description>
+      <guid isPermaLink="false">senate-566</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Digital Fellowship - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/digital-fellowship-washington-district-of-columbia-1131</link>
+      <description>Office: Senator Edward J. Markey | Location: Washington, DC | Affiliation: Democratic | Senator Edward J. Markey (D-Mass.) is currently accepting applications for a Digital Fellowship position in his Washington DC office for Fall 2026. The Digital Fellowship is directed toward current an...</description>
+      <guid isPermaLink="false">senate-618</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Digital Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/digital-assistant-washington-district-of-columbia-1130</link>
+      <description>Office: Senator Chris Van Hollen | Location: Washington, DC | Affiliation: Democratic | Senator Chris Van Hollen is seeking a Digital Assistant to join his active communications team. This role will work with the Digital Director and Communications Director to manage the Senator’s social...</description>
+      <guid isPermaLink="false">senate-617</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
     </item>
   </channel>
