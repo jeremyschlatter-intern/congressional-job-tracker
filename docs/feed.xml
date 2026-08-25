@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Tue, 25 Aug 2026 12:56:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 22:27:20 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -12,6 +12,14 @@
       <description>Office: House Support Offices | Location: Louisville, KY</description>
       <guid isPermaLink="false">house-354</guid>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>DevOps Engineer II - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4383?c=house</link>
+      <description>Office: House Support Offices | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-299</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
     <item>
@@ -391,20 +399,12 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Digital Fellowship - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/digital-fellowship-washington-district-of-columbia-1131</link>
-      <description>Office: Senator Edward J. Markey | Location: Washington, DC | Affiliation: Democratic | Senator Edward J. Markey (D-Mass.) is currently accepting applications for a Digital Fellowship position in his Washington DC office for Fall 2026. The Digital Fellowship is directed toward current an...</description>
-      <guid isPermaLink="false">senate-618</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
-      <title>Digital Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/digital-assistant-washington-district-of-columbia-1130</link>
-      <description>Office: Senator Chris Van Hollen | Location: Washington, DC | Affiliation: Democratic | Senator Chris Van Hollen is seeking a Digital Assistant to join his active communications team. This role will work with the Digital Director and Communications Director to manage the Senator’s social...</description>
-      <guid isPermaLink="false">senate-617</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
+      <title>Deputy Chief Counsel of Oversight and Investigations - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/deputy-chief-counsel-of-oversight-and-investigations-washington-district-of-columbia-1133</link>
+      <description>Office: Commerce, Science, and Transportation - Republicans | Location: Washington, DC | Affiliation: Republican | Senator Ted Cruz seeks an experienced, conservative congressional oversight and investigations attorney to serve as Deputy Chief Counsel of Oversight and Investigations on the Republican staff of the...</description>
+      <guid isPermaLink="false">senate-620</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
   </channel>
 </rss>
