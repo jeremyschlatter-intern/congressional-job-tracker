@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Thu, 27 Aug 2026 02:58:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 22:05:18 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -391,20 +391,20 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Security Liaison Specialist - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5584?c=house</link>
-      <description>Office: House Support Offices | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-622</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
+      <title>Legislative Correspondent - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legislative-correspondent-washington-district-of-columbia-1137</link>
+      <description>Office: Senator Martin Heinrich | Location: Washington, DC | Affiliation: Democratic | Senator Martin Heinrich (D-NM) seeks a Legislative Correspondent based in Washington, DC to work on policy and correspondence related to foreign affairs, defense, veterans, budget, and banking. This p...</description>
+      <guid isPermaLink="false">senate-626</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Senior Audiovisual Specialist - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5581?c=house</link>
-      <description>Office: Office of the Clerk | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-621</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
+      <title>Senior Platform Engineer (ServiceNow) #246 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/senior-platform-engineer-servicenow-246-washington-district-of-columbia-1136</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Office of the Sergeant at Arms (SAA) of the United States Senate is looking for a skilled and motivated Senior ServiceNow Engineer. This role involves designing, improving, and supporting key appl...</description>
+      <guid isPermaLink="false">senate-625</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
     </item>
   </channel>
 </rss>
