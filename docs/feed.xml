@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 26 Aug 2026 13:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 02:58:29 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -125,14 +125,6 @@
       <guid isPermaLink="false">senate-557</guid>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
       <category>Constituent Services</category>
-    </item>
-    <item>
-      <title>Special Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/special-assistant-wilmington-delaware-1073</link>
-      <description>Office: Senator Christopher A. Coons | Location: Wilmington, DE | Affiliation: Democratic | Senator Chris Coons (D-Del.) seeks a highly organized, positive, and dependable individual to serve as Special Assistant in his Wilmington, Delaware office. This is a key support role with responsibil...</description>
-      <guid isPermaLink="false">senate-554</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
     </item>
     <item>
       <title>Law Clerks - Fall 2026 - U.S. Senate</title>
@@ -399,12 +391,20 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Deputy Chief Counsel of Oversight and Investigations - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/deputy-chief-counsel-of-oversight-and-investigations-washington-district-of-columbia-1133</link>
-      <description>Office: Commerce, Science, and Transportation - Republicans | Location: Washington, DC | Affiliation: Republican | Senator Ted Cruz seeks an experienced, conservative congressional oversight and investigations attorney to serve as Deputy Chief Counsel of Oversight and Investigations on the Republican staff of the...</description>
-      <guid isPermaLink="false">senate-620</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
+      <title>Security Liaison Specialist - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5584?c=house</link>
+      <description>Office: House Support Offices | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-622</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Senior Audiovisual Specialist - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5581?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-621</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
     </item>
   </channel>
 </rss>
