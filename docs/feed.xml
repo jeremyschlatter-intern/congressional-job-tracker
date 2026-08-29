@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sat, 29 Aug 2026 03:32:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 16:32:21 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -101,14 +101,6 @@
       <guid isPermaLink="false">senate-497</guid>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Constituent Services Representative (Caseworker) - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/constituent-services-representative-caseworker-honolulu-hawaii-1075</link>
-      <description>Office: Senator Mazie K. Hirono | Location: Honolulu, HI | Affiliation: Democratic | The Office of U.S. Senator Mazie K. Hirono seeks a dedicated, detail-oriented, and compassionate Constituent Services Representative (Caseworker) to join the state office in Honolulu, Hawaii. This pos...</description>
-      <guid isPermaLink="false">senate-557</guid>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Constituent Services</category>
     </item>
     <item>
       <title>Law Clerks - Fall 2026 - U.S. Senate</title>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">senate-625</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
       <category>Senate Support</category>
+    </item>
+    <item>
+      <title>Scheduler - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/scheduler-washington-district-of-columbia-1135</link>
+      <description>Office: Senator Patty Murray | Location: Washington, DC | Affiliation: Democratic | SCHEDULER U.S. Senator Patty Murray (D- WA) is looking for a Scheduler for her Washington, D.C. Office. The Scheduler will be responsible for preparing and updating daily schedules for the Senator and...</description>
+      <guid isPermaLink="false">senate-624</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
     </item>
   </channel>
 </rss>
