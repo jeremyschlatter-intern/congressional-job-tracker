@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Fri, 28 Aug 2026 22:03:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 03:32:30 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -92,14 +92,6 @@
       <description>Office: House Support Offices | Location: NM</description>
       <guid isPermaLink="false">house-402</guid>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4434?c=house</link>
-      <description>Office: House Support Offices | Location: Lowell, MA</description>
-      <guid isPermaLink="false">house-393</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
     <item>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">senate-626</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Senior Platform Engineer (ServiceNow) #246 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/senior-platform-engineer-servicenow-246-washington-district-of-columbia-1136</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Office of the Sergeant at Arms (SAA) of the United States Senate is looking for a skilled and motivated Senior ServiceNow Engineer. This role involves designing, improving, and supporting key appl...</description>
+      <guid isPermaLink="false">senate-625</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
     </item>
   </channel>
 </rss>
