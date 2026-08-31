@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sun, 30 Aug 2026 16:27:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 00:14:04 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -172,14 +172,6 @@
       <description>Office: House Support Offices | Location: Salem, IN</description>
       <guid isPermaLink="false">house-120</guid>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Official Reporter (Stenographer) - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4092?c=house</link>
-      <description>Office: House Support Offices | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-95</guid>
-      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
     <item>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">senate-624</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
+    </item>
+    <item>
+      <title>Deputy Press Secretary - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/deputy-press-secretary-washington-district-of-columbia-1134</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | Progressive Democratic Senator seeks a Deputy Press Secretary who can immediately contribute to a very fast-paced communications team. Duties include, but are not limited to, drafting press releases,...</description>
+      <guid isPermaLink="false">senate-623</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
     </item>
   </channel>
 </rss>
