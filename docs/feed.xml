@@ -4,8 +4,16 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Tue, 01 Sep 2026 01:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 16:23:02 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Systems Engineer - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5585?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-635</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4408?c=house</link>
@@ -343,6 +351,22 @@
       <category>Administrative</category>
     </item>
     <item>
+      <title>Logistics and Operations Specialist #5211 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/logistics-and-operations-specialist-5211-washington-district-of-columbia-1142</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Sergeant at Arms (SAA) is currently seeking a highly skilled and dedicated Logistics and Operations Specialist to join our Printing Graphics and Direct Mail (PGDM) team. In this role, you w...</description>
+      <guid isPermaLink="false">senate-634</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
+    </item>
+    <item>
+      <title>Technology Adoption &amp; Office Education Manager #287 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/technology-adoption-office-education-manager-287-washington-district-of-columbia-1141</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Sergeant at Arms (SAA) is seeking an experienced, mission‑driven Manager to lead the development and delivery of training programs that enable Senate staff to understand and effectively use...</description>
+      <guid isPermaLink="false">senate-633</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
+    </item>
+    <item>
       <title>Systems Administrator - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5587?c=house</link>
       <description>Office: House Support Offices | Location: Washington, DC</description>
@@ -381,30 +405,6 @@
       <guid isPermaLink="false">house-629</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
-    </item>
-    <item>
-      <title>Communications Director - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/communications-director-washington-district-of-columbia-1139</link>
-      <description>Office: Senator Mazie K. Hirono | Location: Washington, DC | Affiliation: Democratic | The office of Senator Mazie K. Hirono of Hawaii seeks an experienced Communications Director to lead both press and messaging strategy. This is a senior-level position reporting to the Chief of Staff....</description>
-      <guid isPermaLink="false">senate-628</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
-      <title>Health Policy Staff Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/health-policy-staff-assistant-washington-district-of-columbia-1138</link>
-      <description>Office: Health, Education, Labor, and Pensions - Democrats | Location: Washington, DC | Affiliation: Democratic | Ranking Member Bernie Sanders of the U.S. Senate Health, Education, Labor, and Pensions Committee is seeking a committee staff assistant to handle administrative matters and provide cross-cutting supp...</description>
-      <guid isPermaLink="false">senate-627</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
-    </item>
-    <item>
-      <title>Legislative Correspondent - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-correspondent-washington-district-of-columbia-1137</link>
-      <description>Office: Senator Martin Heinrich | Location: Washington, DC | Affiliation: Democratic | Senator Martin Heinrich (D-NM) seeks a Legislative Correspondent based in Washington, DC to work on policy and correspondence related to foreign affairs, defense, veterans, budget, and banking. This p...</description>
-      <guid isPermaLink="false">senate-626</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
     </item>
   </channel>
 </rss>
