@@ -4,8 +4,24 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Tue, 01 Sep 2026 16:23:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 23:50:20 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Constituent Services Liaison - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/constituent-services-liaison-austin-texas-1144</link>
+      <description>Office: Senator Ted Cruz | Location: Austin, TX | Affiliation: Republican | Senator Ted Cruz (R-TX) is seeking a Constituent Services Liaison to join his Austin, TX office. Job Summary: Serves as a liaison to federal agencies on behalf of the Senator and his constituents. Man...</description>
+      <guid isPermaLink="false">senate-637</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
+    </item>
+    <item>
+      <title>Deputy State Director for Outreach - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/deputy-state-director-for-outreach-seattle-washington-1143</link>
+      <description>Office: Senator Patty Murray | Location: Seattle, WA | Affiliation: Democratic | U.S. Senator Patty Murray (D-WA) seeks a Deputy State Director for Outreach. This is a management level position based in Seattle, Washington. Responsibilities include day-to-day management of the Sen...</description>
+      <guid isPermaLink="false">senate-636</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
+    </item>
     <item>
       <title>Systems Engineer - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5585?c=house</link>
@@ -57,7 +73,7 @@
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5464?c=house</link>
-      <description>Office: House Support Offices | Location: PA</description>
+      <description>Office: House Support Offices | Location: Reading, PA</description>
       <guid isPermaLink="false">house-457</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
@@ -180,6 +196,14 @@
       <description>Office: House Support Offices | Location: Salem, IN</description>
       <guid isPermaLink="false">house-120</guid>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Official Reporter (Stenographer) - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4092?c=house</link>
+      <description>Office: House Support Offices | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-95</guid>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
     <item>
@@ -380,30 +404,6 @@
       <description>Office: Office of the Clerk | Location: Washington, DC</description>
       <guid isPermaLink="false">house-631</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Legislative Internship - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-internship-washington-district-of-columbia-1140</link>
-      <description>Office: Small Business and Entrepreneurship - Republicans | Location: Washington, DC | Affiliation: Republican | The Republican Staff of the Senate Committee on Small Business and Entrepreneurship are seeking interns to assist the Committee for the spring of 2027. Interns should expect to conduct policy and back...</description>
-      <guid isPermaLink="false">senate-630</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Counsel - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/counsel-washington-district-of-columbia-1083</link>
-      <description>Office: Senator Alex Padilla | Location: Washington, DC | Affiliation: Democratic | Senator Alex Padilla seeks an attorney for the position of Counsel on his Judiciary Committee staff to manage a policy portfolio that includes Technology, Competition/Antitrust, Intellectual Property,...</description>
-      <guid isPermaLink="false">senate-566</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Auditor / Senior Auditor - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5580?c=house</link>
-      <description>Office: House Support Offices | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-629</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
   </channel>
