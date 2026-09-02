@@ -4,8 +4,32 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Tue, 01 Sep 2026 23:50:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 16:20:57 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Press Fellow – Office of Senator Adam Schiff - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/press-fellow-office-of-senator-adam-schiff-washington-district-of-columbia-1147</link>
+      <description>Office: Senator Adam B. Schiff | Location: Washington, DC | Affiliation: Democratic | Press Fellow – Office of Senator Adam Schiff Senator Adam Schiff seeks a junior communications candidate for a Press Fellow role in a large communications team. This is a paid full-time, one-year fell...</description>
+      <guid isPermaLink="false">senate-640</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Staff Assistant (State College, PA) - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/staff-assistant-state-college-pa-state-college-pennsylvania-1146</link>
+      <description>Office: Senator John Fetterman | Location: State College, PA | Affiliation: Democratic | U.S. Senator John Fetterman seeks a Staff Assistant in his State College, PA office. The ideal candidate is dependable, detail-oriented, and highly motivated with excellent organizational and communic...</description>
+      <guid isPermaLink="false">senate-639</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
+    </item>
+    <item>
+      <title>Staff Assistant (DC) - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/staff-assistant-dc-washington-district-of-columbia-1145</link>
+      <description>Office: Senator John Fetterman | Location: Washington, DC | Affiliation: Democratic | Senator John Fetterman (D-PA) seeks a Staff Assistant in the Washington, D.C. office. The ideal candidate is dependable, detail-oriented, and highly motivated with excellent organizational and communi...</description>
+      <guid isPermaLink="false">senate-638</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
+    </item>
     <item>
       <title>Constituent Services Liaison - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/constituent-services-liaison-austin-texas-1144</link>
@@ -53,14 +77,6 @@
       <guid isPermaLink="false">house-91</guid>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
-    </item>
-    <item>
-      <title>Counsel or Professional Staff Member - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/counsel-or-professional-staff-member-washington-district-of-columbia-0959</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Conservative Republican chairman seeking experienced oversight and investigations attorney or professional staff member for subcommittee. Responsibilities will include managing oversight and investiga...</description>
-      <guid isPermaLink="false">senate-407</guid>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
     </item>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -127,14 +143,6 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Law Clerks - Fall 2026 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/law-clerks-fall-2026-washington-district-of-columbia-1070</link>
-      <description>Office: Judiciary - Republicans | Location: Washington, DC | Affiliation: Republican | Chairman Charles E. Grassley’s (R-IA), Chairman of the U.S. Senate Committee on the Judiciary, Oversight unit is seeking law clerks for the fall of 2026. The position offers law students the opportuni...</description>
-      <guid isPermaLink="false">senate-551</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5541?c=house</link>
       <description>Office: House Support Offices | Location: Long Beach, CA</description>
@@ -196,6 +204,14 @@
       <description>Office: House Support Offices | Location: Salem, IN</description>
       <guid isPermaLink="false">house-120</guid>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Editor (Scopist) - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4239?c=house</link>
+      <description>Office: House Support Offices | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-94</guid>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
     <item>
@@ -389,22 +405,6 @@
       <guid isPermaLink="false">senate-633</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
       <category>Senate Support</category>
-    </item>
-    <item>
-      <title>Systems Administrator - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5587?c=house</link>
-      <description>Office: House Support Offices | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-632</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Internal Communications Manager - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5588?c=house</link>
-      <description>Office: Office of the Clerk | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-631</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
     </item>
   </channel>
 </rss>
