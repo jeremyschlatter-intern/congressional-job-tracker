@@ -4,8 +4,32 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Thu, 03 Sep 2026 16:11:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 23:48:57 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Senior Technology Solutions Specialist #450 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/senior-technology-solutions-specialist-450-washington-district-of-columbia-1153</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Sergeant at Arms Printing, Graphics, and Direct Mail (PGDM) department is seeking a highly skilled and motivated Senior Technology Solutions Specialist to join our team. This role will primarily f...</description>
+      <guid isPermaLink="false">senate-647</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
+    </item>
+    <item>
+      <title>Asset Management Specialist #646 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/asset-management-specialist-646-washington-district-of-columbia-1152</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The U.S. Senate Sergeant at Arms (SAA) is seeking a skilled Senior Asset Management Specialist to join the Chief Information Officer’s (CIO) Asset Management team. In this role, you will be responsibl...</description>
+      <guid isPermaLink="false">senate-646</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
+    </item>
+    <item>
+      <title>Honolulu, HI Constituent Services Representative (Caseworker) - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/honolulu-hi-constituent-services-representative-caseworker-honolulu-hawaii-1151</link>
+      <description>Office: Senator Mazie K. Hirono | Location: Honolulu, HI | Affiliation: Democratic | The Office of U.S. Senator Mazie K. Hirono seeks a dedicated, detail-oriented, and compassionate Constituent Services Representative (Caseworker) to join the state office in Honolulu, Hawaii. This pos...</description>
+      <guid isPermaLink="false">senate-645</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
+    </item>
     <item>
       <title>Law Fellow - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/law-fellow-washington-district-of-columbia-1150</link>
@@ -380,30 +404,6 @@
       <description>Office: Senator John Barrasso | Location: Casper, WY | Affiliation: Republican | Senator Barrasso has an immediate opening for a Field Assistant in his Casper, WY office. Duties include, but are not limited to: answering phones, greeting visitors, and facilitating correspondence a...</description>
       <guid isPermaLink="false">senate-582</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <category>Constituent Services</category>
-    </item>
-    <item>
-      <title>Health Policy Advisor - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/health-policy-advisor-washington-district-of-columbia-1097</link>
-      <description>Office: Senator Catherine Cortez Masto | Location: Washington, DC | Affiliation: Democratic | U.S. Senator Catherine Cortez Masto is seeking an experienced Policy Advisor to handle all areas of health policy. This individual will be responsible for staffing the Senator’s work on issues before...</description>
-      <guid isPermaLink="false">senate-581</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Southeast Michigan or Bay Regional Coordinator - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/southeast-michigan-or-bay-regional-coordinator-pontiac-michigan-1096</link>
-      <description>Office: Senator Gary C. Peters | Location: Pontiac, MI | Affiliation: Democratic | U.S. Senator Gary C. Peters seeks a highly-motivated, organized Regional Coordinator for either his Southeast Michigan Regional Office located in Pontiac, MI or his Bay Regional Office located in Flin...</description>
-      <guid isPermaLink="false">senate-579</guid>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <category>Constituent Services</category>
-    </item>
-    <item>
-      <title>Stars of Valor Fellow – Senator Bernie Moreno - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/stars-of-valor-fellow-senator-bernie-moreno-columbus-ohio-1092</link>
-      <description>Office: Stars of Valor Fellowships Program | Location: Columbus, OH | Affiliation: Republican | The Senate has established the Stars of Valor Fellowships Program for wounded and disabled veterans; family members of Armed Forces servicemembers who die in the line of duty or veterans who die of se...</description>
-      <guid isPermaLink="false">senate-575</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
       <category>Constituent Services</category>
     </item>
   </channel>
