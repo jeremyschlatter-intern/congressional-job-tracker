@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sun, 06 Sep 2026 23:32:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 17:36:42 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Digital Communications Specialist #50 - U.S. Senate</title>
@@ -383,28 +383,28 @@
       <category>House Support</category>
     </item>
     <item>
-      <title>Press Secretary/Deputy Press Secretary - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/press-secretary-deputy-press-secretary-washington-district-of-columbia-1103</link>
-      <description>Office: Senator Gary C. Peters | Location: Washington, DC | Affiliation: Democratic | The Office of U.S. Senator Gary C. Peters seeks a Press Secretary or Deputy Press Secretary in the Washington, DC office. Responsibilities include: drafting press releases, advisories, talking points,...</description>
-      <guid isPermaLink="false">senate-587</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
-      <title>Director of Scheduling - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/director-of-scheduling-washington-district-of-columbia-1102</link>
-      <description>Office: Senator Michael F. Bennet | Location: Washington, DC | Affiliation: Democratic | Colorado Senator Michael Bennet seeks a detail-oriented and highly organized individual to serve as Director of Scheduling. The Director of Scheduling reports to the Chief of Staff and supervises an A...</description>
-      <guid isPermaLink="false">senate-586</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
-    </item>
-    <item>
       <title>Press Secretary - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/press-secretary-washington-district-of-columbia-1101</link>
       <description>Office: Senator Cory A. Booker | Location: Washington, DC | Affiliation: Democratic | Senator Cory A. Booker's office is hiring a Press Secretary to serve as the primary on-the-record spokesperson in a fast-paced, high-volume DC-based communications office. This is not an entry-level p...</description>
       <guid isPermaLink="false">senate-585</guid>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Communications Intern - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/communications-intern-washington-district-of-columbia-1100</link>
+      <description>Office: Senator Cory A. Booker | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Cory A. Booker is looking for a dynamic, driven Communications Intern to join our fast‑paced press team and help power an exciting, high‑energy communications operation. The inte...</description>
+      <guid isPermaLink="false">senate-584</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Field Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/field-assistant-casper-wyoming-1098</link>
+      <description>Office: Senator John Barrasso | Location: Casper, WY | Affiliation: Republican | Senator Barrasso has an immediate opening for a Field Assistant in his Casper, WY office. Duties include, but are not limited to: answering phones, greeting visitors, and facilitating correspondence a...</description>
+      <guid isPermaLink="false">senate-582</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
     </item>
   </channel>
 </rss>
