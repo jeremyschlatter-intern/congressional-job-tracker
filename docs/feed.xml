@@ -4,8 +4,24 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Tue, 08 Sep 2026 16:26:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 23:53:02 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Special Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/special-assistant-washington-district-of-columbia-1157</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | Northeast Democratic Senator seeks a resourceful and team-oriented Special Assistant with immediate availability for their Washington, DC office. The Special Assistant will join an active Scheduling t...</description>
+      <guid isPermaLink="false">senate-653</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
+    </item>
+    <item>
+      <title>Spring 2027 Communications Internship - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/spring-2027-communications-internship-washington-district-of-columbia-1156</link>
+      <description>Office: Senator Patty Murray | Location: Washington, DC | Affiliation: Democratic | Senator Patty Murray is accepting applications for a paid, full-time communications internship for the spring 2027 semester. Communications interns work closely with the communications team and help c...</description>
+      <guid isPermaLink="false">senate-652</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
     <item>
       <title>Staff Assistant - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-1155</link>
@@ -389,22 +405,6 @@
       <guid isPermaLink="false">house-118</guid>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4113?c=house</link>
-      <description>Office: House Support Offices | Location: High Point, NC</description>
-      <guid isPermaLink="false">house-124</guid>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Press Secretary - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/press-secretary-washington-district-of-columbia-1101</link>
-      <description>Office: Senator Cory A. Booker | Location: Washington, DC | Affiliation: Democratic | Senator Cory A. Booker's office is hiring a Press Secretary to serve as the primary on-the-record spokesperson in a fast-paced, high-volume DC-based communications office. This is not an entry-level p...</description>
-      <guid isPermaLink="false">senate-585</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
     </item>
   </channel>
 </rss>
