@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Thu, 10 Sep 2026 16:10:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 23:46:58 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Southeastern PA Regional Representative (PA) - U.S. Senate</title>
@@ -135,6 +135,22 @@
       <category>Administrative</category>
     </item>
     <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5596?c=house</link>
+      <description>Office: House Support Offices | Location: San Rafael, CA</description>
+      <guid isPermaLink="false">house-659</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Nurse - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5597?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-658</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
       <title>Constituent Services Liaison - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/constituent-services-liaison-austin-texas-1144</link>
       <description>Office: Senator Ted Cruz | Location: Austin, TX | Affiliation: Republican | Senator Ted Cruz (R-TX) is seeking a Constituent Services Liaison to join his Austin, TX office. Job Summary: Serves as a liaison to federal agencies on behalf of the Senator and his constituents. Man...</description>
@@ -225,7 +241,7 @@
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5464?c=house</link>
-      <description>Office: House Support Offices | Location: Reading, PA</description>
+      <description>Office: House Support Offices | Location: PA</description>
       <guid isPermaLink="false">house-457</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
@@ -387,22 +403,6 @@
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3721?c=house</link>
       <description>Office: House Support Offices | Location: Cheyenne, WY</description>
       <guid isPermaLink="false">house-109</guid>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4039?c=house</link>
-      <description>Office: House Support Offices | Location: Boone, NC</description>
-      <guid isPermaLink="false">house-107</guid>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4043?c=house</link>
-      <description>Office: House Support Offices | Location: Mayodan, NC</description>
-      <guid isPermaLink="false">house-106</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
