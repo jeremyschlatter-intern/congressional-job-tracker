@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Fri, 11 Sep 2026 16:14:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 23:55:08 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Southeastern PA Regional Representative (PA) - U.S. Senate</title>
@@ -133,6 +133,14 @@
       <guid isPermaLink="false">senate-638</guid>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
+    </item>
+    <item>
+      <title>Legislative Assistant for Agriculture, Water – Office of Senator Adam Schiff - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legislative-assistant-for-agriculture-water-office-of-senator-adam-schiff-washington-district-of-columbia-1161</link>
+      <description>Office: Senator Adam B. Schiff | Location: Washington, DC | Affiliation: Democratic | Legislative Assistant for Agriculture, Water – Office of Senator Adam Schiff The Office of Senator Adam Schiff is seeking a Legislative Assistant to cover agriculture, nutrition, water, and rural deve...</description>
+      <guid isPermaLink="false">senate-660</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
@@ -395,14 +403,6 @@
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3700?c=house</link>
       <description>Office: House Support Offices | Location: Bountiful, UT</description>
       <guid isPermaLink="false">house-110</guid>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3721?c=house</link>
-      <description>Office: House Support Offices | Location: Cheyenne, WY</description>
-      <guid isPermaLink="false">house-109</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
