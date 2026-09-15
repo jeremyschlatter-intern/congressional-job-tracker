@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Mon, 14 Sep 2026 17:57:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 00:21:11 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Southeastern PA Regional Representative (PA) - U.S. Senate</title>
@@ -132,6 +132,30 @@
       <description>Office: Senator John Fetterman | Location: Washington, DC | Affiliation: Democratic | Senator John Fetterman (D-PA) seeks a Staff Assistant in the Washington, D.C. office. The ideal candidate is dependable, detail-oriented, and highly motivated with excellent organizational and communi...</description>
       <guid isPermaLink="false">senate-638</guid>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
+    </item>
+    <item>
+      <title>2027 Spring Law Clerk - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/2027-spring-law-clerk-washington-district-of-columbia-1164</link>
+      <description>Office: Senator Peter Welch | Location: Washington, DC | Affiliation: Democratic | Senator Peter Welch (D-VT), member of the Senate Judiciary Committee, seeks one law clerk for the Spring of 2027. The law clerk will serve on the policy team that manages the Senator’s Judiciary and R...</description>
+      <guid isPermaLink="false">senate-663</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Legal Fellow for the Office of Senator Peter Welch - Fall 2027 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legal-fellow-for-the-office-of-senator-peter-welch-fall-2027-washington-district-of-columbia-1163</link>
+      <description>Office: Senator Peter Welch | Location: Washington, DC | Affiliation: Democratic | Senator Peter Welch (D-VT), a member of the Judiciary Committee, seeks a post-grad legal fellow for a one-year term to start in Fall 2027. This position is ideally suited for a 2027 law school graduat...</description>
+      <guid isPermaLink="false">senate-662</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>NH State Scheduler - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/nh-state-scheduler-manchester-new-hampshire-1162</link>
+      <description>Office: Senator Margaret Wood Hassan | Location: Manchester, NH | Affiliation: Democratic | Senator Maggie Hassan is seeking a New Hampshire scheduler in the Manchester State Office. Applicants must be detail oriented, well organized, able to handle a fast-paced work environment, work well i...</description>
+      <guid isPermaLink="false">senate-661</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
     </item>
     <item>
@@ -380,30 +404,6 @@
       <description>Office: House Support Offices | Location: Tucson, AZ</description>
       <guid isPermaLink="false">house-97</guid>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3586?c=house</link>
-      <description>Office: House Support Offices | Location: Greeley, CO</description>
-      <guid isPermaLink="false">house-114</guid>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3647?c=house</link>
-      <description>Office: House Support Offices | Location: Escondido, CA</description>
-      <guid isPermaLink="false">house-111</guid>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/3700?c=house</link>
-      <description>Office: House Support Offices | Location: Bountiful, UT</description>
-      <guid isPermaLink="false">house-110</guid>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
   </channel>
