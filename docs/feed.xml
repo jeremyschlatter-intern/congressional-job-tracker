@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Tue, 15 Sep 2026 23:59:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 16:34:24 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Southeastern PA Regional Representative (PA) - U.S. Senate</title>
@@ -133,6 +133,30 @@
       <guid isPermaLink="false">senate-638</guid>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
+    </item>
+    <item>
+      <title>Senior Audit and Compliance Analyst - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5601?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-669</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Legislative Correspondent (Health, Education, Labor) - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legislative-correspondent-health-education-labor-washington-district-of-columbia-1169</link>
+      <description>Office: Senator Edward J. Markey | Location: Washington, DC | Affiliation: Democratic | Senator Edward J. Markey (D-MA), a member of the Senate Committee on Health, Education, Labor, and Pensions, and Ranking Member of the Subcommittee on Primary Health and Retirement Security, seeks a L...</description>
+      <guid isPermaLink="false">senate-668</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Counsel/Legislative Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/counsel-legislative-assistant-washington-district-of-columbia-1168</link>
+      <description>Office: Senator Edward J. Markey | Location: Washington, DC | Affiliation: Democratic | Senator Edward J. Markey (D-MA) seeks a Counsel or Legislative Assistant to lead his work on judiciary issues, including voting rights, immigration, civil &amp;amp; human rights, court reform, and gun vio...</description>
+      <guid isPermaLink="false">senate-667</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
     <item>
       <title>Legislative Correspondent - U.S. Senate</title>
@@ -375,36 +399,12 @@
       <category>House Support</category>
     </item>
     <item>
-      <title>Fall 2026 Law Clerks - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/fall-2026-law-clerks-washington-district-of-columbia-1045</link>
-      <description>Office: Homeland Security and Governmental Affairs - Republicans | Location: Washington, DC | Affiliation: Republican | The U.S. Senate Permanent Subcommittee on Investigations office of Chairman Ron Johnson (R-WI) is seeking law clerks for the fall of 2026. The position offers law students the opportunity to gain expe...</description>
-      <guid isPermaLink="false">senate-520</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>Senate Resume Bank - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/senate-resume-bank-washington-district-of-columbia-1018</link>
       <description>Office: Senate Employment Office | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Employment Office is accepting submissions for the 2026 Senate Resume Bank. Individuals interested in entry-level through professional staff opportunities with a Senator or Senate Committee...</description>
       <guid isPermaLink="false">senate-483</guid>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5505?c=house</link>
-      <description>Office: House Support Offices | Location: San Diego, CA</description>
-      <guid isPermaLink="false">house-485</guid>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Senate Sergeant at Arms Talent Network 2026 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/senate-sergeant-at-arms-talent-network-2026-washington-district-of-columbia-0569</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Sergeant at Arms Talent Network is a resume bank that helps us match qualified job seekers to current and future job openings. By submitting your resume, you agree to make your resume visib...</description>
-      <guid isPermaLink="false">senate-8</guid>
-      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
     </item>
   </channel>
 </rss>
