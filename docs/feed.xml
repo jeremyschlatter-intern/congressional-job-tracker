@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 16 Sep 2026 16:34:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 00:10:03 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Southeastern PA Regional Representative (PA) - U.S. Senate</title>
@@ -295,14 +295,6 @@
       <category>House Support</category>
     </item>
     <item>
-      <title>DevOps Engineer II - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4383?c=house</link>
-      <description>Office: House Support Offices | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-299</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4246?c=house</link>
       <description>Office: House Support Offices | Location: Virginia Beach, VA</description>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">senate-483</guid>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5505?c=house</link>
+      <description>Office: House Support Offices | Location: San Diego, CA</description>
+      <guid isPermaLink="false">house-485</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
     </item>
   </channel>
 </rss>
