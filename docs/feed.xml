@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Thu, 17 Sep 2026 16:40:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 23:56:25 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Southeastern PA Regional Representative (PA) - U.S. Senate</title>
@@ -133,6 +133,22 @@
       <guid isPermaLink="false">senate-638</guid>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
+    </item>
+    <item>
+      <title>Legislative Correspondent - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legislative-correspondent-washington-district-of-columbia-1172</link>
+      <description>Office: Senator Ted Cruz | Location: Washington, DC | Affiliation: Republican | Senator Ted Cruz (R-TX) is seeking a Legislative Correspondent (LC) to join his office’s national security team. The LC’s responsibilities would include research, writing, managing relevant constituen...</description>
+      <guid isPermaLink="false">senate-672</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Legislative Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legislative-assistant-washington-district-of-columbia-1171</link>
+      <description>Office: Senator Ted Cruz | Location: Washington, DC | Affiliation: Republican | Senator Ted Cruz (R-TX) is seeking a Legislative Assistant (LA) to join his office’s national security team. The LA will primarily handle issues related to foreign policy and the State Department on b...</description>
+      <guid isPermaLink="false">senate-671</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
     <item>
       <title>Legislative Assistant/Senior Policy Advisor for HELP Committee Portfolio - U.S. Senate</title>
@@ -321,7 +337,7 @@
     <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5464?c=house</link>
-      <description>Office: House Support Offices | Location: PA</description>
+      <description>Office: House Support Offices | Location: Reading, PA</description>
       <guid isPermaLink="false">house-457</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
@@ -389,22 +405,6 @@
       <guid isPermaLink="false">house-531</guid>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5535?c=house</link>
-      <description>Office: House Support Offices | Location: Fleming Island, FL</description>
-      <guid isPermaLink="false">house-524</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Senate Resume Bank - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/senate-resume-bank-washington-district-of-columbia-1018</link>
-      <description>Office: Senate Employment Office | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Employment Office is accepting submissions for the 2026 Senate Resume Bank. Individuals interested in entry-level through professional staff opportunities with a Senator or Senate Committee...</description>
-      <guid isPermaLink="false">senate-483</guid>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
     </item>
   </channel>
 </rss>
