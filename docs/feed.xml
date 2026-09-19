@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sat, 19 Sep 2026 15:42:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 23:55:55 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Southeastern PA Regional Representative (PA) - U.S. Senate</title>
@@ -28,14 +28,6 @@
       <description>Office: Confidential | Location: Washington, DC | Affiliation: Republican | Senior Midwest Republican Senator has an immediate opening for a Staff Assistant position in their Washington, D.C. office. Ideal candidate is a dependable, detail-oriented, and highly-motivated indiv...</description>
       <guid isPermaLink="false">senate-655</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
-    </item>
-    <item>
-      <title>Special Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/special-assistant-washington-district-of-columbia-1157</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | Northeast Democratic Senator seeks a resourceful and team-oriented Special Assistant with immediate availability for their Washington, DC office. The Special Assistant will join an active Scheduling t...</description>
-      <guid isPermaLink="false">senate-653</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
     </item>
     <item>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">house-485</guid>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
+    </item>
+    <item>
+      <title>Senate Sergeant at Arms Talent Network 2026 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/senate-sergeant-at-arms-talent-network-2026-washington-district-of-columbia-0569</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Sergeant at Arms Talent Network is a resume bank that helps us match qualified job seekers to current and future job openings. By submitting your resume, you agree to make your resume visib...</description>
+      <guid isPermaLink="false">senate-8</guid>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
     </item>
   </channel>
 </rss>
