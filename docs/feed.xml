@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sun, 20 Sep 2026 23:53:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 18:05:55 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Southeastern PA Regional Representative (PA) - U.S. Senate</title>
@@ -53,6 +53,22 @@
       <guid isPermaLink="false">senate-642</guid>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Network Technician - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5606?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-676</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Constituent Advocate in South Jersey - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/constituent-advocate-in-south-jersey-south-jersey-new-jersey-1174</link>
+      <description>Office: Senator Andy Kim | Location: South Jersey, NJ | Affiliation: Democratic | Senator Andy Kim seeks a Constituent Advocate in South Jersey to help resolve issues with federal agencies on behalf of constituents. The Constituent Advocate assesses problems and finds solutions in...</description>
+      <guid isPermaLink="false">senate-675</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
     </item>
     <item>
       <title>Legislative Counsel - U.S. Senate</title>
@@ -389,22 +405,6 @@
       <guid isPermaLink="false">senate-483</guid>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5505?c=house</link>
-      <description>Office: House Support Offices | Location: San Diego, CA</description>
-      <guid isPermaLink="false">house-485</guid>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Senate Sergeant at Arms Talent Network 2026 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/senate-sergeant-at-arms-talent-network-2026-washington-district-of-columbia-0569</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Sergeant at Arms Talent Network is a resume bank that helps us match qualified job seekers to current and future job openings. By submitting your resume, you agree to make your resume visib...</description>
-      <guid isPermaLink="false">senate-8</guid>
-      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
     </item>
   </channel>
 </rss>
