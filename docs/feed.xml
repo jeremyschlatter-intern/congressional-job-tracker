@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Mon, 21 Sep 2026 18:05:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 00:37:23 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Southeastern PA Regional Representative (PA) - U.S. Senate</title>
@@ -53,6 +53,38 @@
       <guid isPermaLink="false">senate-642</guid>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5609?c=house</link>
+      <description>Office: House Support Offices | Location: Traverse City, MI</description>
+      <guid isPermaLink="false">house-680</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5610?c=house</link>
+      <description>Office: House Support Offices | Location: Melbourne, FL</description>
+      <guid isPermaLink="false">house-679</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Mail Specialist #499 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/mail-specialist-499-landover-maryland-1176</link>
+      <description>Office: Senate Sergeant at Arms | Location: Landover, MD | Affiliation: Nonpartisan | The Senate Sergeant at Arms (SAA) is currently seeking a highly skilled and dedicated Mail Specialist to join our Senate Post Office team. In this role, you will be responsible for sorting, screening,...</description>
+      <guid isPermaLink="false">senate-678</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
+    </item>
+    <item>
+      <title>Logistics and Operations Specialist #55 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/logistics-and-operations-specialist-55-washington-district-of-columbia-1175</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Sergeant at Arms (SAA) is currently seeking a highly skilled and dedicated Logistics and Operations Specialist to join our Printing Graphics and Direct Mail (PGDM) team. In this role, you w...</description>
+      <guid isPermaLink="false">senate-677</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
     </item>
     <item>
       <title>Network Technician - U.S. House</title>
@@ -372,38 +404,6 @@
       <description>Office: Foreign Relations - Republicans | Location: Washington, DC | Affiliation: Republican | Counsel Committee: U.S. Senate Committee on Foreign Relations -- Republicans Location: Washington, DC Position Type: Full-Time Salary: Commensurate with experience Position Summary The U.S. Senate Com...</description>
       <guid isPermaLink="false">senate-497</guid>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5541?c=house</link>
-      <description>Office: House Support Offices | Location: Long Beach, CA</description>
-      <guid isPermaLink="false">house-532</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5543?c=house</link>
-      <description>Office: House Support Offices | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-531</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5535?c=house</link>
-      <description>Office: House Support Offices | Location: Fleming Island, FL</description>
-      <guid isPermaLink="false">house-524</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Senate Resume Bank - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/senate-resume-bank-washington-district-of-columbia-1018</link>
-      <description>Office: Senate Employment Office | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Employment Office is accepting submissions for the 2026 Senate Resume Bank. Individuals interested in entry-level through professional staff opportunities with a Senator or Senate Committee...</description>
-      <guid isPermaLink="false">senate-483</guid>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
     </item>
   </channel>
