@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 23 Sep 2026 00:03:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 16:34:22 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Southeastern PA Regional Representative (PA) - U.S. Senate</title>
@@ -53,6 +53,14 @@
       <guid isPermaLink="false">senate-642</guid>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Principal Systems Engineer #628 - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/principal-systems-engineer-628-washington-district-of-columbia-1178</link>
+      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Sergeant at Arms is seeking a Principal Systems Engineer to join our Enterprise Systems department. In this role, you will plan, analyze, test, install, troubleshoot, and maintain the integrity of...</description>
+      <guid isPermaLink="false">senate-682</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Senate Support</category>
     </item>
     <item>
       <title>Staff Assistant - U.S. Senate</title>
@@ -295,22 +303,6 @@
       <category>Constituent Services</category>
     </item>
     <item>
-      <title>AI Program Coordinator - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5595?c=house</link>
-      <description>Office: Office of the Clerk | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-654</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Payroll Specialist (Operations) - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5593?c=house</link>
-      <description>Office: Office of the Clerk | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-651</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5589?c=house</link>
       <description>Office: House Support Offices | Location: Tupelo, MS</description>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">senate-497</guid>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5541?c=house</link>
+      <description>Office: House Support Offices | Location: Long Beach, CA</description>
+      <guid isPermaLink="false">house-532</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
     </item>
   </channel>
 </rss>
