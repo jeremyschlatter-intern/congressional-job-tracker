@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Thu, 24 Sep 2026 00:16:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 16:54:30 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Southeastern PA Regional Representative (PA) - U.S. Senate</title>
@@ -53,6 +53,14 @@
       <guid isPermaLink="false">senate-642</guid>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Video Producer/Video Project Manager - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/video-producer-video-project-manager-washington-district-of-columbia-1182</link>
+      <description>Office: Senator Sheldon Whitehouse | Location: Washington, DC | Affiliation: Democratic | Senator Sheldon Whitehouse (D-RI) seeks a talented video storyteller to manage and support editing a long-form documentary project. Responsibilities include project management, research, script editin...</description>
+      <guid isPermaLink="false">senate-687</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
     </item>
     <item>
       <title>Contingency Communications Support Specialist - U.S. House</title>
@@ -397,14 +405,6 @@
       <guid isPermaLink="false">house-419</guid>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
-    </item>
-    <item>
-      <title>Stars of Valor Fellow – Senator Martin Heinrich - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/stars-of-valor-fellow-senator-martin-heinrich-albuquerque-new-mexico-0932</link>
-      <description>Office: Stars of Valor Fellowships Program | Location: Albuquerque, NM | Affiliation: Nonpartisan | The Senate has established the Stars of Valor Fellowships Program for wounded and disabled veterans; family members of Armed Forces servicemembers who die in the line of duty or veterans who die of se...</description>
-      <guid isPermaLink="false">senate-374</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Constituent Services</category>
     </item>
   </channel>
 </rss>
