@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 23 Sep 2026 16:34:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 00:16:10 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Southeastern PA Regional Representative (PA) - U.S. Senate</title>
@@ -53,6 +53,38 @@
       <guid isPermaLink="false">senate-642</guid>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Contingency Communications Support Specialist - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5612?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-686</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Spring 2027 Regional Internship - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/spring-2027-regional-internship-new-york-new-york-1181</link>
+      <description>Office: Senator Kirsten E. Gillibrand | Location: New York, NY | Affiliation: Democratic | U.S. Senator Kirsten E. Gillibrand (D-NY) is currently accepting applications for her spring state office internship program for the upcoming semester. Responsibilities will include, but not be limite...</description>
+      <guid isPermaLink="false">senate-685</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
+    </item>
+    <item>
+      <title>Spring 2027 Legislative Internship - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/spring-2027-legislative-internship-washington-district-of-columbia-1180</link>
+      <description>Office: Senator Kirsten E. Gillibrand | Location: Washington, DC | Affiliation: Democratic | U.S. Senator Kirsten E. Gillibrand (D-NY) is currently accepting applications for her 14-week legislative internship program for the upcoming spring semester in the Washington, DC office. Responsibili...</description>
+      <guid isPermaLink="false">senate-684</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Staff Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-1179</link>
+      <description>Office: Senator Jacky Rosen | Location: Washington, DC | Affiliation: Democratic | Senator Jacky Rosen is seeking a Staff Assistant for her Washington, D.C. office. Nevada ties are required. Successful candidates will have great interpersonal, customer service, time-management skill...</description>
+      <guid isPermaLink="false">senate-683</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
     </item>
     <item>
       <title>Principal Systems Engineer #628 - U.S. Senate</title>
@@ -373,38 +405,6 @@
       <guid isPermaLink="false">senate-374</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
       <category>Constituent Services</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4442?c=house</link>
-      <description>Office: House Support Offices | Location: Santa Fe, NM</description>
-      <guid isPermaLink="false">house-403</guid>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4443?c=house</link>
-      <description>Office: House Support Offices | Location: NM</description>
-      <guid isPermaLink="false">house-402</guid>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
-    </item>
-    <item>
-      <title>Counsel - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/counsel-washington-district-of-columbia-1026</link>
-      <description>Office: Foreign Relations - Republicans | Location: Washington, DC | Affiliation: Republican | Counsel Committee: U.S. Senate Committee on Foreign Relations -- Republicans Location: Washington, DC Position Type: Full-Time Salary: Commensurate with experience Position Summary The U.S. Senate Com...</description>
-      <guid isPermaLink="false">senate-497</guid>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5541?c=house</link>
-      <description>Office: House Support Offices | Location: Long Beach, CA</description>
-      <guid isPermaLink="false">house-532</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
     </item>
   </channel>
 </rss>
