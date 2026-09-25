@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Fri, 25 Sep 2026 00:18:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 16:57:07 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Southeastern PA Regional Representative (PA) - U.S. Senate</title>
@@ -53,6 +53,14 @@
       <guid isPermaLink="false">senate-642</guid>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Press and Staff Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/press-and-staff-assistant-washington-district-of-columbia-1191</link>
+      <description>Office: Senator Jeff Merkley | Location: Washington, DC | Affiliation: Democratic | Senator Merkley seeks a Press and Staff Assistant for his Washington, DC office. Qualified applicants should have prior press experience, be motivated self-starters, detail oriented, highly organized,...</description>
+      <guid isPermaLink="false">senate-696</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
     </item>
     <item>
       <title>Banking-Housing Fellow - U.S. Senate</title>
@@ -397,14 +405,6 @@
       <guid isPermaLink="false">senate-636</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <category>Constituent Services</category>
-    </item>
-    <item>
-      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5589?c=house</link>
-      <description>Office: House Support Offices | Location: Tupelo, MS</description>
-      <guid isPermaLink="false">house-644</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
     </item>
   </channel>
 </rss>
