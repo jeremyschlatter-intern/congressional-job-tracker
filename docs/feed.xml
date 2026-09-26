@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sat, 26 Sep 2026 00:23:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 16:09:15 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Southeastern PA Regional Representative (PA) - U.S. Senate</title>
@@ -13,14 +13,6 @@
       <guid isPermaLink="false">senate-657</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
       <category>Constituent Services</category>
-    </item>
-    <item>
-      <title>Legislative Assistant: Defense, Foreign Policy, and Veterans Affairs - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-assistant-defense-foreign-policy-and-veterans-affairs-washington-district-of-columbia-1159</link>
-      <description>Office: Senator John Fetterman | Location: Washington, DC | Affiliation: Democratic | Senator John Fetterman (D-PA) is seeking a Legislative Assistant to support the Senator’s Defense, Foreign Policy, and Veterans Affairs portfolios. Responsibilities include developing, monitoring, and...</description>
-      <guid isPermaLink="false">senate-656</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
     </item>
     <item>
       <title>Staff Assistant - U.S. Senate</title>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">senate-636</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <category>Constituent Services</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5589?c=house</link>
+      <description>Office: House Support Offices | Location: Tupelo, MS</description>
+      <guid isPermaLink="false">house-644</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
     </item>
   </channel>
 </rss>
