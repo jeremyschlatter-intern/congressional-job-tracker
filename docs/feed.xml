@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sun, 27 Sep 2026 00:19:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 16:45:01 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Southeastern PA Regional Representative (PA) - U.S. Senate</title>
@@ -239,22 +239,6 @@
       <category>Communications</category>
     </item>
     <item>
-      <title>Staff Assistant (State College, PA) - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/staff-assistant-state-college-pa-state-college-pennsylvania-1146</link>
-      <description>Office: Senator John Fetterman | Location: State College, PA | Affiliation: Democratic | U.S. Senator John Fetterman seeks a Staff Assistant in his State College, PA office. The ideal candidate is dependable, detail-oriented, and highly motivated with excellent organizational and communic...</description>
-      <guid isPermaLink="false">senate-639</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
-    </item>
-    <item>
-      <title>Staff Assistant (DC) - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/staff-assistant-dc-washington-district-of-columbia-1145</link>
-      <description>Office: Senator John Fetterman | Location: Washington, DC | Affiliation: Democratic | Senator John Fetterman (D-PA) seeks a Staff Assistant in the Washington, D.C. office. The ideal candidate is dependable, detail-oriented, and highly motivated with excellent organizational and communi...</description>
-      <guid isPermaLink="false">senate-638</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
-    </item>
-    <item>
       <title>Staff Assistant - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-1173</link>
       <description>Office: Banking, Housing, and Urban Affairs - Non-designated | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Committee on Banking, Housing, and Urban Affairs seeks a Staff Assistant to be part of the Committee’s non-designated staff. This individual will be part of the front office team and help d...</description>
@@ -404,6 +388,22 @@
       <description>Office: House Support Offices | Location: Tupelo, MS</description>
       <guid isPermaLink="false">house-644</guid>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Systems Engineer - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5585?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-635</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/4408?c=house</link>
+      <description>Office: House Support Offices | Location: Louisville, KY</description>
+      <guid isPermaLink="false">house-354</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
   </channel>
