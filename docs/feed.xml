@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 30 Sep 2026 01:07:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 17:51:51 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Southeastern PA Regional Representative (PA) - U.S. Senate</title>
@@ -29,6 +29,22 @@
       <guid isPermaLink="false">senate-652</guid>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
+    </item>
+    <item>
+      <title>Legal Fellow - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/legal-fellow-washington-district-of-columbia-1209</link>
+      <description>Office: Homeland Security and Governmental Affairs - Democrats | Location: Washington, DC | Affiliation: Democratic | The Democratic Ranking Member of the Permanent Subcommittee on Investigations is seeking a legal fellow for a one-year term beginning in 2027. The law fellow will assist the Senator’s investigative te...</description>
+      <guid isPermaLink="false">senate-717</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Investigator - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/investigator-washington-district-of-columbia-1208</link>
+      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | New England Democratic Senator seeks an investigator on their Oversight team to work on corruption and white collar crime, consumer protection and antitrust, health care, national security, tax and tr...</description>
+      <guid isPermaLink="false">senate-716</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
     <item>
       <title>Law Fellow - U.S. Senate</title>
@@ -389,22 +405,6 @@
       <guid isPermaLink="false">senate-640</guid>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
-    </item>
-    <item>
-      <title>Staff Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-1173</link>
-      <description>Office: Banking, Housing, and Urban Affairs - Non-designated | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Committee on Banking, Housing, and Urban Affairs seeks a Staff Assistant to be part of the Committee’s non-designated staff. This individual will be part of the front office team and help d...</description>
-      <guid isPermaLink="false">senate-674</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
-    </item>
-    <item>
-      <title>Security Programs Specialist - U.S. House</title>
-      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5602?c=house</link>
-      <description>Office: House Support Offices | Location: Washington, DC</description>
-      <guid isPermaLink="false">house-673</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <category>House Support</category>
     </item>
   </channel>
 </rss>
