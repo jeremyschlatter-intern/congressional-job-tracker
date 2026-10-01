@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Wed, 30 Sep 2026 17:51:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 01:06:22 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Southeastern PA Regional Representative (PA) - U.S. Senate</title>
@@ -28,6 +28,14 @@
       <description>Office: Senator Patty Murray | Location: Washington, DC | Affiliation: Democratic | Senator Patty Murray is accepting applications for a paid, full-time communications internship for the spring 2027 semester. Communications interns work closely with the communications team and help c...</description>
       <guid isPermaLink="false">senate-652</guid>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Communications</category>
+    </item>
+    <item>
+      <title>Spring 2027 Communications/Digital Internship - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/spring-2027-communications-digital-internship-washington-district-of-columbia-1210</link>
+      <description>Office: Senator John W. Hickenlooper | Location: Washington, DC | Affiliation: Democratic | Our Communications/Digital Intern will join an active comms shop with a heavy emphasis on digital presence and strategy in our Washington D.C. office. Responsibilities include editing and filming vide...</description>
+      <guid isPermaLink="false">senate-718</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
     </item>
     <item>
@@ -397,14 +405,6 @@
       <guid isPermaLink="false">senate-641</guid>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Press Fellow – Office of Senator Adam Schiff - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/press-fellow-office-of-senator-adam-schiff-washington-district-of-columbia-1147</link>
-      <description>Office: Senator Adam B. Schiff | Location: Washington, DC | Affiliation: Democratic | Press Fellow – Office of Senator Adam Schiff Senator Adam Schiff seeks a junior communications candidate for a Press Fellow role in a large communications team. This is a paid full-time, one-year fell...</description>
-      <guid isPermaLink="false">senate-640</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
     </item>
   </channel>
 </rss>
