@@ -4,16 +4,8 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Thu, 01 Oct 2026 01:06:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 18:17:34 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Southeastern PA Regional Representative (PA) - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/southeastern-pa-regional-representative-pa-philadelphia-pennsylvania-1160</link>
-      <description>Office: Senator John Fetterman | Location: Philadelphia, PA | Affiliation: Democratic | The Office of U.S. Senator John Fetterman (D-PA) seeks a Regional Representative to conduct community outreach in the Southeastern PA region of Pennsylvania. This position is full time and based in Ph...</description>
-      <guid isPermaLink="false">senate-657</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <category>Constituent Services</category>
-    </item>
     <item>
       <title>Staff Assistant - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-0556</link>
@@ -343,14 +335,6 @@
       <category>Senate Support</category>
     </item>
     <item>
-      <title>Staff Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-1177</link>
-      <description>Office: Senator Jack Reed | Location: Washington, DC | Affiliation: Democratic | The Office of Senator Jack Reed is seeking a Staff Assistant to join a busy front office environment in his Washington, DC office. Responsibilities include handling tour requests, answering and routin...</description>
-      <guid isPermaLink="false">senate-681</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
-    </item>
-    <item>
       <title>Green &amp; Gold Congressional Aide - U.S. House</title>
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5609?c=house</link>
       <description>Office: House Support Offices | Location: Traverse City, MI</description>
@@ -405,6 +389,22 @@
       <guid isPermaLink="false">senate-641</guid>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Staff Assistant - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-1173</link>
+      <description>Office: Banking, Housing, and Urban Affairs - Non-designated | Location: Washington, DC | Affiliation: Nonpartisan | The Senate Committee on Banking, Housing, and Urban Affairs seeks a Staff Assistant to be part of the Committee’s non-designated staff. This individual will be part of the front office team and help d...</description>
+      <guid isPermaLink="false">senate-674</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
+    </item>
+    <item>
+      <title>Security Programs Specialist - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5602?c=house</link>
+      <description>Office: House Support Offices | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-673</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
     </item>
   </channel>
 </rss>
