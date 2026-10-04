@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sat, 03 Oct 2026 16:01:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 00:22:44 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Staff Assistant - U.S. Senate</title>
@@ -51,14 +51,6 @@
       <link>https://careers.employment.senate.gov/job/law-fellow-washington-district-of-columbia-1150</link>
       <description>Office: Senator Richard Blumenthal, Senate Judiciary Committee | Location: Washington, DC | Affiliation: Democratic | Law Fellow Senator Richard Blumenthal (D-CT) is seeking a law fellow for the 2027-28 year to start in September 2027. The law fellow serves on the legislative team that manages the Judiciary Committee...</description>
       <guid isPermaLink="false">senate-643</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Legislative Counsel - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/legislative-counsel-washington-district-of-columbia-1149</link>
-      <description>Office: Senator David McCormick | Location: Washington, DC | Affiliation: Republican | Senator McCormick is seeking a Legislative Counsel to lead their homeland security and Judiciary portfolio. The Counsel will provide policy analysis and guidance on these matters, while also drafting...</description>
-      <guid isPermaLink="false">senate-642</guid>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
     </item>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">senate-671</guid>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Senior Audit and Compliance Analyst - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5601?c=house</link>
+      <description>Office: Office of the Clerk | Location: Washington, DC</description>
+      <guid isPermaLink="false">house-669</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
     </item>
   </channel>
 </rss>
