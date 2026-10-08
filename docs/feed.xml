@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Thu, 08 Oct 2026 01:35:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:42:06 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Staff Assistant - U.S. Senate</title>
@@ -196,14 +196,6 @@
       <description>Office: Senator Mazie K. Hirono | Location: Washington, DC | Affiliation: Democratic | The office of Senator Mazie K. Hirono of Hawaii seeks an experienced Communications Director to lead both press and messaging strategy. This is a senior-level position reporting to the Chief of Staff....</description>
       <guid isPermaLink="false">senate-697</guid>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
-      <title>Press and Staff Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/press-and-staff-assistant-washington-district-of-columbia-1191</link>
-      <description>Office: Senator Jeff Merkley | Location: Washington, DC | Affiliation: Democratic | Senator Merkley seeks a Press and Staff Assistant for his Washington, DC office. Qualified applicants should have prior press experience, be motivated self-starters, detail oriented, highly organized,...</description>
-      <guid isPermaLink="false">senate-696</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
       <category>Communications</category>
     </item>
     <item>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">senate-662</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>NH State Scheduler - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/nh-state-scheduler-manchester-new-hampshire-1162</link>
+      <description>Office: Senator Margaret Wood Hassan | Location: Manchester, NH | Affiliation: Democratic | Senator Maggie Hassan is seeking a New Hampshire scheduler in the Manchester State Office. Applicants must be detail oriented, well organized, able to handle a fast-paced work environment, work well i...</description>
+      <guid isPermaLink="false">senate-661</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Administrative</category>
     </item>
   </channel>
 </rss>
