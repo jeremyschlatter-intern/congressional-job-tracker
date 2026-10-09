@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Fri, 09 Oct 2026 01:46:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 18:12:54 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Staff Assistant - U.S. Senate</title>
@@ -53,14 +53,6 @@
       <guid isPermaLink="false">senate-643</guid>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Staff Assistant - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/staff-assistant-washington-district-of-columbia-1207</link>
-      <description>Office: Senator Alex Padilla | Location: Washington, DC | Affiliation: Democratic | Senator Alex Padilla seeks a Staff Assistant in the Washington, DC office. Ideal candidate is dependable, detail-oriented, and highly-motivated individual with excellent organizational and oral and wr...</description>
-      <guid isPermaLink="false">senate-715</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
     </item>
     <item>
       <title>Policy Advisor – Banking, Housing, And Consumer Protection - U.S. Senate</title>
@@ -405,6 +397,14 @@
       <guid isPermaLink="false">senate-661</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
       <category>Administrative</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5596?c=house</link>
+      <description>Office: House Support Offices | Location: San Rafael, CA</description>
+      <guid isPermaLink="false">house-659</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
     </item>
   </channel>
 </rss>
