@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sat, 10 Oct 2026 17:11:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 00:42:15 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Spring 2027 Communications Internship - U.S. Senate</title>
@@ -157,30 +157,6 @@
       <guid isPermaLink="false">senate-695</guid>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Spring 2027 Legislative/General Internship - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/spring-2027-legislative-general-internship-washington-district-of-columbia-1189</link>
-      <description>Office: Senator Alex Padilla | Location: Washington, DC | Affiliation: Democratic | Senator Alex Padilla of California invites applicants for legislative/general internships with his Washington, DC and California offices for the Spring 2027 term. Responsibilities include attending le...</description>
-      <guid isPermaLink="false">senate-694</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Spring 2027 Press Internship - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/spring-2027-press-internship-washington-district-of-columbia-1188</link>
-      <description>Office: Senator Alex Padilla | Location: Washington, DC | Affiliation: Democratic | Senator Alex Padilla of California invites applicants for Spring 2027 press internship. Press interns’ responsibilities include transcribing various news events, congressional hearings and interviews,...</description>
-      <guid isPermaLink="false">senate-693</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <category>Communications</category>
-    </item>
-    <item>
-      <title>Spring 2027 Scheduling Internship - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/spring-2027-scheduling-internship-washington-district-of-columbia-1187</link>
-      <description>Office: Senator Alex Padilla | Location: Washington, DC | Affiliation: Democratic | Senator Alex Padilla of California invites applicants for Spring 2027 scheduling internship. Scheduling interns’ responsibilities include working directly with the Scheduling team to execute the Senat...</description>
-      <guid isPermaLink="false">senate-692</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <category>Administrative</category>
     </item>
     <item>
       <title>Spring 2027 Press Internship - U.S. Senate</title>
@@ -405,6 +381,30 @@
       <guid isPermaLink="false">senate-740</guid>
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
       <category>Constituent Services</category>
+    </item>
+    <item>
+      <title>Spring 2027 Law Clerk - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/spring-2027-law-clerk-washington-district-of-columbia-1230</link>
+      <description>Office: Senator Alex Padilla | Location: Washington, DC | Affiliation: Democratic | Senator Alex Padilla (D-CA) is accepting law clerk applications for the Spring 2027 semester. Applicants must either be currently enrolled in an accredited JD program and be in their 2L or 3L year or...</description>
+      <guid isPermaLink="false">senate-739</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
+    </item>
+    <item>
+      <title>Spring 2027 Pennsylvania Internship - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/spring-2027-pennsylvania-internship-philadelphia-harrisburg-state-college-and-pittsburgh-pennsylvania-1229</link>
+      <description>Office: Senator John Fetterman | Location: Philadelphia,Harrisburg,State College,and Pittsburgh, PA | Affiliation: Democratic | The Office of United States Senator John Fetterman seeks full-time and part-time interns for the spring 2027 semester. Internships with the Office of United States Senator John Fetterman offers studen...</description>
+      <guid isPermaLink="false">senate-738</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <category>Constituent Services</category>
+    </item>
+    <item>
+      <title>Spring 2027 Washington, D.C. Internship - U.S. Senate</title>
+      <link>https://careers.employment.senate.gov/job/spring-2027-washington-d-c-internship-washington-district-of-columbia-1228</link>
+      <description>Office: Senator John Fetterman | Location: Washington, DC | Affiliation: Democratic | The Office of United States Senator John Fetterman seeks full-time and part-time interns for the spring 2027 semester. Internships with the Office of United States Senator John Fetterman offers studen...</description>
+      <guid isPermaLink="false">senate-737</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <category>Legislative / Policy</category>
     </item>
   </channel>
 </rss>
