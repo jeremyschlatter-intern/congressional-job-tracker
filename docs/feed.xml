@@ -4,7 +4,7 @@
     <title>Congressional Job Tracker</title>
     <link>https://jeremyschlatter-intern.github.io/congressional-job-tracker/</link>
     <description>Aggregating employment opportunities across the U.S. Congress</description>
-    <lastBuildDate>Sat, 17 Oct 2026 00:10:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 15:19:06 +0000</lastBuildDate>
     <atom:link href="https://jeremyschlatter-intern.github.io/congressional-job-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Spring 2027 Communications Internship - U.S. Senate</title>
@@ -143,14 +143,6 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>2027 Spring Law Clerk - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/2027-spring-law-clerk-washington-district-of-columbia-1164</link>
-      <description>Office: Senator Peter Welch | Location: Washington, DC | Affiliation: Democratic | Senator Peter Welch (D-VT), member of the Senate Judiciary Committee, seeks one law clerk for the Spring of 2027. The law clerk will serve on the policy team that manages the Senator’s Judiciary and R...</description>
-      <guid isPermaLink="false">senate-663</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>Legal Fellow for the Office of Senator Peter Welch - Fall 2027 - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/legal-fellow-for-the-office-of-senator-peter-welch-fall-2027-washington-district-of-columbia-1163</link>
       <description>Office: Senator Peter Welch | Location: Washington, DC | Affiliation: Democratic | Senator Peter Welch (D-VT), a member of the Judiciary Committee, seeks a post-grad legal fellow for a one-year term to start in Fall 2027. This position is ideally suited for a 2027 law school graduat...</description>
@@ -247,22 +239,6 @@
       <category>Legislative / Policy</category>
     </item>
     <item>
-      <title>Professional Staff/Counsel – Science - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/professional-staff-counsel-science-washington-district-of-columbia-1225</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | The Democratic Ranking Member of a high-profile Senate Committee seeks a qualified candidate to lead the Committee’s work on science and technology policy, including AI, quantum, biotechnology, advanc...</description>
-      <guid isPermaLink="false">senate-734</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Counsel/Professional Staff – Space - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/counsel-professional-staff-space-washington-district-of-columbia-1224</link>
-      <description>Office: Confidential | Location: Washington, DC | Affiliation: Democratic | The Democratic Ranking Member of a high-profile Senate Committee seeks a qualified candidate to lead the Committee’s portfolio on space policy, including civil and commercial space activities. The pos...</description>
-      <guid isPermaLink="false">senate-733</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <category>Legislative / Policy</category>
-    </item>
-    <item>
       <title>Spring 2027 Finance Committee Tax Intern/Law Clerk - U.S. Senate</title>
       <link>https://careers.employment.senate.gov/job/spring-2027-finance-committee-tax-intern-law-clerk-washington-district-of-columbia-1223</link>
       <description>Office: Finance - Democrats | Location: Washington, DC | Affiliation: Democratic | The Senate Committee on Finance Minority office (Ranking Member Wyden) is seeking a full-time intern, fellow, or law clerk to assist the Committee’s tax team for the spring of 2027. Interns, fellows,...</description>
@@ -285,14 +261,6 @@
       <guid isPermaLink="false">senate-730</guid>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
       <category>Legislative / Policy</category>
-    </item>
-    <item>
-      <title>Administrative Coordinator #711 - U.S. Senate</title>
-      <link>https://careers.employment.senate.gov/job/administrative-coordinator-711-washington-district-of-columbia-1220</link>
-      <description>Office: Senate Sergeant at Arms | Location: Washington, DC | Affiliation: Nonpartisan | The Sergeant at Arms is seeking an Administrative Coordinator to provide administrative and operational support within the Human Resources (HR) division. The role ensures the efficient day-to-day func...</description>
-      <guid isPermaLink="false">senate-729</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <category>Senate Support</category>
     </item>
     <item>
       <title>Talent and Development Specialist - U.S. House</title>
@@ -403,6 +371,38 @@
       <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5662?c=house</link>
       <description>Office: House Support Offices | Location: Glen Allen, VA</description>
       <guid isPermaLink="false">house-771</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5663?c=house</link>
+      <description>Office: House Support Offices | Location: Colville, WA</description>
+      <guid isPermaLink="false">house-770</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5664?c=house</link>
+      <description>Office: House Support Offices | Location: VA</description>
+      <guid isPermaLink="false">house-769</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5665?c=house</link>
+      <description>Office: House Support Offices | Location: Spokane, WA</description>
+      <guid isPermaLink="false">house-768</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <category>House Support</category>
+    </item>
+    <item>
+      <title>Green &amp; Gold Congressional Aide - U.S. House</title>
+      <link>https://house.csodfed.com/ux/ats/careersite/3/home/requisition/5666?c=house</link>
+      <description>Office: House Support Offices | Location: San Francisco, CA</description>
+      <guid isPermaLink="false">house-767</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
       <category>House Support</category>
     </item>
